@@ -125,10 +125,28 @@
       "hour": 11,
       "ip_address": "10.220.189.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 8,
+      "session_id": "20250910_130554_070240f6",
+      "twin_id": "ethan",
+      "twin_name": "Ethan",
+      "user_message": "Do you need expert intervention? For example, psychological counselors or teachers...?",
+      "ai_response": "I don't know... like, going to a counselor feels like admitting defeat or something. And what if they tell my parents? Then it'll be this whole big thing, and honestly, I don't want to deal with that.\n\nTeachers... I don't know. Mr. Harrison did say something once about \"respect,\" but it's not like he's watching us every second. Plus, those kids are good at being sneaky. They're not, like, full-on yelling insults or anything. It's all these little digs, you know? I just don't want to make it a bigger deal than it already is, but I also don't want to keep feeling like crap every day. Ugh.\n\nEmotion tag: conflicted and unsure",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-09-11T11:56:01.240741",
+      "response_time_ms": 6169,
+      "message_length": 86,
+      "response_length": 629,
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "ip_address": "10.220.19.248",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-09-11T11:55:05.306471",
-  "total_conversations": 7,
+  "last_updated": "2025-09-11T11:56:01.240850",
+  "total_conversations": 8,
   "twins_chatted": [
     "kaiya",
     "ethan",
