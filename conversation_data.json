@@ -1,0 +1,31 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "session_id": "20250910_130554_070240f6",
+      "twin_id": "kaiya",
+      "twin_name": "Kaiya",
+      "user_message": "1",
+      "ai_response": "School's alright, I guess. I mean, the people are pretty cool, and my teachers aren't, like, *awful*. It's just... the work, you know? It never ends.\n\nEmotion tag: kinda ok",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-09-11T11:30:36.148883",
+      "response_time_ms": 1073,
+      "message_length": 1,
+      "response_length": 172,
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "ip_address": "10.220.248.40",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    }
+  ],
+  "last_updated": "2025-09-11T11:30:36.149011",
+  "total_conversations": 1,
+  "twins_chatted": [
+    "kaiya"
+  ],
+  "scenarios_used": [
+    "neutral"
+  ],
+  "version": "4.0"
+}
