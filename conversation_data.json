@@ -71,16 +71,36 @@
       "hour": 11,
       "ip_address": "10.220.229.224",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 5,
+      "session_id": "20250910_130554_070240f6",
+      "twin_id": "ethan",
+      "twin_name": "Ethan",
+      "user_message": "Hi Ethan! How are you feeling today",
+      "ai_response": "Ugh, hey. I'm alright, I guess. Just trying to make it through the day.\n\nEmotion tag: trying to be chill",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-09-11T11:52:46.174315",
+      "response_time_ms": 1584,
+      "message_length": 35,
+      "response_length": 104,
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "ip_address": "10.220.229.225",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-09-11T11:51:56.600237",
-  "total_conversations": 4,
+  "last_updated": "2025-09-11T11:52:46.174423",
+  "total_conversations": 5,
   "twins_chatted": [
     "kaiya",
+    "ethan",
     "mateo"
   ],
   "scenarios_used": [
-    "neutral"
+    "neutral",
+    "toxic"
   ],
   "version": "4.0"
 }
