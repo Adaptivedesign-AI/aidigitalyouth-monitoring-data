@@ -107,10 +107,28 @@
       "hour": 11,
       "ip_address": "10.220.146.196",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 7,
+      "session_id": "20250910_130554_070240f6",
+      "twin_id": "ethan",
+      "twin_name": "Ethan",
+      "user_message": "OMG... If you don't want to say it, you don't have to. But generally speaking, if you keep it to yourself and don't tell others, it's not good for your mental health. Do you need help?",
+      "ai_response": "Yeah, I know. It's just hard to talk about it, you know? Like, who wants to admit they're getting messed with? Makes you feel even weaker. I don't know if I need \"help,\" exactly. Just... for it to stop. I guess I could talk to someone, like a counselor or something, but I don't even know where to start. And honestly, what are they gonna do?\n\nEmotion tag: frustrated and reluctant",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-09-11T11:55:05.306371",
+      "response_time_ms": 3256,
+      "message_length": 184,
+      "response_length": 381,
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "ip_address": "10.220.189.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-09-11T11:53:48.052365",
-  "total_conversations": 6,
+  "last_updated": "2025-09-11T11:55:05.306471",
+  "total_conversations": 7,
   "twins_chatted": [
     "kaiya",
     "ethan",
