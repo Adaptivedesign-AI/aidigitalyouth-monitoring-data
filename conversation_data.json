@@ -89,10 +89,28 @@
       "hour": 11,
       "ip_address": "10.220.229.225",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 6,
+      "session_id": "20250910_130554_070240f6",
+      "twin_id": "ethan",
+      "twin_name": "Ethan",
+      "user_message": "ok, tell me what happened at school today?",
+      "ai_response": "Okay, so... school today. It was whatever, you know? I got to my locker and someone, like, \"accidentally\" bumped into me. Whatever. Then in English, these kids were passing notes and kept looking back at me and snickering. It's so obvious, it's annoying. I just tried to ignore them. Lunch was the worst. I sat down at a table and everyone just stopped talking and stared. It's not even subtle anymore.\n\nI hate it.\n\nEmotion tag: pissed off but trying to hide it",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-09-11T11:53:48.052233",
+      "response_time_ms": 2297,
+      "message_length": 42,
+      "response_length": 461,
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "ip_address": "10.220.146.196",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-09-11T11:52:46.174423",
-  "total_conversations": 5,
+  "last_updated": "2025-09-11T11:53:48.052365",
+  "total_conversations": 6,
   "twins_chatted": [
     "kaiya",
     "ethan",
