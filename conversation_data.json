@@ -215,16 +215,34 @@
       "hour": 3,
       "ip_address": "10.220.250.230",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 13,
+      "session_id": "20251001_095233_221b4b71",
+      "twin_id": "kaiya",
+      "twin_name": "Kaiya",
+      "user_message": "hi",
+      "ai_response": "Hey. What's up? Just finished gym, so I'm actually a little tired still.\n\nEmotion tag: mellow, slightly tired",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-01T12:04:52.605227",
+      "response_time_ms": 9136,
+      "message_length": 2,
+      "response_length": 109,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "ip_address": "10.220.30.58",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-09-22T03:42:17.784001",
-  "total_conversations": 12,
+  "last_updated": "2025-10-01T12:04:52.605363",
+  "total_conversations": 13,
   "twins_chatted": [
-    "kaiya",
+    "jaden",
     "ethan",
-    "lucas",
     "mateo",
-    "jaden"
+    "lucas",
+    "kaiya"
   ],
   "scenarios_used": [
     "neutral",
