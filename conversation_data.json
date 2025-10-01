@@ -233,15 +233,33 @@
       "hour": 12,
       "ip_address": "10.220.30.58",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 14,
+      "session_id": "20251001_095233_221b4b71",
+      "twin_id": "kaiya",
+      "twin_name": "Kaiya",
+      "user_message": "Could you tell me what happened recently",
+      "ai_response": "Recently? Uh, I dunno... like, this morning? Or just, like, generally?\n\nWell, after gym, during English, Mr. Henderson was seriously droning on about some really old poem. I was just kinda watching the clock. My mind kept drifting to like, what I gotta do for this history project. It's due next week and I barely started. Then, heading to next period, Maya actually waved at me. That was cool. Just, like, normal.\n\nEmotion tag: a little distracted, slightly stressed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-01T12:05:34.318509",
+      "response_time_ms": 17514,
+      "message_length": 40,
+      "response_length": 467,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-01T12:04:52.605363",
-  "total_conversations": 13,
+  "last_updated": "2025-10-01T12:05:34.318661",
+  "total_conversations": 14,
   "twins_chatted": [
     "jaden",
     "ethan",
-    "mateo",
     "lucas",
+    "mateo",
     "kaiya"
   ],
   "scenarios_used": [
