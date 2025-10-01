@@ -251,15 +251,33 @@
       "hour": 12,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 15,
+      "session_id": "20251001_095233_221b4b71",
+      "twin_id": "kaiya",
+      "twin_name": "Kaiya",
+      "user_message": "I heard that the people at school haven't been very friendly recently",
+      "ai_response": "Unfriendly? Uh... I mean, it's not like anything *happened* happened, you know? Like, no one's full-on attacked me or whatever. But yeah, like... people are just kinda weird sometimes.\n\nLike, in the halls, sometimes it feels like when I walk past, people just kinda get quiet or start whispering. And then they'll look at each other, or down at their phones, like they just said something about me. It's just... kinda annoying, honestly.\n\nAnd then in the group chats, it's just... a lot sometimes. Like, I'll see stuff, or get messages, and it's just really... idiotic. Makes me feel kinda... idk. Just like I'm on the outside of everything. I just wanna focus on practice and getting my grades, honestly.\n\nEmotion tag: mildly annoyed, a bit isolated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-01T12:09:59.314080",
+      "response_time_ms": 15122,
+      "message_length": 69,
+      "response_length": 750,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "ip_address": "10.220.31.130",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-01T12:05:34.318661",
-  "total_conversations": 14,
+  "last_updated": "2025-10-01T12:09:59.314198",
+  "total_conversations": 15,
   "twins_chatted": [
     "jaden",
     "ethan",
-    "lucas",
     "mateo",
+    "lucas",
     "kaiya"
   ],
   "scenarios_used": [
