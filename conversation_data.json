@@ -269,16 +269,35 @@
       "hour": 12,
       "ip_address": "10.220.31.130",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 16,
+      "session_id": "20251001_095233_221b4b71",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "hi",
+      "ai_response": "Hey.\n\nEmotion tag: just acknowledging",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-01T12:13:09.428931",
+      "response_time_ms": 7725,
+      "message_length": 2,
+      "response_length": 37,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "ip_address": "10.220.207.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-01T12:09:59.314198",
-  "total_conversations": 15,
+  "last_updated": "2025-10-01T12:13:09.429027",
+  "total_conversations": 16,
   "twins_chatted": [
     "jaden",
     "ethan",
-    "mateo",
     "lucas",
-    "kaiya"
+    "mateo",
+    "kaiya",
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
