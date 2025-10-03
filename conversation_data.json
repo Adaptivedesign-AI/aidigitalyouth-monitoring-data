@@ -449,16 +449,34 @@
       "hour": 11,
       "ip_address": "10.220.34.235",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 26,
+      "session_id": "20251003_110506_36978ccb",
+      "twin_id": "jaden",
+      "twin_name": "Jaden",
+      "user_message": "I'm dying of laughter. So answer my question, what's your surname?",
+      "ai_response": "My surname? Dude, what's that even got to do with anything? You're still laughing, like this whole thing is a joke. I just told you I'm Jaden, what more do you need? This is weird.\n\nEmotion tag: suspicious and annoyed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-03T11:36:06.876250",
+      "response_time_ms": 7147,
+      "message_length": 66,
+      "response_length": 217,
+      "day_of_week": "Friday",
+      "hour": 11,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-03T11:35:08.749723",
-  "total_conversations": 25,
+  "last_updated": "2025-10-03T11:36:06.876337",
+  "total_conversations": 26,
   "twins_chatted": [
     "jaden",
-    "mateo",
+    "hana",
     "kaiya",
     "ethan",
-    "hana",
+    "mateo",
     "lucas"
   ],
   "scenarios_used": [
