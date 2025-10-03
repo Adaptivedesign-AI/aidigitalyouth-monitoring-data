@@ -341,16 +341,34 @@
       "hour": 11,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 20,
+      "session_id": "20251003_110506_36978ccb",
+      "twin_id": "jaden",
+      "twin_name": "Jaden",
+      "user_message": "How is it going today",
+      "ai_response": "Eh, it's going. Just trying to get through it, I guess. Had history, which was kinda a drag. Marcus caught me in the hall just now, said what's up, so that was chill. But yeah, honestly, just feeling kinda drained today, y'know?\n\nEmotion tag: kinda drained",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-03T11:31:10.566094",
+      "response_time_ms": 14471,
+      "message_length": 21,
+      "response_length": 256,
+      "day_of_week": "Friday",
+      "hour": 11,
+      "ip_address": "10.220.30.58",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-03T11:05:22.295301",
-  "total_conversations": 19,
+  "last_updated": "2025-10-03T11:31:10.566183",
+  "total_conversations": 20,
   "twins_chatted": [
     "jaden",
-    "mateo",
+    "hana",
     "kaiya",
     "ethan",
-    "hana",
+    "mateo",
     "lucas"
   ],
   "scenarios_used": [
