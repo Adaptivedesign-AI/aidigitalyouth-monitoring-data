@@ -323,16 +323,34 @@
       "hour": 11,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 19,
+      "session_id": "20251003_110506_36978ccb",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hi",
+      "ai_response": "Hey. What's up? Just trying to remember what Coach said about post-workout meals, kinda zoning out.\n\nEmotion tag: kinda focused",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-03T11:05:22.295206",
+      "response_time_ms": 8254,
+      "message_length": 2,
+      "response_length": 127,
+      "day_of_week": "Friday",
+      "hour": 11,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-03T11:04:37.729559",
-  "total_conversations": 18,
+  "last_updated": "2025-10-03T11:05:22.295301",
+  "total_conversations": 19,
   "twins_chatted": [
     "jaden",
-    "hana",
+    "mateo",
     "kaiya",
     "ethan",
-    "mateo",
+    "hana",
     "lucas"
   ],
   "scenarios_used": [
