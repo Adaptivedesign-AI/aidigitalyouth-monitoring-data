@@ -305,21 +305,39 @@
       "hour": 12,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 18,
+      "session_id": "20251003_110422_8899ca86",
+      "twin_id": "kaiya",
+      "twin_name": "Kaiya",
+      "user_message": "hi",
+      "ai_response": "Oh, hey.\n\nEmotion tag: kinda chill",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-03T11:04:37.729435",
+      "response_time_ms": 5685,
+      "message_length": 2,
+      "response_length": 34,
+      "day_of_week": "Friday",
+      "hour": 11,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-01T12:26:06.725590",
-  "total_conversations": 17,
+  "last_updated": "2025-10-03T11:04:37.729559",
+  "total_conversations": 18,
   "twins_chatted": [
     "jaden",
+    "hana",
+    "kaiya",
     "ethan",
     "mateo",
-    "lucas",
-    "kaiya",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
-    "neutral",
-    "toxic"
+    "toxic",
+    "neutral"
   ],
   "version": "4.0"
 }
