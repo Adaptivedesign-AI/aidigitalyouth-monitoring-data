@@ -557,17 +557,35 @@
       "hour": 8,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 32,
+      "session_id": "20251013_223106_a54384e9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hello",
+      "ai_response": "Hey. What's up? Just heading to AP Bio.\n\nEmotion tag: neutral",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-13T22:31:10.611751",
+      "response_time_ms": 690,
+      "message_length": 5,
+      "response_length": 61,
+      "day_of_week": "Monday",
+      "hour": 22,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-13T08:01:16.973870",
-  "total_conversations": 31,
+  "last_updated": "2025-10-13T22:31:10.611861",
+  "total_conversations": 32,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
