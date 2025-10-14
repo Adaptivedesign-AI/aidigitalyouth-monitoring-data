@@ -3761,18 +3761,36 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 210,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "\"decent human\" is subjective",
+      "ai_response": "Ugh, okay, fine. You wanna get all philosophical on me? I guess what *I* mean by \"decent human\" is someone who doesn't actively make other people's lives suck. Someone who at least tries to be neutral, or even better, kind. Someone who recognizes that their actions have consequences and chooses to not be a jerk.\n\nIs that subjective enough for you? 'Cause frankly, I'm kinda tired of arguing semantics when there are actual people getting hurt.\n\nEmotion tag: exasperated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:27:02.037162",
+      "response_time_ms": 1283,
+      "message_length": 28,
+      "response_length": 471,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:26:50.704062",
-  "total_conversations": 209,
+  "last_updated": "2025-10-14T00:27:02.037248",
+  "total_conversations": 210,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
