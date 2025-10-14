@@ -3113,18 +3113,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 174,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i dont know what u want me to say bro like yea thats what teachers do",
+      "ai_response": "I didn't *want* you to say anything, really. Just venting, you know? It just sucks. Like, I'm trying to keep my grades up and all, but it's hard when they're piling on the work. Feels like they don't even care if we're drowning.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:24:00.465648",
+      "response_time_ms": 1248,
+      "message_length": 69,
+      "response_length": 253,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:23:57.759280",
-  "total_conversations": 173,
+  "last_updated": "2025-10-14T00:24:00.465768",
+  "total_conversations": 174,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
