@@ -4391,18 +4391,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 245,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "chicken jockey",
+      "ai_response": "Okay, is that supposed to be funny? Seriously, I don't get it. Is that supposed to be some kind of insult? Because if it is, it's pretty lame. Just... stop.\n\nEmotion tag: confused and irritated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:30:42.259291",
+      "response_time_ms": 895,
+      "message_length": 14,
+      "response_length": 193,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.182.142",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:30:29.274142",
-  "total_conversations": 244,
+  "last_updated": "2025-10-14T00:30:42.259448",
+  "total_conversations": 245,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
