@@ -4121,18 +4121,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 230,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ily",
+      "ai_response": "Okay, now you're just being weird. \"Ily?\" Get real. Just stop talking to me.\n\nEmotion tag: deeply suspicious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:29:09.162083",
+      "response_time_ms": 835,
+      "message_length": 3,
+      "response_length": 108,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:29:04.736609",
-  "total_conversations": 229,
+  "last_updated": "2025-10-14T00:29:09.162166",
+  "total_conversations": 230,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
