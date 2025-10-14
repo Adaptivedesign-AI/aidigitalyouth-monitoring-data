@@ -2735,18 +2735,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 153,
+      "session_id": "20251014_001936_11954aed",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "what do you know about the French Revolution so far?",
+      "ai_response": "Uhhh, not a ton. I know there was like, a king? And people didn't like him? And then, like, the peasants revolted or something. And the guillotine was involved. That's about it, honestly. I probably learned more last year but it's all a blur now.\n\nEmotion tag: blank",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:22:39.143252",
+      "response_time_ms": 1197,
+      "message_length": 52,
+      "response_length": 266,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:22:35.506546",
-  "total_conversations": 152,
+  "last_updated": "2025-10-14T00:22:39.143393",
+  "total_conversations": 153,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
