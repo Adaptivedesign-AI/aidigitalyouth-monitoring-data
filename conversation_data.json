@@ -4751,18 +4751,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    {
+      "id": 265,
+      "session_id": "20251014_003918_d3379e44",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "good",
+      "ai_response": "Good...as in, good *what*? Like, is today good? Am *I* good? This whole week has been garbage, so I don't really get what's \"good\" about it.\n\nEmotion tag: edgy and tired",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:39:24.556426",
+      "response_time_ms": 1008,
+      "message_length": 4,
+      "response_length": 169,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:38:23.982307",
-  "total_conversations": 264,
+  "last_updated": "2025-10-14T00:39:24.556508",
+  "total_conversations": 265,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
