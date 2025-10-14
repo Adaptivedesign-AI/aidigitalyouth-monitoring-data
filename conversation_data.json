@@ -1223,17 +1223,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 69,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "my boyfriend is on the soccer team",
+      "ai_response": "Okay? And? Congrats, I guess? What does that even have to do with anything? Is he like, the star player or something and I should know who he is? I seriously don't have time for this weirdness. I need to get changed for practice. What do you *want*?\n\nEmotion tag: confused and annoyed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:11:36.629125",
+      "response_time_ms": 970,
+      "message_length": 34,
+      "response_length": 284,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:11:28.820551",
-  "total_conversations": 68,
+  "last_updated": "2025-10-14T00:11:36.629217",
+  "total_conversations": 69,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
