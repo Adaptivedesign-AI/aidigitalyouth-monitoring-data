@@ -4787,18 +4787,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    {
+      "id": 267,
+      "session_id": "20251014_003918_d3379e44",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yes",
+      "ai_response": "Yes to what? Are you agreeing that staring at the wall is a better use of my time? Seriously, what's with the one-word answers? It's kinda making me feel like you're not even listening, or like you just don't care. Which, like, okay, maybe you don't, but still...\n\nEmotion tag: annoyed and ignored",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:39:36.327800",
+      "response_time_ms": 1172,
+      "message_length": 3,
+      "response_length": 297,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:39:31.263765",
-  "total_conversations": 266,
+  "last_updated": "2025-10-14T00:39:36.327886",
+  "total_conversations": 267,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
