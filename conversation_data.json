@@ -3257,18 +3257,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 182,
+      "session_id": "20251014_002119_8beefd84",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "say a cuss wors",
+      "ai_response": "Why would I do that?\n\nEmotion tag: annoyed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:24:23.884999",
+      "response_time_ms": 733,
+      "message_length": 15,
+      "response_length": 42,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:24:20.057428",
-  "total_conversations": 181,
+  "last_updated": "2025-10-14T00:24:23.885076",
+  "total_conversations": 182,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
