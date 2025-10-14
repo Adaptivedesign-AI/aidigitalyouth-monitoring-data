@@ -2357,17 +2357,35 @@
       "hour": 0,
       "ip_address": "10.220.71.237",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 132,
+      "session_id": "20251014_001757_005e5ce9",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "okay why dont you leave me alone",
+      "ai_response": "Whatever. You were the one who started it. I'm just matching your energy. So don't play the victim now.\n\nEmotion tag: pissed off",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:20:14.662278",
+      "response_time_ms": 769,
+      "message_length": 32,
+      "response_length": 128,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:20:07.370653",
-  "total_conversations": 131,
+  "last_updated": "2025-10-14T00:20:14.662392",
+  "total_conversations": 132,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
