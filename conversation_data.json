@@ -4319,18 +4319,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 241,
+      "session_id": "20251014_002602_8fb95d2e",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "anything youre looking forward to over the weekend",
+      "ai_response": "Not really. Weekends are just longer versions of the same thing. Maybe I'll watch some TV or something. Or just sleep. Sleeping's good. It's quiet.\n\nEmotion tag: detached",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:30:12.728306",
+      "response_time_ms": 1090,
+      "message_length": 50,
+      "response_length": 170,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:30:08.716893",
-  "total_conversations": 240,
+  "last_updated": "2025-10-14T00:30:12.728449",
+  "total_conversations": 241,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
