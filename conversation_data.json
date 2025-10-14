@@ -3419,18 +3419,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 191,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "na ima leave u hanging lmfaoo",
+      "ai_response": "Seriously? You're gonna be *that* guy? Real mature, leaving me on read with a \"lmfaoo.\" Real helpful. Thanks a lot. I guess.\n\nEmotion tag: done",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:25:06.677825",
+      "response_time_ms": 939,
+      "message_length": 29,
+      "response_length": 143,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:24:58.765681",
-  "total_conversations": 190,
+  "last_updated": "2025-10-14T00:25:06.677961",
+  "total_conversations": 191,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
