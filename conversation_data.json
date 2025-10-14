@@ -1421,17 +1421,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 80,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "berkleey gave him scholarship to go",
+      "ai_response": "Wait, Berkeley, as in, UC Berkeley? They gave him a scholarship to go play soccer in Spain? That's wild. Is it like, some special program they have or something? I thought scholarships were for, you know, going to school.\n\nEmotion tag: confused and curious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:12:57.835177",
+      "response_time_ms": 856,
+      "message_length": 35,
+      "response_length": 256,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:12:47.973484",
-  "total_conversations": 79,
+  "last_updated": "2025-10-14T00:12:57.835279",
+  "total_conversations": 80,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
