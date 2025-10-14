@@ -2429,17 +2429,35 @@
       "hour": 0,
       "ip_address": "10.220.71.237",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 136,
+      "session_id": "20251014_001936_11954aed",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "that's true! anything you're looking forward to?",
+      "ai_response": "Not really. I mean, sleeping in, maybe. And I guess there's this new show everyone's talking about, but I'm not even sure I have the energy to watch it. Plus, like, if I watch it, then people at school will expect me to have opinions about it and want to talk about it. It's just easier to not get into it.\n\nEmotion tag: dread",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:20:51.645513",
+      "response_time_ms": 1423,
+      "message_length": 48,
+      "response_length": 326,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:20:34.052634",
-  "total_conversations": 135,
+  "last_updated": "2025-10-14T00:20:51.645630",
+  "total_conversations": 136,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
