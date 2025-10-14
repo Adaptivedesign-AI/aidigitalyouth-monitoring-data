@@ -4805,18 +4805,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    {
+      "id": 268,
+      "session_id": "20251014_003918_d3379e44",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "calm down",
+      "ai_response": "Calm down? Seriously? You're the one giving me the silent treatment and *I'm* the one who needs to calm down? That's... wow. Just wow. Maybe if you actually, like, *said* something, I wouldn't be so... whatever.\n\nEmotion tag: simmering",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:39:46.294609",
+      "response_time_ms": 1102,
+      "message_length": 9,
+      "response_length": 235,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:39:36.327886",
-  "total_conversations": 267,
+  "last_updated": "2025-10-14T00:39:46.294694",
+  "total_conversations": 268,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
