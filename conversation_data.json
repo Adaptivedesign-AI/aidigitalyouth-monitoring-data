@@ -4031,18 +4031,36 @@
       "hour": 0,
       "ip_address": "10.220.48.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 225,
+      "session_id": "20251014_002759_32b5c267",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i get it",
+      "ai_response": "Yeah? Like, what's \"it\" for you? Everyone's got their own stuff, I guess.\n\nEmotion tag: guarded",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:28:41.345385",
+      "response_time_ms": 709,
+      "message_length": 8,
+      "response_length": 95,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:28:35.057668",
-  "total_conversations": 224,
+  "last_updated": "2025-10-14T00:28:41.345477",
+  "total_conversations": 225,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
