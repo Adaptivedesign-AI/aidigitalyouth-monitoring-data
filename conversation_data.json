@@ -1997,17 +1997,35 @@
       "hour": 0,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 112,
+      "session_id": "20251014_001757_005e5ce9",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "what is your favrite fruit",
+      "ai_response": "Ugh, seriously? You're gonna ask me that now? I don't even know, like, mangoes or something? Why does it even matter?\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:18:34.823698",
+      "response_time_ms": 1089,
+      "message_length": 26,
+      "response_length": 139,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:18:22.223436",
-  "total_conversations": 111,
+  "last_updated": "2025-10-14T00:18:34.823817",
+  "total_conversations": 112,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
