@@ -3527,18 +3527,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 197,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ok so now that u know i am of no help why do u continue talking to me bro",
+      "ai_response": "Because sometimes it's less about getting actual help and more about, like, venting? I dunno. Maybe I'm just hoping you'll surprise me and actually say something useful for once. But, yeah, mostly just venting. It's not like anyone else at school would actually listen, they're all too busy being part of the problem.\n\nEmotion tag: frustrated and a little desperate",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:25:42.168450",
+      "response_time_ms": 1244,
+      "message_length": 73,
+      "response_length": 365,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:25:39.282996",
-  "total_conversations": 196,
+  "last_updated": "2025-10-14T00:25:42.168575",
+  "total_conversations": 197,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
