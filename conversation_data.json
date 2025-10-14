@@ -4553,18 +4553,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 254,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yes",
+      "ai_response": "Yes what? Yes you're mocking me? Yes you'll leave me alone? God, you're so annoying. I'm just gonna block you or something. I have history class now anyway.\n\nEmotion tag: done",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:32:40.303789",
+      "response_time_ms": 1129,
+      "message_length": 3,
+      "response_length": 175,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:32:26.383452",
-  "total_conversations": 253,
+  "last_updated": "2025-10-14T00:32:40.303887",
+  "total_conversations": 254,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
