@@ -3977,18 +3977,36 @@
       "hour": 0,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 222,
+      "session_id": "20251014_002759_32b5c267",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "are you depressed",
+      "ai_response": "Ugh, is it that obvious? I mean, yeah, probably. It's not like I'm exactly *thrilled* to be here. Just trying to make it through the day, you know?\n\nEmotion tag: exposed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:28:26.217917",
+      "response_time_ms": 765,
+      "message_length": 17,
+      "response_length": 169,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:28:23.052662",
-  "total_conversations": 221,
+  "last_updated": "2025-10-14T00:28:26.218026",
+  "total_conversations": 222,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
