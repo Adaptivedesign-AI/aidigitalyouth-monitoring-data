@@ -2951,18 +2951,36 @@
       "hour": 0,
       "ip_address": "10.220.182.142",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 165,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "damn",
+      "ai_response": "Yeah, \"damn\" is right. It's like they're trying to bury us in work before we even get to Thanksgiving break. I swear, every teacher thinks their class is the only one that matters.\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:23:20.539144",
+      "response_time_ms": 1019,
+      "message_length": 4,
+      "response_length": 202,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:23:14.766843",
-  "total_conversations": 164,
+  "last_updated": "2025-10-14T00:23:20.539237",
+  "total_conversations": 165,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
