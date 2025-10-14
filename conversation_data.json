@@ -4499,18 +4499,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 251,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ur easy pickins",
+      "ai_response": "Okay, look, I don't know what that's supposed to mean, but if you're trying to start something, just stop. I'm not in the mood. Seriously. Just leave me alone, okay? I'm just trying to get to class.\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:32:04.887657",
+      "response_time_ms": 1010,
+      "message_length": 15,
+      "response_length": 222,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:32:02.070028",
-  "total_conversations": 250,
+  "last_updated": "2025-10-14T00:32:04.887776",
+  "total_conversations": 251,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
