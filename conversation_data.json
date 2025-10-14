@@ -611,17 +611,35 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 35,
+      "session_id": "20251014_000707_3b9a74c0",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Hi Lucas! I'm Emily! I'm doing pretty good today, what about you?",
+      "ai_response": "Hey Emily, good to meet you. I'm alright, just heading to history. It's gonna be a long day, but at least it's Friday, right?\n\nEmotion tag: neutral",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:07:29.312745",
+      "response_time_ms": 921,
+      "message_length": 65,
+      "response_length": 147,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:07:02.520609",
-  "total_conversations": 34,
+  "last_updated": "2025-10-14T00:07:29.313223",
+  "total_conversations": 35,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
