@@ -2825,18 +2825,36 @@
       "hour": 0,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 158,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "rs",
+      "ai_response": "Real shit. Yeah, same. I've got like, three tests next week. Plus that stupid group project in history.\n\nEmotion tag: stressed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:22:58.003427",
+      "response_time_ms": 820,
+      "message_length": 2,
+      "response_length": 126,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:22:51.403926",
-  "total_conversations": 157,
+  "last_updated": "2025-10-14T00:22:58.003502",
+  "total_conversations": 158,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
