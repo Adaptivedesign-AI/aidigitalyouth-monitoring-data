@@ -3275,18 +3275,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 183,
+      "session_id": "20251014_002119_8beefd84",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "word",
+      "ai_response": "Seriously? I'm not gonna just say some random curse word because you told me to. Get a life.\n\nEmotion tag: irritated",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:24:26.455214",
+      "response_time_ms": 746,
+      "message_length": 4,
+      "response_length": 116,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:24:23.885076",
-  "total_conversations": 182,
+  "last_updated": "2025-10-14T00:24:26.455317",
+  "total_conversations": 183,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
