@@ -4265,18 +4265,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 238,
+      "session_id": "20251014_002921_c0536601",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "dont use bad words",
+      "ai_response": "Okay, chill. I'm just saying, math sucks. It's not like I'm dropping F-bombs every other second. Relax, dude.\n\nEmotion tag: annoyed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:29:45.164779",
+      "response_time_ms": 800,
+      "message_length": 18,
+      "response_length": 131,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:29:40.594767",
-  "total_conversations": 237,
+  "last_updated": "2025-10-14T00:29:45.164875",
+  "total_conversations": 238,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
