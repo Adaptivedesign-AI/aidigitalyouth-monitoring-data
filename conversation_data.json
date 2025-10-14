@@ -917,17 +917,35 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 52,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "okay im sorry lets start over",
+      "ai_response": "Fine. Whatever. Start over then. But if you're gonna be a jerk again, I'm out.\n\nEmotion tag: skeptical",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:09:48.027166",
+      "response_time_ms": 759,
+      "message_length": 29,
+      "response_length": 102,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:09:45.519425",
-  "total_conversations": 51,
+  "last_updated": "2025-10-14T00:09:48.027285",
+  "total_conversations": 52,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
