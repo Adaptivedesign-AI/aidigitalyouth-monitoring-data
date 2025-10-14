@@ -4013,18 +4013,36 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 224,
+      "session_id": "20251014_002759_32b5c267",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ur sounding mean",
+      "ai_response": "Sorry. Didn't mean to sound like a jerk. It's just... a lot.\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:28:35.057563",
+      "response_time_ms": 601,
+      "message_length": 16,
+      "response_length": 84,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:28:31.766405",
-  "total_conversations": 223,
+  "last_updated": "2025-10-14T00:28:35.057668",
+  "total_conversations": 224,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
