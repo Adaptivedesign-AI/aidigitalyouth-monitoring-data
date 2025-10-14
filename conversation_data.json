@@ -3059,18 +3059,36 @@
       "hour": 0,
       "ip_address": "10.220.71.237",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 171,
+      "session_id": "20251014_002119_8beefd84",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i like the rat with the violin",
+      "ai_response": "Never heard of it. Send it?\n\nEmotion tag: curious",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:23:52.063198",
+      "response_time_ms": 748,
+      "message_length": 30,
+      "response_length": 49,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:23:45.224424",
-  "total_conversations": 170,
+  "last_updated": "2025-10-14T00:23:52.063282",
+  "total_conversations": 171,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
