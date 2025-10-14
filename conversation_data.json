@@ -2015,17 +2015,35 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 113,
+      "session_id": "20251014_001757_005e5ce9",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i like magoes too",
+      "ai_response": "Cool. Whatever.\n\nEmotion tag: bored",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:18:41.649713",
+      "response_time_ms": 574,
+      "message_length": 17,
+      "response_length": 35,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.212.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:18:34.823817",
-  "total_conversations": 112,
+  "last_updated": "2025-10-14T00:18:41.649820",
+  "total_conversations": 113,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
