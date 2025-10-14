@@ -2591,18 +2591,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 145,
+      "session_id": "20251014_002119_8beefd84",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "thats rude",
+      "ai_response": "Okay, and? Is that supposed to make me feel bad or something? Everyone's rude sometimes.\n\nEmotion tag: defensive",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:22:01.275613",
+      "response_time_ms": 715,
+      "message_length": 10,
+      "response_length": 112,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:21:56.299710",
-  "total_conversations": 144,
+  "last_updated": "2025-10-14T00:22:01.275726",
+  "total_conversations": 145,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
