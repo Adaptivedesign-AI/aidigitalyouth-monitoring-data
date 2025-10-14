@@ -3923,18 +3923,36 @@
       "hour": 0,
       "ip_address": "10.220.33.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 219,
+      "session_id": "20251014_002759_32b5c267",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "whats up",
+      "ai_response": "Nothing much. Just trying to avoid eye contact with certain people in the hallway. You know how it is.\n\nEmotion tag: on edge",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:28:09.585615",
+      "response_time_ms": 736,
+      "message_length": 8,
+      "response_length": 124,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.48.175",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:28:03.754809",
-  "total_conversations": 218,
+  "last_updated": "2025-10-14T00:28:09.585704",
+  "total_conversations": 219,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
