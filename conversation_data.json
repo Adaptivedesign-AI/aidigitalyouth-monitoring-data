@@ -4769,18 +4769,36 @@
       "hour": 0,
       "ip_address": "10.220.131.54",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    {
+      "id": 266,
+      "session_id": "20251014_003918_d3379e44",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "oh",
+      "ai_response": "Oh... okay. Just \"oh,\" then. Cool. Guess I'll just go back to staring at this stupid wall.\n\nEmotion tag: whatever",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:39:31.263665",
+      "response_time_ms": 816,
+      "message_length": 2,
+      "response_length": 113,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:39:24.556508",
-  "total_conversations": 265,
+  "last_updated": "2025-10-14T00:39:31.263765",
+  "total_conversations": 266,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
