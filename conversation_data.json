@@ -1331,17 +1331,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 75,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "he is a goalie but he is aborad rigth now in spain in vinaros",
+      "ai_response": "Whoa, that's intense. A goalie in Spain? What's he doing there? Like, studying abroad or is it something with the team? Vinaros... is that a town? I've never heard of it. That's so random.\n\nEmotion tag: curious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:12:19.934857",
+      "response_time_ms": 983,
+      "message_length": 61,
+      "response_length": 210,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:12:05.208730",
-  "total_conversations": 74,
+  "last_updated": "2025-10-14T00:12:19.934967",
+  "total_conversations": 75,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
