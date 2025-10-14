@@ -4409,18 +4409,36 @@
       "hour": 0,
       "ip_address": "10.220.182.142",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 246,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "maybe if u were w the trends instead of burying ur head in 6..7 books a week then u would have some actual friends",
+      "ai_response": "Wow, okay, thanks for the advice. So, let me get this straight: I should ditch the books I actually enjoy and start obsessing over whatever's trending online so I can be *cool* like you? Nah, I'm good. Friends who like me for who I am are way better than fake ones who only care about what's popular.\n\nEmotion tag: sarcastic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:31:11.741962",
+      "response_time_ms": 1063,
+      "message_length": 114,
+      "response_length": 324,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:30:42.259448",
-  "total_conversations": 245,
+  "last_updated": "2025-10-14T00:31:11.742047",
+  "total_conversations": 246,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
