@@ -971,17 +971,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 55,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "sorry",
+      "ai_response": "Yeah, whatever. It's just... tired of that question, you know? Like, that's all I am?\n\nEmotion tag: defensive",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:10:04.089896",
+      "response_time_ms": 727,
+      "message_length": 5,
+      "response_length": 109,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:09:58.009479",
-  "total_conversations": 54,
+  "last_updated": "2025-10-14T00:10:04.089991",
+  "total_conversations": 55,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
