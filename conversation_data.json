@@ -3725,18 +3725,36 @@
       "hour": 0,
       "ip_address": "10.220.48.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 208,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "bro how can i help",
+      "ai_response": "Alright, alright, chill. I'm not expecting you to like, single-handedly take down the bullies or something. But there are things you can do, you know?\n\nFirst, just...don't join in. Don't laugh at the jokes, don't share the stuff, don't add to the pile-on. That already makes a difference. Then, if you see something happening, even just a quick \"Hey, leave him alone\" can throw them off. Or even just sticking around and being a witness – bullies like to have an audience, but not an audience that might actually *do* something.\n\nAnd look, I know it's scary. I'm not saying put yourself in danger. But even small things, like sending me a message after something happens, just to say \"that sucked,\" makes a difference. It's good to know someone saw it and knows it's messed up. Maybe even just saying something in the group chat like, \"Hey, can we change the subject?\" or something neutral.\n\nBasically, just be a decent human, you know? It's not rocket science.\n\nEmotion tag: cautiously hopeful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:26:43.918314",
+      "response_time_ms": 2326,
+      "message_length": 18,
+      "response_length": 994,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:26:40.465145",
-  "total_conversations": 207,
+  "last_updated": "2025-10-14T00:26:43.918450",
+  "total_conversations": 208,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
