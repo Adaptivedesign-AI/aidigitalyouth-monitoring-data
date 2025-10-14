@@ -1043,17 +1043,35 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 59,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "are we texting or talkign in person",
+      "ai_response": "Uh, texting, I guess? Why?\n\nEmotion tag: confused",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:10:26.355011",
+      "response_time_ms": 763,
+      "message_length": 35,
+      "response_length": 49,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:10:18.202578",
-  "total_conversations": 58,
+  "last_updated": "2025-10-14T00:10:26.355109",
+  "total_conversations": 59,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
