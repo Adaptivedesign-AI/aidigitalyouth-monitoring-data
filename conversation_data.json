@@ -2519,18 +2519,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 141,
+      "session_id": "20251014_001936_11954aed",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I dont think people are thinking that much about it though",
+      "ai_response": "Easy for *you* to say. You don't have to walk the halls at school, feeling like everyone's watching you. Maybe some people aren't paying attention, but the ones who *are*? They're the ones I'm worried about.\n\nEmotion tag: anxious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:21:42.469983",
+      "response_time_ms": 890,
+      "message_length": 58,
+      "response_length": 229,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:21:39.344910",
-  "total_conversations": 140,
+  "last_updated": "2025-10-14T00:21:42.470091",
+  "total_conversations": 141,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
