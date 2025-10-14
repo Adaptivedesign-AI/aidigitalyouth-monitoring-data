@@ -3941,18 +3941,36 @@
       "hour": 0,
       "ip_address": "10.220.48.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 220,
+      "session_id": "20251014_002602_8fb95d2e",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "hmmm I see that for parents for sure!",
+      "ai_response": "Yeah, it's like, they don't *get* it. They think just because they're adults they know everything about what's going on with you. My mom's always saying I need to focus more on school, get better grades, blah blah blah. But it's not that simple, ya know?\n\nEmotion tag: frustrated",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:28:15.613793",
+      "response_time_ms": 1148,
+      "message_length": 37,
+      "response_length": 279,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:28:09.585704",
-  "total_conversations": 219,
+  "last_updated": "2025-10-14T00:28:15.613881",
+  "total_conversations": 220,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
