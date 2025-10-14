@@ -4247,18 +4247,36 @@
       "hour": 0,
       "ip_address": "10.220.48.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 237,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "bro yk u can just close the computer u dont have to talk to me",
+      "ai_response": "Yeah, I know I can close the computer. You think I don't know that? It's not that simple though, is it? It's like, everywhere I go, there's always someone who thinks it's funny to mess with me. Even here.\n\nEmotion tag: tired",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:29:40.594688",
+      "response_time_ms": 1014,
+      "message_length": 62,
+      "response_length": 224,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:29:37.873289",
-  "total_conversations": 236,
+  "last_updated": "2025-10-14T00:29:40.594767",
+  "total_conversations": 237,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
