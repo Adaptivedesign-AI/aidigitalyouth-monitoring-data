@@ -1799,17 +1799,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 101,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i am going to do homework",
+      "ai_response": "Ugh, homework. The worst. What class? Maybe I can help if it's, like, math or something. I'm actually okay at that. Or, like, if it's English, I can pretend to care and give you my SparkNotes version. Haha.\n\nEmotion tag: trying to be helpful",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:15:54.840627",
+      "response_time_ms": 975,
+      "message_length": 25,
+      "response_length": 241,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:15:42.528531",
-  "total_conversations": 100,
+  "last_updated": "2025-10-14T00:15:54.840722",
+  "total_conversations": 101,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
