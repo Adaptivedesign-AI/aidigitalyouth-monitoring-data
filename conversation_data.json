@@ -2627,18 +2627,36 @@
       "hour": 0,
       "ip_address": "10.220.71.237",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 147,
+      "session_id": "20251014_002119_8beefd84",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "you shoudlnt be rude",
+      "ai_response": "Says who? You? I don't really care what people think, tbh. If they don't like it, they can just, like, not talk to me. It's not that hard.\n\nEmotion tag: annoyed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:22:11.790841",
+      "response_time_ms": 941,
+      "message_length": 20,
+      "response_length": 160,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:22:09.976148",
-  "total_conversations": 146,
+  "last_updated": "2025-10-14T00:22:11.790922",
+  "total_conversations": 147,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
