@@ -3221,18 +3221,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 180,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yea idrc",
+      "ai_response": "Cool, cool. So you \"idrc\" that teachers are overloading us with work. Thanks for the support, man. Really feeling the love.\n\nEmotion tag: sarcastic and annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:24:18.534029",
+      "response_time_ms": 941,
+      "message_length": 8,
+      "response_length": 159,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:24:14.287798",
-  "total_conversations": 179,
+  "last_updated": "2025-10-14T00:24:18.534143",
+  "total_conversations": 180,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
