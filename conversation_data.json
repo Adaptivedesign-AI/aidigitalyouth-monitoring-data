@@ -2609,18 +2609,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 146,
+      "session_id": "20251014_001936_11954aed",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I understand. how's your school going, like academics",
+      "ai_response": "Ugh, academics. It's a struggle, honestly. Like, I get mostly B's, so it's not like I'm failing or anything. But it's just… hard to focus, you know? Especially when I'm constantly thinking about everything else. It's like my brain is always somewhere else. And then I get behind, and then I stress out more, and it's just this whole cycle.\n\nI have a test in history tomorrow that I haven't even started studying for. I should probably do that. But, ugh, the thought of it...\n\nEmotion tag: overwhelmed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:22:09.976061",
+      "response_time_ms": 1529,
+      "message_length": 53,
+      "response_length": 500,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:22:01.275726",
-  "total_conversations": 145,
+  "last_updated": "2025-10-14T00:22:09.976148",
+  "total_conversations": 146,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
