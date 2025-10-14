@@ -4643,18 +4643,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    {
+      "id": 259,
+      "session_id": "20251014_003706_4ed02f79",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "so annoying",
+      "ai_response": "Tell me about it. It's like everyone expects you to have your whole life figured out already. And the college apps are a whole other level of stress.\n\nEmotion tag: frustrated",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:37:51.660586",
+      "response_time_ms": 928,
+      "message_length": 11,
+      "response_length": 174,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:37:44.832204",
-  "total_conversations": 258,
+  "last_updated": "2025-10-14T00:37:51.660667",
+  "total_conversations": 259,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
