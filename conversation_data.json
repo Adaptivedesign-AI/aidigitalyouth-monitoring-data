@@ -1637,17 +1637,35 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 92,
+      "session_id": "20251014_000707_3b9a74c0",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "how much is it usually?",
+      "ai_response": "Okay, so \"usually\" is a loaded question, haha. It totally depends on the size of the place, how close we want to be to the lifts, and what kind of amenities we're looking for. Like, a tiny studio way out in Truckee with just the basics could be doable for maybe $150-$200 a night, but a bigger cabin in South Lake Tahoe, with a fireplace and maybe a hot tub? That's gonna be way more, probably $400+.\n\nFor something decent and not too far from the action, I'd say we're probably looking at an average of $250-$350 a night, *minimum*.\n\nEmotion tag: being practical",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:14:34.003153",
+      "response_time_ms": 1614,
+      "message_length": 23,
+      "response_length": 563,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.187.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:14:26.239941",
-  "total_conversations": 91,
+  "last_updated": "2025-10-14T00:14:34.003233",
+  "total_conversations": 92,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
