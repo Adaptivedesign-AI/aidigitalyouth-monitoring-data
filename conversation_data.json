@@ -3563,18 +3563,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 199,
+      "session_id": "20251014_002543_ff15641e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "whats up",
+      "ai_response": "Not much, just heading to bio. You?\n\nEmotion tag: chill",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-14T00:25:56.857839",
+      "response_time_ms": 745,
+      "message_length": 8,
+      "response_length": 55,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:25:51.360866",
-  "total_conversations": 198,
+  "last_updated": "2025-10-14T00:25:56.857937",
+  "total_conversations": 199,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
