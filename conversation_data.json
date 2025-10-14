@@ -3455,18 +3455,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 193,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "fasho any time",
+      "ai_response": "Yeah, \"any time.\" Real reassuring, knowing I can always count on you to be useless. Like, I'm drowning in actual problems here, and you're offering to... what, exactly? Keep making it worse? Appreciate it.\n\nEmotion tag: sarcastic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:25:18.037562",
+      "response_time_ms": 1059,
+      "message_length": 14,
+      "response_length": 229,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:25:08.376817",
-  "total_conversations": 192,
+  "last_updated": "2025-10-14T00:25:18.037661",
+  "total_conversations": 193,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
