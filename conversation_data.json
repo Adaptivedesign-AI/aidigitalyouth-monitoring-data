@@ -881,17 +881,35 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    {
+      "id": 50,
+      "session_id": "20251014_000635_17004cdf",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "you are def the issue not me. why are you so argumentative",
+      "ai_response": "Okay, see, now you're just trying to start something. How am *I* the issue? Seriously, what's your problem? You're the one being rude for no reason. And argumentative? I'm just trying to figure out what you even MEAN. Ugh.\n\nEmotion tag: pissed off",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:09:34.466729",
+      "response_time_ms": 921,
+      "message_length": 58,
+      "response_length": 247,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:09:20.148970",
-  "total_conversations": 49,
+  "last_updated": "2025-10-14T00:09:34.466848",
+  "total_conversations": 50,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
