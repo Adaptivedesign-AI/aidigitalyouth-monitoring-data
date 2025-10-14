@@ -2411,17 +2411,35 @@
       "hour": 0,
       "ip_address": "10.220.187.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 135,
+      "session_id": "20251014_001936_11954aed",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ahhh I see definitely make sure to take care of yourself!",
+      "ai_response": "Yeah, I'll try. Easier said than done, though.\n\nEmotion tag: exhausted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:20:34.052549",
+      "response_time_ms": 694,
+      "message_length": 57,
+      "response_length": 70,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.71.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-14T00:20:23.946781",
-  "total_conversations": 134,
+  "last_updated": "2025-10-14T00:20:34.052634",
+  "total_conversations": 135,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
