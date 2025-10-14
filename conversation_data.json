@@ -3671,18 +3671,36 @@
       "hour": 0,
       "ip_address": "10.220.48.175",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 205,
+      "session_id": "20251014_002242_f8e58561",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yes",
+      "ai_response": "Okay, so... yeah. You know it's wrong. That's a start, I guess. What are you gonna do about it? Just say \"yes\" and then keep being part of the problem? Seriously, I don't get it.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-14T00:26:25.375616",
+      "response_time_ms": 895,
+      "message_length": 3,
+      "response_length": 203,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-14T00:26:19.120534",
-  "total_conversations": 204,
+  "last_updated": "2025-10-14T00:26:25.375717",
+  "total_conversations": 205,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
