@@ -5399,18 +5399,36 @@
       "hour": 0,
       "ip_address": "10.220.205.61",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 301,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yeaa...i get that . it's hard but you can get over whatever issues you may be having along with othes",
+      "ai_response": "I hope so. I just keep picturing that stupid sticker they put on the table in the cafeteria. Like, who even *does* that? It's so middle school. And now I gotta worry about where I sit every day. Just adds to the stress, you know? It's not like I'm gonna fall apart or anything, but it's just...annoying.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:26:32.075693",
+      "response_time_ms": 1395,
+      "message_length": 101,
+      "response_length": 328,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.140.176",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:26:16.805624",
-  "total_conversations": 300,
+  "last_updated": "2025-10-15T00:26:32.075787",
+  "total_conversations": 301,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
