@@ -8261,18 +8261,36 @@
       "hour": 2,
       "ip_address": "10.220.223.20",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 460,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i know",
+      "ai_response": "Yeah, well, knowing and *doing* something about it are two totally different things, right? Like, you *know* the answer to a math problem, but you still gotta *do* the work to get it right. This is...way harder than algebra.\n\nEmotion tag: frustrated and seen",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:11:19.603717",
+      "response_time_ms": 958,
+      "message_length": 6,
+      "response_length": 258,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.223.20",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:11:02.521041",
-  "total_conversations": 459,
+  "last_updated": "2025-10-15T02:11:19.603828",
+  "total_conversations": 460,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
