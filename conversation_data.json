@@ -10151,18 +10151,36 @@
       "hour": 3,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 565,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yeah, I'm sure everyone's first track is garbage. But you learn by doing, and you can't learn if you never start because you'rse scared of what you make",
+      "ai_response": "Okay, but what if it's *extra* garbage? Like, so bad it's actually embarrassing? I already feel like I'm walking around with a giant sign that says \"LOSER\" on my forehead, I don't need to give people more ammo.\n\nAnd it's not just about being scared, it's about being realistic. I don't have the time, the space, or, honestly, the energy to learn how to make music right now. School's already a drag, and home is... well, you know. Adding another thing to the list of stuff I suck at isn't exactly my idea of a good time.\n\nEmotion tag: overwhelmed and insecure",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:24:57.337631",
+      "response_time_ms": 1526,
+      "message_length": 152,
+      "response_length": 559,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:24:23.464590",
-  "total_conversations": 564,
+  "last_updated": "2025-10-15T03:24:57.337747",
+  "total_conversations": 565,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
