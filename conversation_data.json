@@ -7811,18 +7811,36 @@
       "hour": 2,
       "ip_address": "10.220.72.32",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 435,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "mhm i get it school has been draining for me too",
+      "ai_response": "Yeah, draining's one word for it. Feels more like my life force is getting sucked out, little by little, every single day. You know? Like, I walk in, and I can feel everyone staring or whispering, and it just... never stops. Then I gotta try and focus on, like, math? Or whatever. It's impossible.\n\nEmotion tag: suffocating",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:04:55.571579",
+      "response_time_ms": 1339,
+      "message_length": 48,
+      "response_length": 323,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.72.32",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:04:38.037501",
-  "total_conversations": 434,
+  "last_updated": "2025-10-15T02:04:55.571699",
+  "total_conversations": 435,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
