@@ -5237,18 +5237,36 @@
       "hour": 0,
       "ip_address": "10.220.222.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 292,
+      "session_id": "20251015_002458_0770ad16",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "good hbu?",
+      "ai_response": "Fine, I guess. Just got out of history, which is always a drag. Mr. Henderson thinks he's, like, a comedian or something.\n\nEmotion tag: blah",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:25:05.071934",
+      "response_time_ms": 843,
+      "message_length": 9,
+      "response_length": 140,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:24:26.182931",
-  "total_conversations": 291,
+  "last_updated": "2025-10-15T00:25:05.072046",
+  "total_conversations": 292,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
