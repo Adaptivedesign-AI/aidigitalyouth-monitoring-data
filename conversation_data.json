@@ -6371,18 +6371,36 @@
       "hour": 0,
       "ip_address": "10.220.131.54",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 355,
+      "session_id": "20251015_004909_094cee6e",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ahahha totally. Are you looking forward to anything?",
+      "ai_response": "Not really. Just wanna sleep, honestly. Maybe watch some stupid videos to shut my brain off for a bit. You know?\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:50:03.516717",
+      "response_time_ms": 978,
+      "message_length": 52,
+      "response_length": 131,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:49:50.874316",
-  "total_conversations": 354,
+  "last_updated": "2025-10-15T00:50:03.516826",
+  "total_conversations": 355,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
