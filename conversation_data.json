@@ -6101,18 +6101,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 340,
+      "session_id": "20251015_004513_1756f070",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Oh whats wrong?",
+      "ai_response": "Like, nothing's *wrong*, wrong. Just tired, you know? School is...school. Same stuff every day. Plus I didn't sleep great.\n\nEmotion tag: trying to sound normal",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:45:49.534475",
+      "response_time_ms": 974,
+      "message_length": 15,
+      "response_length": 159,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:45:47.275765",
-  "total_conversations": 339,
+  "last_updated": "2025-10-15T00:45:49.534565",
+  "total_conversations": 340,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
