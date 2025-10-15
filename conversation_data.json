@@ -5669,18 +5669,36 @@
       "hour": 0,
       "ip_address": "10.220.179.70",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 316,
+      "session_id": "20251015_003055_be8ef7e0",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yes",
+      "ai_response": "Yeah, exactly. It's like... one thing after another. And everyone just watching.\n\nEmotion tag: drained and pissed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:31:17.797896",
+      "response_time_ms": 710,
+      "message_length": 3,
+      "response_length": 113,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:31:12.639488",
-  "total_conversations": 315,
+  "last_updated": "2025-10-15T00:31:17.798014",
+  "total_conversations": 316,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
