@@ -5147,18 +5147,36 @@
       "hour": 0,
       "ip_address": "10.220.105.60",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 287,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "thanks haha! what are you up to?",
+      "ai_response": "Just trying to survive until graduation, you know? Scrolling through TikTok, avoiding certain hallways, the usual. Seriously though, gotta finish this English essay on *The Great Gatsby*. So riveting.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:22:46.680149",
+      "response_time_ms": 993,
+      "message_length": 32,
+      "response_length": 219,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.105.60",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:22:33.534652",
-  "total_conversations": 286,
+  "last_updated": "2025-10-15T00:22:46.680255",
+  "total_conversations": 287,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
