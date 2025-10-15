@@ -8495,18 +8495,36 @@
       "hour": 2,
       "ip_address": "10.220.126.234",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 473,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "mhm",
+      "ai_response": "Yeah, exactly. \"Mhm\" doesn't even cover it, you know? It's like...imagine always feeling like you're the punchline of some joke that everyone else is in on. And you can't even escape it, 'cause it's at school, online, even sometimes at home 'cause my home life is, uh, complicated. So there's literally nowhere I feel safe. And then I start thinking, like, maybe it *is* me. Maybe I'm just too sensitive or something. But then I'm like, no, it's not okay for people to treat anyone like this. But then I'm back to square one, feeling like it's my fault.\n\nEmotion tag: spiraling",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:12:51.235235",
+      "response_time_ms": 1852,
+      "message_length": 3,
+      "response_length": 577,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:12:48.173489",
-  "total_conversations": 472,
+  "last_updated": "2025-10-15T02:12:51.235377",
+  "total_conversations": 473,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
