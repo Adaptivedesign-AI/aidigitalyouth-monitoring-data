@@ -5525,18 +5525,36 @@
       "hour": 0,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 308,
+      "session_id": "20251015_002518_d31dc257",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Yea try doing that",
+      "ai_response": "Yeah, maybe. I'll see how it goes this week. It's just, if I'm not there for conditioning, I feel like everyone's gonna think I'm slacking off or something. And Coach will definitely notice. He notices *everything*. It's just... ugh. I need to pass history. Like, actually *pass*.\n\nEmotion tag: stressed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:27:47.014510",
+      "response_time_ms": 1076,
+      "message_length": 18,
+      "response_length": 303,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.222.217",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:27:29.688289",
-  "total_conversations": 307,
+  "last_updated": "2025-10-15T00:27:47.014620",
+  "total_conversations": 308,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
