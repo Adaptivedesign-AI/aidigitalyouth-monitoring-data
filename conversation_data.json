@@ -9845,18 +9845,36 @@
       "hour": 3,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 548,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Hi, I'm Kenway, and I'm doing great! How are you doing?",
+      "ai_response": "Meh. Fine, I guess.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:17:55.729977",
+      "response_time_ms": 645,
+      "message_length": 55,
+      "response_length": 38,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.205.61",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:15:13.820718",
-  "total_conversations": 547,
+  "last_updated": "2025-10-15T03:17:55.730094",
+  "total_conversations": 548,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
