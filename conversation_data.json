@@ -6155,18 +6155,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 343,
+      "session_id": "20251015_004513_1756f070",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "fr...highkey wish everything would be a little easier",
+      "ai_response": "Tell me about it. Seriously. Like, I'm over here trying to catch up on sleep I lost from, uh, stuff, and then I still gotta deal with, like, everything else. It's just a lot.\n\nEmotion tag: tired and frustrated",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:46:57.911010",
+      "response_time_ms": 1000,
+      "message_length": 53,
+      "response_length": 209,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:46:45.115642",
-  "total_conversations": 342,
+  "last_updated": "2025-10-15T00:46:57.911142",
+  "total_conversations": 343,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
