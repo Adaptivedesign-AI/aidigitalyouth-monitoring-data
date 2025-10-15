@@ -6983,18 +6983,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 389,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "is that your dream job??",
+      "ai_response": "I mean, \"dream job\" sounds kinda cheesy, but yeah, I guess it is. Being a director or screenwriter, something like that. But it's also, like, super competitive, right? So, I don't know, maybe I'll end up doing something totally different. My dad keeps suggesting business, since it's \"stable.\" Ugh.\n\nEmotion tag: conflicted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:39:32.718049",
+      "response_time_ms": 1105,
+      "message_length": 24,
+      "response_length": 323,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:39:06.672703",
-  "total_conversations": 388,
+  "last_updated": "2025-10-15T01:39:32.718150",
+  "total_conversations": 389,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
