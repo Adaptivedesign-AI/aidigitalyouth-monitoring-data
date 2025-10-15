@@ -6605,18 +6605,36 @@
       "hour": 1,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 368,
+      "session_id": "20251015_012600_85fcdf46",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "How do I overcome procrastination",
+      "ai_response": "Ugh, procrastination. Tell me about it. It's like, I know I need to do something, and then my brain just...doesn't. I guess you just gotta force yourself? Break it down into smaller steps maybe? That's what my mom always tells me, anyway. But does it work? Eh.\n\nEmotion tag: unmotivated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T01:28:46.498399",
+      "response_time_ms": 1273,
+      "message_length": 33,
+      "response_length": 286,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.88.101",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T01:26:43.722734",
-  "total_conversations": 367,
+  "last_updated": "2025-10-15T01:28:46.498539",
+  "total_conversations": 368,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
