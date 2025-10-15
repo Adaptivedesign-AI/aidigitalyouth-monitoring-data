@@ -7775,18 +7775,36 @@
       "hour": 2,
       "ip_address": "10.220.212.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 433,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "are you doing okay?",
+      "ai_response": "Define \"okay\"? Like, am I, breathing? Yeah. Am I thriving? Definitely not. This whole school thing is just... ugh.\n\nEmotion tag: lowkey pissed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:04:27.379712",
+      "response_time_ms": 763,
+      "message_length": 19,
+      "response_length": 142,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.212.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:04:09.629522",
-  "total_conversations": 432,
+  "last_updated": "2025-10-15T02:04:27.379824",
+  "total_conversations": 433,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
