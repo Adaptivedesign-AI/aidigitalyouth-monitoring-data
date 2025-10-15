@@ -5201,18 +5201,36 @@
       "hour": 0,
       "ip_address": "10.220.56.96",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 290,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "have you tried speaking to someone about these issues?",
+      "ai_response": "Like, a teacher or something? Nah. What are they gonna do, suspend the entire senior class? Besides, it's not like I'm getting jumped or anything. It's just… little things. Annoying little things. I can handle it.\n\nEmotion tag: dismissive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:23:54.080526",
+      "response_time_ms": 1263,
+      "message_length": 54,
+      "response_length": 238,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.105.60",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:23:33.427074",
-  "total_conversations": 289,
+  "last_updated": "2025-10-15T00:23:54.080610",
+  "total_conversations": 290,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
