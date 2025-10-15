@@ -10079,18 +10079,36 @@
       "hour": 3,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 561,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "well yah lets talk about dinner; what do you want to eat",
+      "ai_response": "Ugh, I don't even know. I should probably eat something healthy, I guess? Like, a salad or something. But I really just want pizza. Or maybe those ramen noodles that are, like, a million years old in the back of the cupboard. Easy. But also, like, total garbage.\n\nEmotion tag: conflicted",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:23:29.957090",
+      "response_time_ms": 974,
+      "message_length": 56,
+      "response_length": 287,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:23:16.213975",
-  "total_conversations": 560,
+  "last_updated": "2025-10-15T03:23:29.957173",
+  "total_conversations": 561,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
