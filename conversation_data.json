@@ -10025,18 +10025,36 @@
       "hour": 3,
       "ip_address": "10.220.56.96",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 558,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Have you thought about cutting them off?",
+      "ai_response": "Cutting them off? Like, completely? I don't know, I've never really thought about it like that. I mean, where would I even go? I'm only 16. It's not like I can just disappear. Plus, as much as they suck sometimes, they're still my parents. It's messed up, but it's like I still want them to be... different. Better. Even though I know they probably won't be. So, yeah, cutting them off seems kinda impossible, and maybe... maybe I'm still holding onto some stupid hope that things will change.\n\nEmotion tag: trapped and confused",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:22:19.847489",
+      "response_time_ms": 1708,
+      "message_length": 40,
+      "response_length": 528,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.56.96",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:22:00.005961",
-  "total_conversations": 557,
+  "last_updated": "2025-10-15T03:22:19.847580",
+  "total_conversations": 558,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
