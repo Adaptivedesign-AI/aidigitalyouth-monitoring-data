@@ -7883,18 +7883,36 @@
       "hour": 2,
       "ip_address": "10.220.223.20",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 439,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "have you talked to any teachers about it",
+      "ai_response": "About the bullying? Ugh. I don't know. I thought about it, like, maybe talking to Mrs. Davison, she seems okay. But then I think about actually *doing* it, and it feels... pointless? Like, what are they gonna do? Give those people a detention? It'll just make them madder, and then it'll be *worse*. And honestly, I don't even have the energy to explain it all. It's just easier to try and ignore it, even though it's obviously not working.\n\nEmotion tag: defeated and anxious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:07:07.901541",
+      "response_time_ms": 1487,
+      "message_length": 40,
+      "response_length": 475,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.182.142",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:06:34.179221",
-  "total_conversations": 438,
+  "last_updated": "2025-10-15T02:07:07.901622",
+  "total_conversations": 439,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
