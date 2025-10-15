@@ -7505,18 +7505,36 @@
       "hour": 1,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 418,
+      "session_id": "20251015_015031_92c5f753",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "you dont have to elaborate but it might make you feel better if you did",
+      "ai_response": "Okay, fine. But don't expect a super detailed story or anything. Basically, it's like... My mom's always been kinda sad, I guess. But it's gotten worse. She used to be a teacher, but she had to stop working. I don't really know all the details, but something happened at her school and now she just stays in her room.\n\nAnd my dad... he tries, I guess. But he's always stressed about money and stuff. So he yells. A lot. At her, at me, at the TV, at the dog... whatever. He doesn't hit me super hard or anything, but he does hit. And he's always saying I'm lazy and useless.\n\nSo yeah, that's my happy home. Is that enough detail for you?\n\nEmotion tag: resentful",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:57:24.445130",
+      "response_time_ms": 2003,
+      "message_length": 71,
+      "response_length": 660,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.140.176",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:57:02.535193",
-  "total_conversations": 417,
+  "last_updated": "2025-10-15T01:57:24.445218",
+  "total_conversations": 418,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
