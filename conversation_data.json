@@ -9305,18 +9305,36 @@
       "hour": 2,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 518,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Well what else are you up to in high school",
+      "ai_response": "School stuff, mostly. Soccer practice takes up a lot of time, and then there's always homework. I'm trying to keep my grades up, senior year and all that. Hanging out with friends when I can, playing video games sometimes. Nothing too exciting. Why?\n\nEmotion tag: shrug",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:55:40.573489",
+      "response_time_ms": 1132,
+      "message_length": 43,
+      "response_length": 269,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:55:26.351163",
-  "total_conversations": 517,
+  "last_updated": "2025-10-15T02:55:40.573603",
+  "total_conversations": 518,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
