@@ -7073,18 +7073,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 394,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "up to you!",
+      "ai_response": "Ugh, anything *but* me deciding. I'm so bad at making choices. Like, what should I even *do* this weekend? I have homework, obviously, but I also kinda wanna just chill and play video games or something. My friends are probably gonna want to hang out, but I don't even know if I'm in the mood for that. See? I can't even pick something simple. Maybe you pick. What would *you* do if you had a free weekend coming up?\n\nEmotion tag: indecisive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:41:17.289996",
+      "response_time_ms": 1431,
+      "message_length": 10,
+      "response_length": 441,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:41:06.620907",
-  "total_conversations": 393,
+  "last_updated": "2025-10-15T01:41:17.290105",
+  "total_conversations": 394,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
