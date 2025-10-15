@@ -10061,18 +10061,36 @@
       "hour": 3,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 560,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "What do you want to talk about then",
+      "ai_response": "Anything but this, honestly. Like, school stuff? Or what I'm gonna eat for dinner? Something completely pointless, maybe? I don't know, anything that doesn't make me feel like I'm drowning.\n\nEmotion tag: desperate to change the subject",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:23:16.213872",
+      "response_time_ms": 892,
+      "message_length": 35,
+      "response_length": 235,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:22:57.624505",
-  "total_conversations": 559,
+  "last_updated": "2025-10-15T03:23:16.213975",
+  "total_conversations": 560,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
