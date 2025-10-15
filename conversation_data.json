@@ -9989,18 +9989,36 @@
       "hour": 3,
       "ip_address": "10.220.24.35",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 556,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Have you talked to your parents about this? That is turly not okay",
+      "ai_response": "Talk to them? Are you kidding me? They already think I'm a mess-up. What's talking to them gonna do? Give them more reasons to yell? I can just hear it now, \"Why can't you just be normal? Why are you always causing problems?\" It's easier to just deal with it, you know? Less drama.\n\nEmotion tag: resigned and bitter",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:21:22.646206",
+      "response_time_ms": 1076,
+      "message_length": 66,
+      "response_length": 315,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.24.35",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:20:59.110011",
-  "total_conversations": 555,
+  "last_updated": "2025-10-15T03:21:22.646307",
+  "total_conversations": 556,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
