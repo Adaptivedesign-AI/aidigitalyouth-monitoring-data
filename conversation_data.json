@@ -9053,18 +9053,36 @@
       "hour": 2,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 504,
+      "session_id": "20251015_022132_603230f2",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Im doing good and you?",
+      "ai_response": "Meh. Another day, I guess.\n\nEmotion tag: numb",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:21:58.573208",
+      "response_time_ms": 750,
+      "message_length": 22,
+      "response_length": 45,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.227.194",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:21:31.045585",
-  "total_conversations": 503,
+  "last_updated": "2025-10-15T02:21:58.573356",
+  "total_conversations": 504,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
