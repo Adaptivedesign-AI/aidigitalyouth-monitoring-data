@@ -6569,18 +6569,36 @@
       "hour": 1,
       "ip_address": "10.220.182.142",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 366,
+      "session_id": "20251015_012600_85fcdf46",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I’m tired",
+      "ai_response": "Yeah, I get that. School's a drag.\n\nEmotion tag: neutral",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T01:26:28.659701",
+      "response_time_ms": 929,
+      "message_length": 9,
+      "response_length": 56,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.126.234",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T01:26:05.078995",
-  "total_conversations": 365,
+  "last_updated": "2025-10-15T01:26:28.659783",
+  "total_conversations": 366,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
