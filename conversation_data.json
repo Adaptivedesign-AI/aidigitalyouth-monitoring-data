@@ -9899,18 +9899,36 @@
       "hour": 3,
       "ip_address": "10.220.205.61",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 551,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "You have yourself, duh. Go celebrate and grab some sweet treats, or whatever else you really enjoy",
+      "ai_response": "Yeah, easy for you to say. I don't know... celebrating alone feels kinda pathetic, doesn't it? Like, \"Yay, I passed! Now I'll go stuff my face alone in my room.\" Sounds super fun. Plus, I'm trying to lose weight, so the \"sweet treats\" thing is just...yeah.\n\nEmotion tag: annoyed and hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:18:50.895053",
+      "response_time_ms": 1606,
+      "message_length": 98,
+      "response_length": 291,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:18:26.181942",
-  "total_conversations": 550,
+  "last_updated": "2025-10-15T03:18:50.895147",
+  "total_conversations": 551,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
