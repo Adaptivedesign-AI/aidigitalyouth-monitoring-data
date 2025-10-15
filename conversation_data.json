@@ -9161,18 +9161,36 @@
       "hour": 2,
       "ip_address": "10.220.227.194",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 510,
+      "session_id": "20251015_022120_4c4ff65c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Actually you have time right now?",
+      "ai_response": "Right *now*? I'm literally walking to class. I'm gonna be late. What's so important it can't wait like, 20 minutes?\n\nEmotion tag: annoyed and skeptical",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:23:40.416732",
+      "response_time_ms": 995,
+      "message_length": 33,
+      "response_length": 151,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:22:52.324443",
-  "total_conversations": 509,
+  "last_updated": "2025-10-15T02:23:40.416840",
+  "total_conversations": 510,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
