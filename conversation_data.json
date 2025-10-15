@@ -6803,18 +6803,36 @@
       "hour": 1,
       "ip_address": "10.220.179.70",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 379,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "are you guys close?",
+      "ai_response": "Sometimes. I mean, we live in the same house, so... yeah, we're around each other a lot. But close? It depends on the day, I guess. Like, if she needs help with something for school, she'll ask me. Or if I need to borrow her charger 'cause mine died, I'll hit her up. But it's not like we're sharing all our deep, dark secrets or anything. We're siblings, not besties, you know? Plus, she's got her own friends and her own drama. I got mine. It's just easier sometimes to do our own things.\n\nEmotion tag: realistic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:35:16.033739",
+      "response_time_ms": 1682,
+      "message_length": 19,
+      "response_length": 514,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.179.70",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:35:02.253634",
-  "total_conversations": 378,
+  "last_updated": "2025-10-15T01:35:16.033816",
+  "total_conversations": 379,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
