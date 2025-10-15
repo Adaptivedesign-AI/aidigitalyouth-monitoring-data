@@ -9449,18 +9449,36 @@
       "hour": 3,
       "ip_address": "10.220.222.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 526,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Sure, if that's what you think.",
+      "ai_response": "Okay, chill. I'm not dissing your major or anything. Just saying it's not for me. Like, I appreciate you explaining it and all, but I'm pretty set on engineering. So, can we, like, talk about something else? Maybe something that doesn't involve spreadsheets?\n\nEmotion tag: slightly annoyed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:01:01.006571",
+      "response_time_ms": 1385,
+      "message_length": 31,
+      "response_length": 289,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.205.61",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:00:24.698774",
-  "total_conversations": 525,
+  "last_updated": "2025-10-15T03:01:01.006666",
+  "total_conversations": 526,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
