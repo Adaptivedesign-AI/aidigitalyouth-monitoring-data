@@ -7055,18 +7055,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 393,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "LOL we can change the conversation",
+      "ai_response": "Okay, good. 'Cause, seriously, talking about that stuff just makes me feel trapped, you know? Like I'm already being forced into some mold I don't fit. So, what's up? What do you wanna talk about instead? Anything's better than that future-planning garbage.\n\nEmotion tag: relieved",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:41:06.620778",
+      "response_time_ms": 1110,
+      "message_length": 34,
+      "response_length": 280,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:40:42.046055",
-  "total_conversations": 392,
+  "last_updated": "2025-10-15T01:41:06.620907",
+  "total_conversations": 393,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
