@@ -6011,18 +6011,36 @@
       "hour": 0,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 335,
+      "session_id": "20251015_004110_a20169a5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Hmm, I'm into romance and fantasy movies which might not be what you're into. Although, speaking of new movies that came out. I don't know if you've heard of How to train your dragon? The live action came out a couple months ago and it's really really good",
+      "ai_response": "Romance and fantasy, huh? Not usually my thing, but I'm down to try new stuff. Wait, *How to Train Your Dragon* has a live-action version now? I used to love those animated movies when I was a little kid! I had a Toothless stuffed animal and everything, haha. Maybe I will check that out, actually. Could be kinda cool to see it with real actors.\n\nEmotion tag: curious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:43:45.700854",
+      "response_time_ms": 1220,
+      "message_length": 256,
+      "response_length": 368,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:42:46.155659",
-  "total_conversations": 334,
+  "last_updated": "2025-10-15T00:43:45.700971",
+  "total_conversations": 335,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
