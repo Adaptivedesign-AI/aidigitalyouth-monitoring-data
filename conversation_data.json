@@ -8459,18 +8459,36 @@
       "hour": 2,
       "ip_address": "10.220.173.44",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 471,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "youre not crazy i said im listening if you want to talk",
+      "ai_response": "Okay, okay. Thanks, I guess. It's just...hard to even start. Like, it's not one big thing, you know? It's just a million little cuts, all the time. Like, walking down the hall and hearing people whisper stuff. Or seeing some stupid meme in a group chat that's obviously about me. Or even just the way some kids look at me. It builds up. And it makes me feel like I'm always on edge, waiting for the next thing to happen. It's exhausting.\n\nEmotion tag: overwhelmed and raw",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:12:41.779842",
+      "response_time_ms": 1377,
+      "message_length": 55,
+      "response_length": 471,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.126.234",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:12:38.963738",
-  "total_conversations": 470,
+  "last_updated": "2025-10-15T02:12:41.779980",
+  "total_conversations": 471,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
