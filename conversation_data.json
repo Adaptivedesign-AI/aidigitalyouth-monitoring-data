@@ -6911,18 +6911,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 385,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "GROSS?",
+      "ai_response": "Yeah, okay, maybe \"gross\" was a little harsh. But seriously, shared bathrooms are the worst. I'm just picturing, like, hair clumps in the drain and toothpaste everywhere. And people just leaving their towels on the floor... Ugh. I'm gonna pack, like, ten pairs of flip-flops just for the shower.\n\nEmotion tag: slightly disgusted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:37:40.170126",
+      "response_time_ms": 1074,
+      "message_length": 6,
+      "response_length": 328,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:37:30.949066",
-  "total_conversations": 384,
+  "last_updated": "2025-10-15T01:37:40.170244",
+  "total_conversations": 385,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
