@@ -5561,18 +5561,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 310,
+      "session_id": "20251015_002518_d31dc257",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Stay up later tn to study then",
+      "ai_response": "Ugh, easier said than done. My brain is so fried by the time I get home. Like, staying up later just means I stare at the textbook and nothing goes in. Plus, if I don't get enough sleep, my mom starts in about how I need to take care of myself. She means well, but it's just more nagging.\n\nEmotion tag: overwhelmed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:28:27.193823",
+      "response_time_ms": 1182,
+      "message_length": 30,
+      "response_length": 314,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.56.96",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:28:16.653539",
-  "total_conversations": 309,
+  "last_updated": "2025-10-15T00:28:27.193944",
+  "total_conversations": 310,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
