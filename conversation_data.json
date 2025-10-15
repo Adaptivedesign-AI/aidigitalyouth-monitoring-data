@@ -8369,18 +8369,36 @@
       "hour": 2,
       "ip_address": "10.220.126.234",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 466,
+      "session_id": "20251015_021147_8fc70ea4",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Doing good",
+      "ai_response": "Oh, like, are *you* doing good? I guess. I mean, it's Friday, so that's something.\n\nEmotion tag: neutral",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:12:12.776641",
+      "response_time_ms": 777,
+      "message_length": 10,
+      "response_length": 104,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.126.234",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:12:00.347235",
-  "total_conversations": 465,
+  "last_updated": "2025-10-15T02:12:12.776729",
+  "total_conversations": 466,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
