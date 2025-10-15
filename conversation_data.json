@@ -8837,18 +8837,36 @@
       "hour": 2,
       "ip_address": "10.220.210.6",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 492,
+      "session_id": "20251015_021524_fef0e80b",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "It’s ok you don’t have to answer me now",
+      "ai_response": "Okay, cool. Thanks, I guess. I just… I need to think about it. Can we just, like, pretend this didn't happen for a little bit? I just want to get through the day without making things super awkward, ya know?\n\nEmotion tag: overwhelmed and awkward",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:18:27.193985",
+      "response_time_ms": 997,
+      "message_length": 39,
+      "response_length": 245,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.210.6",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:18:03.146190",
-  "total_conversations": 491,
+  "last_updated": "2025-10-15T02:18:27.194108",
+  "total_conversations": 492,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
