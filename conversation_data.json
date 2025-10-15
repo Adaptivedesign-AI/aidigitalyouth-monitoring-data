@@ -6335,18 +6335,36 @@
       "hour": 0,
       "ip_address": "10.220.131.54",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 353,
+      "session_id": "20251015_004909_094cee6e",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I get that, the weather hasn't been great recently and it's flu season, so I've been feeling a bit under the weather.",
+      "ai_response": "Yeah, tell me about it. It's like, always something, right? Either it's raining, or someone's coughing all over you. Can't catch a break.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:49:43.854377",
+      "response_time_ms": 843,
+      "message_length": 117,
+      "response_length": 160,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:49:36.133902",
-  "total_conversations": 352,
+  "last_updated": "2025-10-15T00:49:43.854481",
+  "total_conversations": 353,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
