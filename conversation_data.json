@@ -7091,18 +7091,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 395,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "if i had a free weekend i would probably just hang out with my freinds!",
+      "ai_response": "Yeah, hanging out with friends is usually a good call. Who do you even hang out with, though? Like, do you have a solid group, or is it more like whoever's free kinda thing? I feel like I should be making better plans, but then I just end up scrolling through TikTok for hours.\n\nEmotion tag: procrastinating",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:41:47.050917",
+      "response_time_ms": 1083,
+      "message_length": 71,
+      "response_length": 307,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:41:17.290105",
-  "total_conversations": 394,
+  "last_updated": "2025-10-15T01:41:47.050991",
+  "total_conversations": 395,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
