@@ -5471,18 +5471,36 @@
       "hour": 0,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 305,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "super...youre just more mature than them. do you want me to accompany you to talk to someone?",
+      "ai_response": "Nah, I'm good. Thanks though. I appreciate it, really. But having someone *else* there kinda makes it a bigger deal than it is, you know? Like I'm not capable of handling it myself. And honestly, I'm not even sure who I'd talk to anyway. Maybe if things escalate, I'll consider it, but right now, I just wanna deal with it my own way.\n\nEmotion tag: trying to be chill",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:27:18.247949",
+      "response_time_ms": 1262,
+      "message_length": 93,
+      "response_length": 367,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.56.96",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:27:06.783492",
-  "total_conversations": 304,
+  "last_updated": "2025-10-15T00:27:18.248076",
+  "total_conversations": 305,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
