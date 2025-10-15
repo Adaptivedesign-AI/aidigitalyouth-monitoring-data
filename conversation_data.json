@@ -8873,18 +8873,36 @@
       "hour": 2,
       "ip_address": "10.220.159.114",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 494,
+      "session_id": "20251015_021524_fef0e80b",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Ok sorry to make it weird",
+      "ai_response": "It's fine, whatever. Just...try not to do it again, okay? I'm not good with that kinda thing. It just makes everything harder.\n\nEmotion tag: trying to be chill but lowkey panicking",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:18:42.655805",
+      "response_time_ms": 888,
+      "message_length": 25,
+      "response_length": 180,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.210.6",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:18:34.072876",
-  "total_conversations": 493,
+  "last_updated": "2025-10-15T02:18:42.655898",
+  "total_conversations": 494,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
