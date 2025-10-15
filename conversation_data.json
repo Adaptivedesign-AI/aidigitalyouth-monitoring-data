@@ -5543,18 +5543,36 @@
       "hour": 0,
       "ip_address": "10.220.222.217",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 309,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i get that you're uncomfortable with it, or may feel alone on these things, but everyone is willing to help yk?",
+      "ai_response": "Yeah, I know what you mean. It's just... hard to trust that \"everyone\" actually *is* willing to help, you know? Like, I see those kids in the hallway, the ones who don't say anything but totally see what's going on. Are *they* willing to help? Probably not. So it's like, I know there are people who care, like my parents and maybe some teachers, but it's not like *everyone* is lining up to be my best friend all of a sudden. It feels kinda performative, I guess. Like people say they're there for you, but would they actually *do* something? I dunno.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:28:16.653426",
+      "response_time_ms": 1607,
+      "message_length": 111,
+      "response_length": 576,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:27:47.014620",
-  "total_conversations": 308,
+  "last_updated": "2025-10-15T00:28:16.653539",
+  "total_conversations": 309,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
