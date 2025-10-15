@@ -7577,18 +7577,36 @@
       "hour": 1,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 422,
+      "session_id": "20251015_015031_92c5f753",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "internalized misogyny for sure",
+      "ai_response": "Ugh, yeah, that makes sense. I think everyone kinda goes through that, right? Like, hating on \"girly\" stuff because you think it's dumb or weak? I used to do that all the time. Now I'm just like, wear whatever you want, who cares?\n\nEmotion tag: understanding but also kinda judging",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:58:31.737027",
+      "response_time_ms": 1380,
+      "message_length": 30,
+      "response_length": 281,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.140.176",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:58:16.035523",
-  "total_conversations": 421,
+  "last_updated": "2025-10-15T01:58:31.737121",
+  "total_conversations": 422,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
