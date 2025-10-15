@@ -10043,18 +10043,36 @@
       "hour": 3,
       "ip_address": "10.220.56.96",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 559,
+      "session_id": "20251015_031737_d8f8a08c",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Well if you despise them like you say you do, maybe cutting them off when you turn 18 is the best thing to do",
+      "ai_response": "Maybe. I don't know. Two years is a long time. And \"despise\" is a strong word. It's more like... I'm tired of the disappointment, you know? Tired of hoping they'll be different, and then they're not. So yeah, turning 18 and just leaving sounds good on paper, but who knows where I'll be then? Maybe things will be different by then, even though I doubt it. And even if they're not, it's still my family. Messed up as they are. Ugh, I don't even know why I'm talking about this.\n\nEmotion tag: overwhelmed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:22:57.624397",
+      "response_time_ms": 1732,
+      "message_length": 109,
+      "response_length": 503,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.137.113",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:22:19.847580",
-  "total_conversations": 558,
+  "last_updated": "2025-10-15T03:22:57.624505",
+  "total_conversations": 559,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
