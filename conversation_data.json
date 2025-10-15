@@ -4895,18 +4895,36 @@
       "hour": 0,
       "ip_address": "10.220.65.60",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 273,
+      "session_id": "20251015_001823_57d13c55",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yea i do",
+      "ai_response": "Yeah, just trying to get through it, you know? Same old, same old. You doing anything fun later?\n\nEmotion tag: deflecting",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:19:28.416738",
+      "response_time_ms": 747,
+      "message_length": 8,
+      "response_length": 121,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:18:47.621984",
-  "total_conversations": 272,
+  "last_updated": "2025-10-15T00:19:28.416861",
+  "total_conversations": 273,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
