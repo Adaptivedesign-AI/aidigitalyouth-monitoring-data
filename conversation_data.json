@@ -7487,18 +7487,36 @@
       "hour": 1,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 417,
+      "session_id": "20251015_015031_92c5f753",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "whats going on at home?",
+      "ai_response": "Ugh, do I *have* to? It's the same crap all the time. My parents are always fighting. Like, screaming matches that shake the whole house. And my mom's always down, you know? Like, *really* down. She barely gets out of bed some days. And then my dad just yells more. It's a fun cycle. They also, like, say mean stuff to me, but whatever. I'm used to it.\n\nEmotion tag: trying to sound detached but mostly just tired",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:57:02.535081",
+      "response_time_ms": 1448,
+      "message_length": 23,
+      "response_length": 413,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.140.176",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:56:51.295441",
-  "total_conversations": 416,
+  "last_updated": "2025-10-15T01:57:02.535193",
+  "total_conversations": 417,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
