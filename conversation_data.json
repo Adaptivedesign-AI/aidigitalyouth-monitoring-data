@@ -6479,18 +6479,36 @@
       "hour": 0,
       "ip_address": "10.220.182.142",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 361,
+      "session_id": "20251015_005249_3aaeea25",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I do love watching TV! Do you have any shows you like to watch? As for me, I'll unfortunately be studying for my midterm",
+      "ai_response": "Midterms suck. I hate studying.\n\nUm, yeah, I watch a few things. There's this show, \"Euphoria,\" that's pretty good, but like, kinda dark, you know? And I'm also into \"The 100\" - it's a bit cheesy, but I'm hooked. What kind of stuff are you into? Maybe you can give me some recommendations, since I'm gonna be bored out of my mind this weekend.\n\nEmotion tag: distracted and lowkey wanting to connect",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:53:42.272430",
+      "response_time_ms": 1472,
+      "message_length": 120,
+      "response_length": 398,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.182.142",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:53:13.480409",
-  "total_conversations": 360,
+  "last_updated": "2025-10-15T00:53:42.272521",
+  "total_conversations": 361,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
