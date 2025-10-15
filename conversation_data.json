@@ -6893,18 +6893,36 @@
       "hour": 1,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 384,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hm my college bathroom is pretty gnarly actually its hard to keep clean",
+      "ai_response": "Gross. I'm kinda rethinking this whole \"clean bathroom\" thing. Maybe I'll just embrace the chaos and leave my stuff everywhere on purpose. It'll be like a little piece of home, y'know? A constant reminder of my sister's messiness.\n\nEmotion tag: amused and nostalgic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:37:30.948969",
+      "response_time_ms": 941,
+      "message_length": 71,
+      "response_length": 265,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:36:52.838022",
-  "total_conversations": 383,
+  "last_updated": "2025-10-15T01:37:30.949066",
+  "total_conversations": 384,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
