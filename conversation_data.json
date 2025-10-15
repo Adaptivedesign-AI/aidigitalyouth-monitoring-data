@@ -6389,18 +6389,36 @@
       "hour": 0,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 356,
+      "session_id": "20251015_004909_094cee6e",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Oh yeah, I guess I understand that, I think watching videos definitely make me feel better when i'm in a slump. What type of movies do you like?",
+      "ai_response": "Movies? Uh, I don't know. Whatever's trending on TikTok, I guess. Like, the funny edits people make. Don't really care about the actual movies that much. More about the memes, you know? Keeps me from thinking too hard.\n\nEmotion tag: blank",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:50:40.152646",
+      "response_time_ms": 1157,
+      "message_length": 144,
+      "response_length": 238,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.33.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:50:03.516826",
-  "total_conversations": 355,
+  "last_updated": "2025-10-15T00:50:40.152776",
+  "total_conversations": 356,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
