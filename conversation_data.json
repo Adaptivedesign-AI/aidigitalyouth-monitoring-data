@@ -8423,18 +8423,36 @@
       "hour": 2,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 469,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "okay want do you want me to do about it",
+      "ai_response": "Idk! If I knew, I'd do it myself, wouldn't I? It's not like I *want* to feel like everyone's laughing at me all the time. Maybe just...listen? Or, like, tell me I'm not crazy for feeling this way? God, I don't even know.\n\nEmotion tag: desperate and lost",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:12:25.144092",
+      "response_time_ms": 1012,
+      "message_length": 39,
+      "response_length": 253,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.126.234",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:12:21.418443",
-  "total_conversations": 468,
+  "last_updated": "2025-10-15T02:12:25.144200",
+  "total_conversations": 469,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
