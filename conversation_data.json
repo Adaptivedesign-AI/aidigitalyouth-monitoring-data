@@ -5723,18 +5723,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 319,
+      "session_id": "20251015_003055_be8ef7e0",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Tell the principal or ur parents",
+      "ai_response": "Okay, yeah, like, telling the principal? I don't know... I guess. My parents... I don't even know where they are half the time. And when they ARE around, it's just yelling. Like, they gonna come up to the school yelling? Awesome. That'll make it all better.\n\nEmotion tag: sarcastic and tired",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:31:59.087258",
+      "response_time_ms": 1148,
+      "message_length": 32,
+      "response_length": 291,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:31:42.007089",
-  "total_conversations": 318,
+  "last_updated": "2025-10-15T00:31:59.087392",
+  "total_conversations": 319,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
