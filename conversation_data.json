@@ -7127,18 +7127,36 @@
       "hour": 1,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 397,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i would love to be more included but i just get anxious that im overstepping and that they will get sick of me",
+      "ai_response": "Ugh, I feel that SO hard. The whole \"will they get sick of me\" thing is like a constant background worry. It's especially bad when I see them all talking and laughing in the hall, and I'm just... there. Like, do they even notice I'm around? Or am I just background noise?\n\nIt's like I want to be closer, but then the anxiety just screams at me to stay back. It's exhausting.\n\nEmotion tag: anxious and craving connection",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:42:50.190848",
+      "response_time_ms": 1366,
+      "message_length": 110,
+      "response_length": 419,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:42:20.596102",
-  "total_conversations": 396,
+  "last_updated": "2025-10-15T01:42:50.190937",
+  "total_conversations": 397,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
