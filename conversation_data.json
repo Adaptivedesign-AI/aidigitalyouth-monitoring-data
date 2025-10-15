@@ -4949,18 +4949,36 @@
       "hour": 0,
       "ip_address": "10.220.65.60",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 276,
+      "session_id": "20251015_001823_57d13c55",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "You should study for it",
+      "ai_response": "Yeah, yeah, I know. You sound like my mom, lol. It's just... hard to focus when everyone's being a bunch of jerks. It's like, how am I supposed to remember the Louisiana Purchase when I'm constantly checking my phone to see if someone's posted another stupid meme about me?\n\nEmotion tag: distracted and annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:20:14.632189",
+      "response_time_ms": 1223,
+      "message_length": 23,
+      "response_length": 310,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:19:53.288909",
-  "total_conversations": 275,
+  "last_updated": "2025-10-15T00:20:14.632317",
+  "total_conversations": 276,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
