@@ -6839,18 +6839,36 @@
       "hour": 1,
       "ip_address": "10.220.182.142",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 381,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "aw that makes sense do you ever wish you were closer? i consider my sister to be my favorite perso",
+      "ai_response": "I mean, sometimes it would be cool if we were like, super close and did everything together. Like those siblings you see on TV or whatever. But honestly, that's just not us. It's not that I *don't* like her, it's just... we're different people. And honestly, sometimes I think it's better this way. Less drama, you know? Plus, if we were too close, she'd probably start stealing my clothes.\n\nEmotion tag: neutral",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:35:49.421539",
+      "response_time_ms": 1374,
+      "message_length": 98,
+      "response_length": 412,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.24.35",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:35:21.850054",
-  "total_conversations": 380,
+  "last_updated": "2025-10-15T01:35:49.421618",
+  "total_conversations": 381,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
