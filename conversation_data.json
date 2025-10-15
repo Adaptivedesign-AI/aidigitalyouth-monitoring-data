@@ -7181,18 +7181,36 @@
       "hour": 1,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 400,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "are you sad about it?",
+      "ai_response": "Yeah, duh. Of course, I'm sad about it! What do you think? It sucks feeling like you don't really belong anywhere. Like you're always on the outside looking in. It's not like I go around crying about it all day, but yeah, it gets to me sometimes. Especially when I see other people with their close friends, laughing and having a good time. Makes me wonder what's wrong with me, you know? Why can't I have that?\n\nBut whatever, I guess. It is what it is.\n\nEmotion tag: bummed out",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:43:38.593244",
+      "response_time_ms": 1510,
+      "message_length": 21,
+      "response_length": 478,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:43:28.023270",
-  "total_conversations": 399,
+  "last_updated": "2025-10-15T01:43:38.593386",
+  "total_conversations": 400,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
