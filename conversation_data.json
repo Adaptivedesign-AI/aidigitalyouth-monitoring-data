@@ -9323,18 +9323,36 @@
       "hour": 2,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 519,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I've realized you don't like talking about partying, so I wanted to change the subject. Do you have any questions for me?",
+      "ai_response": "Um... not really. I guess... why did you think I'd be into partying? Just curious.\n\nEmotion tag: mildly curious",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:56:11.437860",
+      "response_time_ms": 1135,
+      "message_length": 121,
+      "response_length": 111,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:55:40.573603",
-  "total_conversations": 518,
+  "last_updated": "2025-10-15T02:56:11.437985",
+  "total_conversations": 519,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
