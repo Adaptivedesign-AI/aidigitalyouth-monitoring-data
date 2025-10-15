@@ -9143,18 +9143,36 @@
       "hour": 2,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 509,
+      "session_id": "20251015_022132_603230f2",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "ok, you should’ve just said you don’t wanna talk about it",
+      "ai_response": "I didn't *want* to talk about it. I thought that was obvious.\n\nEmotion tag: irritated",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:22:52.324317",
+      "response_time_ms": 698,
+      "message_length": 57,
+      "response_length": 85,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.227.194",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:22:34.672279",
-  "total_conversations": 508,
+  "last_updated": "2025-10-15T02:22:52.324443",
+  "total_conversations": 509,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
