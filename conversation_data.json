@@ -5363,18 +5363,36 @@
       "hour": 0,
       "ip_address": "10.220.205.61",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 299,
+      "session_id": "20251015_002458_0770ad16",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "how are you handling pressure?",
+      "ai_response": "Handling pressure? Not great, tbh. I try to just, like, not think about it too much? Which probably isn't the best strategy. I listen to music, that helps sometimes. Or I'll just zone out and scroll through TikTok for hours, which definitely doesn't help in the long run. I guess I should probably talk to someone about it, but who even has time for that?\n\nEmotion tag: overwhelmed and avoidant",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:26:04.223843",
+      "response_time_ms": 1230,
+      "message_length": 30,
+      "response_length": 394,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:26:00.757906",
-  "total_conversations": 298,
+  "last_updated": "2025-10-15T00:26:04.223940",
+  "total_conversations": 299,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
