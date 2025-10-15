@@ -5705,18 +5705,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 318,
+      "session_id": "20251015_003055_be8ef7e0",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Tell the teacher",
+      "ai_response": "Ugh, you think *that's* going to do anything? Seriously? I told a teacher last year when they were calling me names in the hallway and all she said was \"Just ignore them.\" Like that's so easy. Plus, then they just say stuff when the teachers aren't around anyway. It just makes it worse, you know? Then you're a snitch *and* still getting messed with.\n\nEmotion tag: hopeless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:31:42.006992",
+      "response_time_ms": 1366,
+      "message_length": 16,
+      "response_length": 374,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:31:26.435177",
-  "total_conversations": 317,
+  "last_updated": "2025-10-15T00:31:42.007089",
+  "total_conversations": 318,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
