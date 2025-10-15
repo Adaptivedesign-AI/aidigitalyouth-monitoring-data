@@ -7163,18 +7163,36 @@
       "hour": 1,
       "ip_address": "10.220.164.50",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 399,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "do you have any close friends then?",
+      "ai_response": "I mean, I have *friends*. Like, people I hang out with and stuff. But close friends? That's... different. I don't know if I have anyone I can tell everything to, you know? Someone who *gets* it.\n\nThere's this one kid, Maya, who's pretty cool. We're in the same history class and sometimes grab lunch together. She's nice and we can talk about stuff, but it's not like we're, like, besties or anything. And even if we were, I wouldn't want to burden her with my stuff. She's got her own problems, I'm sure.\n\nSo, yeah. Friends, but maybe not *close* friends. Does that make sense?\n\nEmotion tag: lonely",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:43:28.023162",
+      "response_time_ms": 1636,
+      "message_length": 35,
+      "response_length": 599,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:43:12.047708",
-  "total_conversations": 398,
+  "last_updated": "2025-10-15T01:43:28.023270",
+  "total_conversations": 399,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
