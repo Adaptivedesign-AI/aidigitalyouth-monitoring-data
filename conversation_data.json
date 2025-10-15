@@ -8693,18 +8693,36 @@
       "hour": 2,
       "ip_address": "10.220.15.153",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 484,
+      "session_id": "20251015_021524_fef0e80b",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Alright bet wanna go out",
+      "ai_response": "Go out where? Like, now? I kinda have a ton of homework, plus I'm not really feeling up to anything. Maybe another time?\n\nEmotion tag: avoiding",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:15:47.792239",
+      "response_time_ms": 880,
+      "message_length": 24,
+      "response_length": 143,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.151.118",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T02:15:35.166580",
-  "total_conversations": 483,
+  "last_updated": "2025-10-15T02:15:47.792315",
+  "total_conversations": 484,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
