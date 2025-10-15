@@ -6587,18 +6587,36 @@
       "hour": 1,
       "ip_address": "10.220.126.234",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 367,
+      "session_id": "20251015_012600_85fcdf46",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "How are you doing today",
+      "ai_response": "Surviving. You know, same old same old. It's like everyone's waiting for the weekend already.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T01:26:43.722626",
+      "response_time_ms": 822,
+      "message_length": 23,
+      "response_length": 116,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.164.50",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T01:26:28.659783",
-  "total_conversations": 366,
+  "last_updated": "2025-10-15T01:26:43.722734",
+  "total_conversations": 367,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
