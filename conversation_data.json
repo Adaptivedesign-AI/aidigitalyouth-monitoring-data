@@ -6353,18 +6353,36 @@
       "hour": 0,
       "ip_address": "10.220.137.113",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 354,
+      "session_id": "20251015_004513_1756f070",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "im sure there are some in the front office at school",
+      "ai_response": "Yeah, no shit, I *know* that. That's kinda the point, right? I'm saying, just 'cause someone has a desk and a degree doesn't mean they actually *get* what's going on with me. You ever talk to those people? It's like talking to a wall, but the wall is trying to sell you something.\n\nEmotion tag: bitter and dismissive",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:49:50.874169",
+      "response_time_ms": 1371,
+      "message_length": 52,
+      "response_length": 316,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:49:43.854481",
-  "total_conversations": 353,
+  "last_updated": "2025-10-15T00:49:50.874316",
+  "total_conversations": 354,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
