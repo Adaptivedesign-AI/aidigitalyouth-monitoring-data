@@ -5183,18 +5183,36 @@
       "hour": 0,
       "ip_address": "10.220.105.60",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 289,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "loooll! you mentioned avoiding hallways? whats up w that?",
+      "ai_response": "Oh, that. Just some… uh… social maneuvering. There are certain people I try to not cross paths with, if that makes sense. Less drama is always good, right? Plus, the less crowded hallways are usually faster anyway.\n\nEmotion tag: trying to play it cool",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:23:33.426948",
+      "response_time_ms": 1031,
+      "message_length": 57,
+      "response_length": 251,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.56.96",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:23:11.663293",
-  "total_conversations": 288,
+  "last_updated": "2025-10-15T00:23:33.427074",
+  "total_conversations": 289,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
