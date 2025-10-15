@@ -7847,18 +7847,36 @@
       "hour": 2,
       "ip_address": "10.220.105.60",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 437,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i know but they are jsut miserable mean people, dont let them win by turning you miserable and mean too",
+      "ai_response": "Okay, but how do you *not* become miserable when that's all they're trying to do? Like, I get the whole \"don't let them win\" thing, but it's not a game, you know? It's my actual life. And I'm just supposed to smile and be happy while they're making fun of how I look, what I wear, who I like? It's not that simple. It's exhausting just trying to keep it together. And then I get home and my mom's yelling about something else. I'm already trying not to fall apart.\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:05:51.033962",
+      "response_time_ms": 1530,
+      "message_length": 103,
+      "response_length": 487,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.105.60",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:05:23.319407",
-  "total_conversations": 436,
+  "last_updated": "2025-10-15T02:05:51.034054",
+  "total_conversations": 437,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
