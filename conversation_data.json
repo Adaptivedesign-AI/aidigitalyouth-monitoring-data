@@ -9341,18 +9341,36 @@
       "hour": 2,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 520,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I feel like every college kid gets into partying at some point in their college life, no matter how abstinent they are when they first enter",
+      "ai_response": "Yeah, well, I'm not in college yet. And just 'cause other people do something doesn't mean I have to, you know? I'm not planning on changing who I am just to fit in or whatever. College is about getting a degree, not just getting wasted every weekend.\n\nEmotion tag: slightly defensive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:56:50.243112",
+      "response_time_ms": 1273,
+      "message_length": 140,
+      "response_length": 284,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:56:11.437985",
-  "total_conversations": 519,
+  "last_updated": "2025-10-15T02:56:50.243240",
+  "total_conversations": 520,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
