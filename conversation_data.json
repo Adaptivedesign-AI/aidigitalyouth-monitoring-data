@@ -6749,18 +6749,36 @@
       "hour": 1,
       "ip_address": "10.220.179.70",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 376,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "how about you",
+      "ai_response": "Just been trying to get through the day, honestly. School's...school. Same old, same old. You know how it is.\n\nEmotion tag: trying to be nonchalant",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:34:48.218565",
+      "response_time_ms": 755,
+      "message_length": 13,
+      "response_length": 147,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.179.70",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:34:46.042645",
-  "total_conversations": 375,
+  "last_updated": "2025-10-15T01:34:48.218691",
+  "total_conversations": 376,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
