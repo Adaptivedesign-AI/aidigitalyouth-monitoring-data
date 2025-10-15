@@ -7037,18 +7037,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 392,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yeah thats true!",
+      "ai_response": "It's like they're living in the past or something. They don't get what it's like to grow up now, with all this pressure and everything. They just want us to be 'successful' in the way *they* define it, not in the way that actually matters to us. Ugh, I hate this conversation.\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:40:42.045919",
+      "response_time_ms": 1369,
+      "message_length": 16,
+      "response_length": 298,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:40:21.006677",
-  "total_conversations": 391,
+  "last_updated": "2025-10-15T01:40:42.046055",
+  "total_conversations": 392,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
