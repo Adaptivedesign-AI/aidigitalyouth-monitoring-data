@@ -5687,18 +5687,36 @@
       "hour": 0,
       "ip_address": "10.220.154.185",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 317,
+      "session_id": "20251015_003055_be8ef7e0",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Watching what",
+      "ai_response": "Like, watching me get messed with. Today it was the notes in class. I saw them, but I pretended I didn't. Just stared at the board. But I know what they said. \"Look at her hair.\" Stuff like that. Stupid stuff.\n\nEmotion tag: trying not to cry",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:31:26.435059",
+      "response_time_ms": 1121,
+      "message_length": 13,
+      "response_length": 241,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.154.185",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:31:17.798014",
-  "total_conversations": 316,
+  "last_updated": "2025-10-15T00:31:26.435177",
+  "total_conversations": 317,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
