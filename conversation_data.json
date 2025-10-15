@@ -5057,18 +5057,36 @@
       "hour": 0,
       "ip_address": "10.220.65.60",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 282,
+      "session_id": "20251015_002101_44e6f6a8",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "good",
+      "ai_response": "Good...? What's good? This day is already a dumpster fire and it's not even 9 AM. I swear, if I hear one more snicker in the hallway...\n\nEmotion tag: pissed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:21:26.708699",
+      "response_time_ms": 872,
+      "message_length": 4,
+      "response_length": 156,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.227.194",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:21:12.640518",
-  "total_conversations": 281,
+  "last_updated": "2025-10-15T00:21:26.708806",
+  "total_conversations": 282,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
