@@ -9287,18 +9287,36 @@
       "hour": 2,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 517,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Well I'm sure you're smart and will do great things in life; partying is definitely something I recommend everyone try, even if they might never do it again",
+      "ai_response": "Yeah, maybe. I don't know. Partying just seems kinda... messy. And loud. I'd probably just stand in the corner the whole time anyway. Thanks, though.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T02:55:26.351036",
+      "response_time_ms": 999,
+      "message_length": 156,
+      "response_length": 173,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:54:52.254247",
-  "total_conversations": 516,
+  "last_updated": "2025-10-15T02:55:26.351163",
+  "total_conversations": 517,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
