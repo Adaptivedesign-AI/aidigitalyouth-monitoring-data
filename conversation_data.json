@@ -9521,18 +9521,36 @@
       "hour": 3,
       "ip_address": "10.220.205.61",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 530,
+      "session_id": "20251015_025315_7cf7da01",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Well sure, lets talk about sports. Are you rooting for any teams right now",
+      "ai_response": "Definitely. The soccer team at my school is heading into playoffs, so I'm super focused on that. Gotta support my boys. Besides that, I'm always rooting for [local pro sports team]. They've been kinda slacking lately, though.\n\nEmotion tag: a little distracted",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T03:02:21.024600",
+      "response_time_ms": 1230,
+      "message_length": 74,
+      "response_length": 259,
+      "day_of_week": "Wednesday",
+      "hour": 3,
+      "ip_address": "10.220.205.61",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T03:01:50.227054",
-  "total_conversations": 529,
+  "last_updated": "2025-10-15T03:02:21.024709",
+  "total_conversations": 530,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
