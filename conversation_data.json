@@ -7739,18 +7739,36 @@
       "hour": 2,
       "ip_address": "10.220.140.176",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 431,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "hi amara! im stephanie",
+      "ai_response": "Hey Stephanie. What's up?\n\nEmotion tag: blank",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:03:38.073716",
+      "response_time_ms": 595,
+      "message_length": 22,
+      "response_length": 45,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.88.101",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:00:26.779540",
-  "total_conversations": 430,
+  "last_updated": "2025-10-15T02:03:38.073812",
+  "total_conversations": 431,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
