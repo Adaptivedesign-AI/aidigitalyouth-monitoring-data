@@ -6929,18 +6929,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 386,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "if you go to a private school youll probably have a better time with sharing bathrooms",
+      "ai_response": "Yeah, but like, private schools are expensive. My parents are already paying a ton for college itself. Plus, aren't private school kids kinda...snobby? No offense to anyone who goes to one, but that's just the vibe I get. I'd probably feel even more out of place than I already do just being, y'know, *me*.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:38:17.475257",
+      "response_time_ms": 1170,
+      "message_length": 86,
+      "response_length": 329,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:37:40.170244",
-  "total_conversations": 385,
+  "last_updated": "2025-10-15T01:38:17.475377",
+  "total_conversations": 386,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
