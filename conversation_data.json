@@ -6965,18 +6965,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 388,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ooo are you interested in film?",
+      "ai_response": "Yeah, I've always been into movies and stuff. Like, not just watching them, but the whole process of making them. Writing, directing, editing... it all seems super interesting. I've made a few short films with my friends, just using our phones, but it's actually really fun. It'd be awesome to do that for real, y'know?\n\nEmotion tag: hopeful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:39:06.672616",
+      "response_time_ms": 1277,
+      "message_length": 31,
+      "response_length": 341,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:38:45.954849",
-  "total_conversations": 387,
+  "last_updated": "2025-10-15T01:39:06.672703",
+  "total_conversations": 388,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
