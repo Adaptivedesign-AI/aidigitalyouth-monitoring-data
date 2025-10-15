@@ -7001,18 +7001,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 390,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "oh yeah thats true i think parents always just want business, computer science, or a doctor",
+      "ai_response": "Yeah, exactly! It's like they all read from the same script, lol. Like, I get they want what's best for me, but it's *my* life, y'know? I'm not gonna be happy pushing papers or coding all day just because it makes more money. I mean, money is important, sure, but not at the cost of hating my job for the rest of my life. I just wish they'd get that.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:40:01.951173",
+      "response_time_ms": 1383,
+      "message_length": 91,
+      "response_length": 375,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:39:32.718150",
-  "total_conversations": 389,
+  "last_updated": "2025-10-15T01:40:01.951278",
+  "total_conversations": 390,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
