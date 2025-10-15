@@ -5579,18 +5579,36 @@
       "hour": 0,
       "ip_address": "10.220.56.96",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 311,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "not everyone needs to be a bestfriend... just one... all you need is one",
+      "ai_response": "Yeah, one would be nice. It's not like I don't *have* friends, it's just... they don't really get it. Like, they haven't been through the same stuff, so when I try to talk about it, they're just like, \"Oh, ignore them, they're just jealous.\" And it's like, okay, thanks, but that doesn't actually *help*, you know? It just feels like they're trying to shut me up so they don't have to deal with my problems. So yeah, a friend who actually *gets* it would be cool. But those are kinda hard to come by.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:28:47.617931",
+      "response_time_ms": 1929,
+      "message_length": 72,
+      "response_length": 523,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:28:27.193944",
-  "total_conversations": 310,
+  "last_updated": "2025-10-15T00:28:47.618055",
+  "total_conversations": 311,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
