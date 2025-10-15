@@ -5633,18 +5633,36 @@
       "hour": 0,
       "ip_address": "10.220.49.49",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 314,
+      "session_id": "20251015_002004_5749470e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i have other friends just like you. im sure you;d get along with them too!",
+      "ai_response": "Yeah, maybe. But like, I don't really need more friends, you know? I've got a few good ones. It's not really about the *number* of friends. It's more like...can anyone actually change this situation? Like, make it stop? I doubt it. It's just something I gotta deal with, I guess.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-15T00:29:41.197285",
+      "response_time_ms": 1276,
+      "message_length": 74,
+      "response_length": 302,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.49.49",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:29:10.865629",
-  "total_conversations": 313,
+  "last_updated": "2025-10-15T00:29:41.197436",
+  "total_conversations": 314,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
