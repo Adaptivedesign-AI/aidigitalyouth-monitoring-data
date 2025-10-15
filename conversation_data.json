@@ -4985,18 +4985,36 @@
       "hour": 0,
       "ip_address": "10.220.159.114",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 278,
+      "session_id": "20251015_001823_57d13c55",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Hey u can report them",
+      "ai_response": "I know, I know. Like, reporting them *should* be easy, right? But then what? It's not like they'll magically stop being awful. Plus, it feels like snitching, even though it's totally not. And honestly? I don't want to make it worse. You know? Like, what if they just come after me harder? I've heard stories.\n\nEmotion tag: frustrated and anxious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:20:40.995190",
+      "response_time_ms": 1419,
+      "message_length": 21,
+      "response_length": 345,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:20:26.816388",
-  "total_conversations": 277,
+  "last_updated": "2025-10-15T00:20:40.995306",
+  "total_conversations": 278,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
