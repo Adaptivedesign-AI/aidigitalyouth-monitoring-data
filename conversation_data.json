@@ -5039,18 +5039,36 @@
       "hour": 0,
       "ip_address": "10.220.159.114",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 281,
+      "session_id": "20251015_001823_57d13c55",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "If u tell someone maybe theyll do smt abt it",
+      "ai_response": "Maybe. But who? Like, the teachers kinda suck at this. They give those generic \"be respectful\" speeches, but it doesn't actually *do* anything. And going to the principal? Ugh, that's just asking for more drama. Then everyone will *know* I ratted, and that's just gonna make me a bigger target.\n\nI wish people would just, like, stop being dicks. Is that too much to ask?\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:21:12.640307",
+      "response_time_ms": 1360,
+      "message_length": 44,
+      "response_length": 393,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.65.60",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-15T00:21:09.224588",
-  "total_conversations": 280,
+  "last_updated": "2025-10-15T00:21:12.640518",
+  "total_conversations": 281,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
