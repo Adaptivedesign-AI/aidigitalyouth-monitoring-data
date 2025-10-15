@@ -5255,18 +5255,36 @@
       "hour": 0,
       "ip_address": "10.220.131.54",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 293,
+      "session_id": "20251015_002458_0770ad16",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "haha",
+      "ai_response": "Yeah, \"haha\" is right. More like *ugh*. He tells the same corny jokes every year, I swear. Like, we get it, the Louisiana Purchase was a steal. Hilarious. NOT.\n\nEmotion tag: over it",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T00:25:17.311046",
+      "response_time_ms": 889,
+      "message_length": 4,
+      "response_length": 181,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.131.54",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T00:25:05.072046",
-  "total_conversations": 292,
+  "last_updated": "2025-10-15T00:25:17.311137",
+  "total_conversations": 293,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
