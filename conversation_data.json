@@ -7865,18 +7865,36 @@
       "hour": 2,
       "ip_address": "10.220.105.60",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 438,
+      "session_id": "20251015_020309_ab2c66a8",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I know i felt the same too but high school is such a small part of life. if you focus on what really matters to you youll get way farther in life than any of them",
+      "ai_response": "Yeah, okay, I hear you. Like, \"it gets better,\" right? That's what everyone says. But right now, it *sucks*. And it's hard to care about \"farther in life\" when I'm just trying to make it through *today*. It's not even about them \"winning,\" it's just... they're *wearing me down*. It's like being constantly poked and prodded. You just get numb after a while. I don't know what even *matters* anymore. School? I'm barely passing. My mom? We just fight. Friends? Who even are my friends? I just feel stuck.\n\nEmotion tag: numb and spiraling",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T02:06:34.179108",
+      "response_time_ms": 1971,
+      "message_length": 162,
+      "response_length": 537,
+      "day_of_week": "Wednesday",
+      "hour": 2,
+      "ip_address": "10.220.223.20",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T02:05:51.034054",
-  "total_conversations": 437,
+  "last_updated": "2025-10-15T02:06:34.179221",
+  "total_conversations": 438,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
