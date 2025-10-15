@@ -7019,18 +7019,36 @@
       "hour": 1,
       "ip_address": "10.220.103.241",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 391,
+      "session_id": "20251015_013401_cce7d8cc",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yeah i feel the same",
+      "ai_response": "Right? It's so annoying. Like they think they know everything just because they're older. But things are different now, you know? The world is changing. Plus, it's not like they even love their jobs that much anyway, so why are they pushing us into something similar? It's hypocritical, honestly.\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-15T01:40:21.006560",
+      "response_time_ms": 1298,
+      "message_length": 20,
+      "response_length": 320,
+      "day_of_week": "Wednesday",
+      "hour": 1,
+      "ip_address": "10.220.103.241",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-15T01:40:01.951278",
-  "total_conversations": 390,
+  "last_updated": "2025-10-15T01:40:21.006677",
+  "total_conversations": 391,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
