@@ -10421,18 +10421,36 @@
       "hour": 0,
       "ip_address": "10.220.105.73",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 580,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "the administration or smthing like that. why so offended? not that deep.",
+      "ai_response": "\"Not that deep?\" Seriously? It IS deep when someone is spreading false information about me! I'm not \"offended,\" I'm just trying to figure out why the administration would be talking about my age and grade level with random people. What even is your deal? Why are you asking me all these questions?\n\nEmotion tag: irritated and suspicious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:17:40.252843",
+      "response_time_ms": 1430,
+      "message_length": 72,
+      "response_length": 337,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.80.88",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:16:44.752482",
-  "total_conversations": 579,
+  "last_updated": "2025-10-16T00:17:40.252954",
+  "total_conversations": 580,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
