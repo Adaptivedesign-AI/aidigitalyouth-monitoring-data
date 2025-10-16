@@ -13013,18 +13013,36 @@
       "hour": 0,
       "ip_address": "10.220.72.1",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 724,
+      "session_id": "20251016_005058_de0ab83f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "People can get into state school with anything",
+      "ai_response": "Yeah, maybe. But even if I got in, who's gonna pay for it? My parents? You've met them, right? Besides, I'm not even sure what I'd study. Something useful, I guess. Not like art or music or any of the things I actually like. Gotta be \"practical,\" right? Ugh.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:56:18.006229",
+      "response_time_ms": 1160,
+      "message_length": 46,
+      "response_length": 281,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.179.89",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:56:06.407297",
-  "total_conversations": 723,
+  "last_updated": "2025-10-16T00:56:18.006369",
+  "total_conversations": 724,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
