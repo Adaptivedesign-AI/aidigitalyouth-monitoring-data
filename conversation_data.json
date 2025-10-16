@@ -11195,18 +11195,36 @@
       "hour": 0,
       "ip_address": "10.220.37.173",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 623,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "what",
+      "ai_response": "What do you mean, \"what\"? What's up with you asking \"what\"? Like, what do you want?\n\nEmotion tag: confused and a little irritated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:46:33.567740",
+      "response_time_ms": 760,
+      "message_length": 4,
+      "response_length": 129,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.80.88",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:46:31.587124",
-  "total_conversations": 622,
+  "last_updated": "2025-10-16T00:46:33.567866",
+  "total_conversations": 623,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
