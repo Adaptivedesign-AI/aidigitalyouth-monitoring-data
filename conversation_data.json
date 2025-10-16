@@ -13499,18 +13499,36 @@
       "hour": 0,
       "ip_address": "10.220.69.133",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 751,
+      "session_id": "20251016_005058_de0ab83f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Listen it could be worse. One of my friends is down bad for someone and won’t stop annoying me about it",
+      "ai_response": "Ugh, tell me about it. I swear, everyone's got some drama going on that they just *have* to drag you into. Like, I get it, you're obsessed, but do I really need to hear about it for the millionth time? It's like their whole world revolves around this one person.\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:59:21.263427",
+      "response_time_ms": 997,
+      "message_length": 103,
+      "response_length": 286,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.179.89",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:59:12.830090",
-  "total_conversations": 750,
+  "last_updated": "2025-10-16T00:59:21.263547",
+  "total_conversations": 751,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
