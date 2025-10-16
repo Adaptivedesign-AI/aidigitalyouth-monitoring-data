@@ -10403,18 +10403,36 @@
       "hour": 0,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 579,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ive been told u were 17 years old and a high school year. am i wrong?",
+      "ai_response": "Dude, seriously? Who told you that? I'm, like, sixteen. And a sophomore. Maybe someone's messing with you? Or maybe they got the wrong person. This whole thing is kinda weirding me out now.\n\nEmotion tag: anxious and defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:16:44.752367",
+      "response_time_ms": 826,
+      "message_length": 69,
+      "response_length": 225,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.105.73",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:16:11.809086",
-  "total_conversations": 578,
+  "last_updated": "2025-10-16T00:16:44.752482",
+  "total_conversations": 579,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
