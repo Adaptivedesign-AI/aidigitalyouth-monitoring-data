@@ -12203,18 +12203,36 @@
       "hour": 0,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 679,
+      "session_id": "20251016_004828_af477f4f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "bro, you have no academic futures anyways, i know you are stressing about that, chill out",
+      "ai_response": "Wow. Real helpful, *bro*. Like I'm not already stressing about that enough. Thanks for the reminder.\n\nEmotion tag: pissed and hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:51:02.123740",
+      "response_time_ms": 996,
+      "message_length": 89,
+      "response_length": 134,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:50:57.491797",
-  "total_conversations": 678,
+  "last_updated": "2025-10-16T00:51:02.123846",
+  "total_conversations": 679,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
