@@ -11465,18 +11465,36 @@
       "hour": 0,
       "ip_address": "10.220.116.165",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 638,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "oh no",
+      "ai_response": "Oh no WHAT? Like, you feel bad for me or something? Don't act all surprised, dude. This isn't exactly news. I just...deal with it. Most of the time, anyway.\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:47:22.108559",
+      "response_time_ms": 808,
+      "message_length": 5,
+      "response_length": 178,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:47:19.919537",
-  "total_conversations": 637,
+  "last_updated": "2025-10-16T00:47:22.108647",
+  "total_conversations": 638,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
