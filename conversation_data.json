@@ -13535,18 +13535,36 @@
       "hour": 0,
       "ip_address": "10.220.33.178",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 753,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "she just has problems with me",
+      "ai_response": "Okay, so like, what *kind* of problems? Is it just, like, little annoying things, or is it something deeper? 'Cause \"problems with me\" could mean anything. Is she saying you're not listening? Or is she saying you're, like, a bad person? It makes a difference, ya know?\n\nEmotion tag: curious and lowkey worried",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:59:26.702544",
+      "response_time_ms": 1035,
+      "message_length": 29,
+      "response_length": 309,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.232.229",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:59:24.255557",
-  "total_conversations": 752,
+  "last_updated": "2025-10-16T00:59:26.702682",
+  "total_conversations": 753,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
