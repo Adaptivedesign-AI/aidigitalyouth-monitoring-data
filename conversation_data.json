@@ -12149,18 +12149,36 @@
       "hour": 0,
       "ip_address": "10.220.88.97",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 676,
+      "session_id": "20251016_004411_6791c0f0",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Honestly talking to a stranger esp a professional is like really helpful. Sometimes it’s easier to talk to them than ur friends",
+      "ai_response": "Yeah, easier for *you* maybe. I don't even know you that well, and honestly, I'm already regretting saying anything. Strangers are... strangers. Like, they don't know me, they don't get it. What's the point of explaining my whole life to someone who's just gonna nod and say, \"That must be hard,\" and then send me a bill? My problems aren't gonna disappear just 'cause I talk about them. It's just gonna make me feel even more pathetic.\n\nEmotion tag: skeptical and guarded",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:50:52.331642",
+      "response_time_ms": 1397,
+      "message_length": 127,
+      "response_length": 472,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.56.127",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:50:49.190027",
-  "total_conversations": 675,
+  "last_updated": "2025-10-16T00:50:52.331815",
+  "total_conversations": 676,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
