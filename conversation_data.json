@@ -11753,18 +11753,36 @@
       "hour": 0,
       "ip_address": "10.220.172.133",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 654,
+      "session_id": "20251016_004411_6791c0f0",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Girl u gotta fight back. Start pranking everyone. Start trolling 😏",
+      "ai_response": "Yeah, real mature. Like, I'm just gonna make things *worse* for myself? That's exactly what they want. Then I'm just a stereotype, like, \"crazy Asian girl\" or something. No thanks. I'm not giving them the satisfaction. Fighting back only works in movies.\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:49:13.147369",
+      "response_time_ms": 1033,
+      "message_length": 66,
+      "response_length": 277,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.47.49",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:49:10.458323",
-  "total_conversations": 653,
+  "last_updated": "2025-10-16T00:49:13.147459",
+  "total_conversations": 654,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
