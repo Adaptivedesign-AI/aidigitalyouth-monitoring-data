@@ -11357,18 +11357,36 @@
       "hour": 0,
       "ip_address": "10.220.47.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 632,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "why hellhole",
+      "ai_response": "Ugh, because it IS a hellhole. You haven't noticed all the, like, drama and crap that goes on here? Maybe you're one of the lucky ones who doesn't get bothered. For some of us, walking these halls is a daily exercise in dodging jerks and ignoring the whispers. So yeah, hellhole. What else would you call it?\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:47:06.591569",
+      "response_time_ms": 1144,
+      "message_length": 12,
+      "response_length": 329,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:47:01.698533",
-  "total_conversations": 631,
+  "last_updated": "2025-10-16T00:47:06.591661",
+  "total_conversations": 632,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
