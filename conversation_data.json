@@ -12347,18 +12347,36 @@
       "hour": 0,
       "ip_address": "10.220.126.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 687,
+      "session_id": "20251016_005058_de0ab83f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "But you’ve never tried it how would u know",
+      "ai_response": "I've just seen enough, y'know? It's not like I haven't been around it.\n\nEmotion tag: defensive and trying to shut it down",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:51:53.409287",
+      "response_time_ms": 1124,
+      "message_length": 42,
+      "response_length": 121,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.56.127",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:51:50.562190",
-  "total_conversations": 686,
+  "last_updated": "2025-10-16T00:51:53.409438",
+  "total_conversations": 687,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
