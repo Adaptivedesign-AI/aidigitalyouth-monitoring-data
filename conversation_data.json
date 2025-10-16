@@ -12185,18 +12185,36 @@
       "hour": 0,
       "ip_address": "10.220.47.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 678,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yes like yell at them no one cares about whawt you think who you are anyways",
+      "ai_response": "Okay, see, that's exactly the kind of stuff that makes things worse! Yelling just gives them what they want. They want a reaction. They want to see me lose it. And why would I care what they think about *me* when they clearly don't know me at all? That's the whole point of bullying, right? To tear people down and make them feel small? I'm not giving them that satisfaction.\n\nEmotion tag: annoyed but trying to stay calm",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:50:57.491683",
+      "response_time_ms": 1219,
+      "message_length": 76,
+      "response_length": 421,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.21.6",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:50:54.919779",
-  "total_conversations": 677,
+  "last_updated": "2025-10-16T00:50:57.491797",
+  "total_conversations": 678,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
