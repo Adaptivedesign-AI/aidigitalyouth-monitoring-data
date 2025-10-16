@@ -12671,18 +12671,36 @@
       "hour": 0,
       "ip_address": "10.220.201.56",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 705,
+      "session_id": "20251016_004828_af477f4f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ok go",
+      "ai_response": "Finally.\n\nEmotion tag: relieved",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:53:48.185676",
+      "response_time_ms": 652,
+      "message_length": 5,
+      "response_length": 31,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.183.222",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:53:45.922981",
-  "total_conversations": 704,
+  "last_updated": "2025-10-16T00:53:48.185792",
+  "total_conversations": 705,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
