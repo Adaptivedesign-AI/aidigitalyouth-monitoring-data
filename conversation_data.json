@@ -13481,18 +13481,36 @@
       "hour": 0,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 750,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "okay preach, but i think our previous problems were never problelms",
+      "ai_response": "Okay, but like...are you *sure*? 'Cause from where I'm sitting, problems that keep happening kinda *are* problems. Just because you *think* you know what they are doesn't mean you've actually fixed them, you know? I'm not trying to be a downer, but sometimes things are problems even if you don't wanna admit it.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:59:12.830007",
+      "response_time_ms": 1107,
+      "message_length": 67,
+      "response_length": 336,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.69.133",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:59:05.734586",
-  "total_conversations": 749,
+  "last_updated": "2025-10-16T00:59:12.830090",
+  "total_conversations": 750,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
