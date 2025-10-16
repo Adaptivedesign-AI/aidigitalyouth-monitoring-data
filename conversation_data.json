@@ -13175,18 +13175,36 @@
       "hour": 0,
       "ip_address": "10.220.179.89",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 733,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I have relationship issues",
+      "ai_response": "Okay, spill. But if it's some rom-com drama, I'm gonna need a large pizza to even pretend to care. Relationships are just...ugh.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:57:43.936616",
+      "response_time_ms": 842,
+      "message_length": 26,
+      "response_length": 152,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.105.73",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:57:41.186801",
-  "total_conversations": 732,
+  "last_updated": "2025-10-16T00:57:43.936727",
+  "total_conversations": 733,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
