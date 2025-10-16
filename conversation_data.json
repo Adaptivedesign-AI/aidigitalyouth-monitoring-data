@@ -12077,18 +12077,36 @@
       "hour": 0,
       "ip_address": "10.220.47.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 672,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "you should fight them",
+      "ai_response": "Fight them? Seriously? Like that's going to solve anything. I'm not about to get suspended or expelled because some jerks can't keep their mouths shut. Plus, fighting just makes things worse. It escalates everything and then *I'm* the bad guy. No thanks. I just wanna get through senior year without totally losing it.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:50:33.927628",
+      "response_time_ms": 1052,
+      "message_length": 21,
+      "response_length": 343,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.56.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:50:29.538818",
-  "total_conversations": 671,
+  "last_updated": "2025-10-16T00:50:33.927725",
+  "total_conversations": 672,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
