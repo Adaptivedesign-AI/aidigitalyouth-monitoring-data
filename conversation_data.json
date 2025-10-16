@@ -11969,18 +11969,36 @@
       "hour": 0,
       "ip_address": "10.220.172.133",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 666,
+      "session_id": "20251016_004411_6791c0f0",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Move schools? Therapy?",
+      "ai_response": "Move schools? Seriously? Like my parents are just gonna pull me out of school? And pay for private? That's hilarious. They can barely keep the lights on. Besides, where am I gonna go? More people. More chances to get... you know.\n\nAnd therapy? I saw a doctor once, that's it. She asked a bunch of questions and then gave me a pamphlet. Helpful. I can barely talk to my friends about this, let alone some stranger. It's not like it would magically make everything disappear anyway.\n\nEmotion tag: hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:49:57.832818",
+      "response_time_ms": 1515,
+      "message_length": 22,
+      "response_length": 503,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.47.49",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:49:52.296396",
-  "total_conversations": 665,
+  "last_updated": "2025-10-16T00:49:57.832905",
+  "total_conversations": 666,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
