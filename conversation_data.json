@@ -11807,18 +11807,36 @@
       "hour": 0,
       "ip_address": "10.220.33.178",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 657,
+      "session_id": "20251016_004853_adee286e",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yeah what are you so upset with",
+      "ai_response": "Ugh, where do I even start? It's like everything and nothing at the same time, y'know? School's a mess, people are jerks, and home... well, let's just say it's not exactly a party. I'm just tired of it all, I guess.\n\nEmotion tag: overwhelmed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:49:21.298384",
+      "response_time_ms": 1082,
+      "message_length": 31,
+      "response_length": 241,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.47.49",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:49:18.680366",
-  "total_conversations": 656,
+  "last_updated": "2025-10-16T00:49:21.298480",
+  "total_conversations": 657,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
