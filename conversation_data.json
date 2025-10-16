@@ -13283,18 +13283,36 @@
       "hour": 0,
       "ip_address": "10.220.33.178",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 739,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yeah fr, my girlfriend and i are debating if we should break up for the third time since my mom is marrying her dad",
+      "ai_response": "Okay, that's actually messed up. Like, full-on soap opera level stuff. So, breaking up because your *parents* are getting married? That's a new one. Third time, though? Sounds like maybe you guys are kinda looking for a reason anyway. I mean, is the parent thing really the problem, or are you just using it as an excuse to avoid something else? Just a thought.\n\nEmotion tag: trying to sound detached",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:58:12.675599",
+      "response_time_ms": 1231,
+      "message_length": 115,
+      "response_length": 400,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.105.73",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:58:10.006822",
-  "total_conversations": 738,
+  "last_updated": "2025-10-16T00:58:12.675716",
+  "total_conversations": 739,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
