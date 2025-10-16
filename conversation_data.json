@@ -14183,18 +14183,36 @@
       "hour": 1,
       "ip_address": "10.220.143.126",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 789,
+      "session_id": "20251016_010312_1976427d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Validdd",
+      "ai_response": "For real. Like, I try to read sometimes, but my brain just bounces off the page. Even if it's something I *want* to read. I end up just staring at the same paragraph, over and over.\n\nEmotion tag: frustrated",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T01:11:13.799813",
+      "response_time_ms": 1110,
+      "message_length": 7,
+      "response_length": 206,
+      "day_of_week": "Thursday",
+      "hour": 1,
+      "ip_address": "10.220.143.126",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T01:11:03.254039",
-  "total_conversations": 788,
+  "last_updated": "2025-10-16T01:11:13.799912",
+  "total_conversations": 789,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
