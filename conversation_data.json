@@ -11879,18 +11879,36 @@
       "hour": 0,
       "ip_address": "10.220.56.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 661,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "so is your mental health okay why are you so mad at me",
+      "ai_response": "Whoa, hold up. I'm not mad at *you*. I'm mad at the situation, okay? And maybe I'm a little on edge because people keep saying stuff that sounds nice but doesn't actually *do* anything. It's like, yeah, my mental health isn't exactly awesome right now, but it's not like talking about it with someone online is gonna magically fix everything. Real life still exists, and it still sucks.\n\nEmotion tag: defensive and annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:49:35.618601",
+      "response_time_ms": 1330,
+      "message_length": 54,
+      "response_length": 422,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:49:32.831045",
-  "total_conversations": 660,
+  "last_updated": "2025-10-16T00:49:35.618691",
+  "total_conversations": 661,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
