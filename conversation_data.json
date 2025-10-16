@@ -12527,18 +12527,36 @@
       "hour": 0,
       "ip_address": "10.220.56.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 697,
+      "session_id": "20251016_004828_af477f4f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ok ill be nice, i like your outfit today",
+      "ai_response": "Seriously? You're just trying to get on my good side now? Whatever.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:52:50.005854",
+      "response_time_ms": 867,
+      "message_length": 40,
+      "response_length": 91,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:52:45.702129",
-  "total_conversations": 696,
+  "last_updated": "2025-10-16T00:52:50.005974",
+  "total_conversations": 697,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
