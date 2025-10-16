@@ -11987,18 +11987,36 @@
       "hour": 0,
       "ip_address": "10.220.47.49",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 667,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "okay ya but you can tell me waht happend and i ll just listen",
+      "ai_response": "Okay, fine. I guess it's better than nothing. It's just... it's everything, all the time. Like, walking down the hall is a minefield. I can hear them whispering, even if I can't make out the words. And then there's the group chat. Someone keeps posting edited pics of me, and people are just reacting with laughing emojis. It makes me feel like everyone's in on it, you know? And in class? Forget about it. No one wants to be in a group with the \"weirdo.\" I just want it to stop.\n\nEmotion tag: resigned and a little bit desperate",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:50:03.709719",
+      "response_time_ms": 1507,
+      "message_length": 61,
+      "response_length": 529,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.33.178",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:49:57.832905",
-  "total_conversations": 666,
+  "last_updated": "2025-10-16T00:50:03.709814",
+  "total_conversations": 667,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
