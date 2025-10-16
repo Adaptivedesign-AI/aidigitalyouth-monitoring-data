@@ -10457,18 +10457,36 @@
       "hour": 0,
       "ip_address": "10.220.80.88",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 582,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "well it seems this is causing immense stress and anxiety for you. prehaps you should seek help from the school or your family. have you tried that",
+      "ai_response": "Yeah, no duh it's causing me stress. That's kinda obvious, right? Like, imagine someone telling you your private info is being passed around and then being all \"Oh, you seem stressed.\" Thanks, Captain Obvious.\n\nAnd yeah, I get it. \"Talk to someone.\" That's the go-to advice, isn't it? But honestly, what's the point? The school? Please. They'll probably just tell me to ignore it or that I'm being too sensitive. And my family? Don't even get me started. They've got their own stuff going on, and I really don't feel like being more of a burden than I already am. So, no, I haven't tried that. And honestly, I probably won't.\n\nEmotion tag: cynical and hopeless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:19:17.997925",
+      "response_time_ms": 1938,
+      "message_length": 146,
+      "response_length": 660,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.67.16",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:18:33.652826",
-  "total_conversations": 581,
+  "last_updated": "2025-10-16T00:19:17.998025",
+  "total_conversations": 582,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
