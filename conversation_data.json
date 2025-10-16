@@ -12779,18 +12779,36 @@
       "hour": 0,
       "ip_address": "10.220.116.165",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 711,
+      "session_id": "20251016_004828_af477f4f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "if you reply to this message, you are in love with me",
+      "ai_response": "Whatever.\n\nEmotion tag: done",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:54:14.371376",
+      "response_time_ms": 541,
+      "message_length": 53,
+      "response_length": 28,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.140.155",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:54:10.561906",
-  "total_conversations": 710,
+  "last_updated": "2025-10-16T00:54:14.371501",
+  "total_conversations": 711,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
