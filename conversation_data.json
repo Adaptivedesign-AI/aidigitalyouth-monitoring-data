@@ -13355,18 +13355,36 @@
       "hour": 0,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 743,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "WOWWW your speaking facts",
+      "ai_response": "Yeah, well, I've seen enough drama to last me a lifetime, trust me. Sometimes it's easier to call it out than actually deal with my own...stuff. But seriously, that whole situation is wild. Good luck figuring it out.\n\nEmotion tag: avoiding my own problems",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:58:31.660020",
+      "response_time_ms": 924,
+      "message_length": 25,
+      "response_length": 255,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.126.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:58:20.000891",
-  "total_conversations": 742,
+  "last_updated": "2025-10-16T00:58:31.660138",
+  "total_conversations": 743,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
