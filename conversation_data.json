@@ -13121,18 +13121,36 @@
       "hour": 0,
       "ip_address": "10.220.72.1",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 730,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Great, I need your advice",
+      "ai_response": "Ugh, advice about what? Is this about, like, school? 'Cause I'm kinda over it today.\n\nEmotion tag: instantly annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:57:32.607247",
+      "response_time_ms": 952,
+      "message_length": 25,
+      "response_length": 116,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.15.220",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:57:18.379271",
-  "total_conversations": 729,
+  "last_updated": "2025-10-16T00:57:32.607389",
+  "total_conversations": 730,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
