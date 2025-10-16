@@ -13985,18 +13985,36 @@
       "hour": 1,
       "ip_address": "10.220.143.126",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 778,
+      "session_id": "20251016_010312_1976427d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Hahah some of my friends were like that. I will say now that I’m in college I wouldn’t wanna go back to hs. Any idea of what u wanna study",
+      "ai_response": "Not really. I mean, I haven't really thought about it. Something that makes money, I guess. Or something I don't totally hate. I don't even know what classes I'm taking next year, let alone college stuff. It's too much to think about right now.\n\nEmotion tag: overwhelmed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T01:05:52.960588",
+      "response_time_ms": 975,
+      "message_length": 138,
+      "response_length": 270,
+      "day_of_week": "Thursday",
+      "hour": 1,
+      "ip_address": "10.220.143.126",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T01:04:51.805613",
-  "total_conversations": 777,
+  "last_updated": "2025-10-16T01:05:52.960707",
+  "total_conversations": 778,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
