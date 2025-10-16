@@ -13661,18 +13661,36 @@
       "hour": 0,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 760,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yea yea im confused why she gets mad about it  too",
+      "ai_response": "Okay, so it's not just *you* who's confused? That makes it even weirder, right? Like, if *you* understood *why* she was mad, at least you could, like, *do* something about it. But if it's just...random... what are you supposed to do? Did you, like, ask her *why* it bothers her? Or is she just, like, being passive-aggressive about it?\n\nEmotion tag: frustrated and trying to be helpful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:59:52.538829",
+      "response_time_ms": 1120,
+      "message_length": 50,
+      "response_length": 385,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.126.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:59:49.970610",
-  "total_conversations": 759,
+  "last_updated": "2025-10-16T00:59:52.538921",
+  "total_conversations": 760,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
