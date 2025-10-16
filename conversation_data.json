@@ -13589,18 +13589,36 @@
       "hour": 0,
       "ip_address": "10.220.33.178",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 756,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "she gets mad at me for liking abg tiktoks",
+      "ai_response": "Okay, so she's mad 'cause you like \"abg\" TikToks? Is that, like, \"Asian Baby Girl\" style? I don't really get why that would make someone mad. Is she just jealous or something? Or does she think it's, like, objectifying? I'm so confused.\n\nEmotion tag: confused and judgmental",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:59:37.288786",
+      "response_time_ms": 1088,
+      "message_length": 41,
+      "response_length": 274,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.56.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:59:34.409401",
-  "total_conversations": 755,
+  "last_updated": "2025-10-16T00:59:37.288877",
+  "total_conversations": 756,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
