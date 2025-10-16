@@ -10385,18 +10385,36 @@
       "hour": 0,
       "ip_address": "10.220.40.2",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 578,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "mmm that sucks. how has ur school year as a senior been so far",
+      "ai_response": "Wait, senior? I'm not a senior. I'm only a sophomore. Maybe you have me confused with someone else?\n\nEmotion tag: confused and slightly worried",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:16:11.808989",
+      "response_time_ms": 769,
+      "message_length": 62,
+      "response_length": 143,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.21.6",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:15:45.594154",
-  "total_conversations": 577,
+  "last_updated": "2025-10-16T00:16:11.809086",
+  "total_conversations": 578,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
