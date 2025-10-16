@@ -11663,18 +11663,36 @@
       "hour": 0,
       "ip_address": "10.220.223.35",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 649,
+      "session_id": "20251016_004828_af477f4f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "same lolz, do you have a boyfriend?",
+      "ai_response": "Why you gotta ask that? Like, seriously?\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:48:52.666969",
+      "response_time_ms": 583,
+      "message_length": 35,
+      "response_length": 62,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.183.222",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:48:50.293128",
-  "total_conversations": 648,
+  "last_updated": "2025-10-16T00:48:52.667074",
+  "total_conversations": 649,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
