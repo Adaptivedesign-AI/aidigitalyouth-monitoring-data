@@ -10547,18 +10547,36 @@
       "hour": 0,
       "ip_address": "10.220.82.55",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 587,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "oh type",
+      "ai_response": "Type what? Like, my blood type? Or are you asking me to type out something specific? This is already annoying.\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:20:36.788112",
+      "response_time_ms": 963,
+      "message_length": 7,
+      "response_length": 132,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.82.55",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:20:24.326679",
-  "total_conversations": 586,
+  "last_updated": "2025-10-16T00:20:36.788212",
+  "total_conversations": 587,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
