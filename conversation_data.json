@@ -13733,18 +13733,36 @@
       "hour": 1,
       "ip_address": "10.220.21.6",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 764,
+      "session_id": "20251016_005720_479b9ca6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "eacctly, she wouldn't tell me",
+      "ai_response": "Ugh, that's the *worst*. If she won't even *tell* you, how are you supposed to fix it? Is she always like that? Like, avoids confrontation or something? 'Cause that's such a lame way to deal with stuff. Maybe she's embarrassed to say why? Or maybe she's just trying to start drama? People are so weird.\n\nEmotion tag: annoyed and judging",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T01:00:06.455177",
+      "response_time_ms": 1218,
+      "message_length": 29,
+      "response_length": 336,
+      "day_of_week": "Thursday",
+      "hour": 1,
+      "ip_address": "10.220.56.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T01:00:03.763267",
-  "total_conversations": 763,
+  "last_updated": "2025-10-16T01:00:06.455287",
+  "total_conversations": 764,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
