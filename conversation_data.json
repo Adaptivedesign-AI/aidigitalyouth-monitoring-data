@@ -12239,18 +12239,36 @@
       "hour": 0,
       "ip_address": "10.220.88.97",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 681,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ya they want, then jus tgive them waht they want, after they get what they want they ll stop it",
+      "ai_response": "Ugh, no, that's not how it works! Giving in to bullies *never* makes them stop. They just move on to something else, or someone else. It's like a power thing for them. You give them what they want, they feel like they won, and then they just look for another way to win again. It's a cycle. Plus, what even *do* they want? Me to disappear? Me to be miserable? I'm not gonna hand them that. That's just messed up.\n\nEmotion tag: exasperated and defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:51:19.463901",
+      "response_time_ms": 1620,
+      "message_length": 95,
+      "response_length": 452,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.172.133",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:51:09.861622",
-  "total_conversations": 680,
+  "last_updated": "2025-10-16T00:51:19.464018",
+  "total_conversations": 681,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
