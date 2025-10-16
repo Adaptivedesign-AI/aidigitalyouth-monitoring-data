@@ -11141,18 +11141,36 @@
       "hour": 0,
       "ip_address": "10.220.47.49",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 620,
+      "session_id": "20251016_004600_129a296f",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "the convo ended",
+      "ai_response": "Yeah, I saw. What's the point?\n\nEmotion tag: bored",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:46:26.077750",
+      "response_time_ms": 588,
+      "message_length": 15,
+      "response_length": 50,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.233.149",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:46:22.255153",
-  "total_conversations": 619,
+  "last_updated": "2025-10-16T00:46:26.077828",
+  "total_conversations": 620,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
