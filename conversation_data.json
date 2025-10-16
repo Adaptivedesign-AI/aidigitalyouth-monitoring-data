@@ -12923,18 +12923,36 @@
       "hour": 0,
       "ip_address": "10.220.116.165",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 719,
+      "session_id": "20251016_005058_de0ab83f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "There’s a lot more out there for you. Tough it out, you might find college more to your taste",
+      "ai_response": "College? Like *I'm* going to get into college. With my grades? Please. And even if I did, what's the point? Just more of the same, probably. Different faces, same crap.\n\nEmotion tag: hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-16T00:55:31.890391",
+      "response_time_ms": 1023,
+      "message_length": 93,
+      "response_length": 191,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.179.89",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-16T00:55:19.289960",
-  "total_conversations": 718,
+  "last_updated": "2025-10-16T00:55:31.890510",
+  "total_conversations": 719,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
