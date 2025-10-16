@@ -10529,18 +10529,36 @@
       "hour": 0,
       "ip_address": "10.220.82.55",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 586,
+      "session_id": "20251016_001450_37e9c85f",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "why are your responses always consistly so long and dense",
+      "ai_response": "Ugh, I don't know, okay? Maybe because you keep asking me questions. And maybe because it's easier than, like, actually dealing with stuff. Happy now?\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-16T00:20:24.326582",
+      "response_time_ms": 1012,
+      "message_length": 57,
+      "response_length": 174,
+      "day_of_week": "Thursday",
+      "hour": 0,
+      "ip_address": "10.220.82.55",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-16T00:20:05.773316",
-  "total_conversations": 585,
+  "last_updated": "2025-10-16T00:20:24.326679",
+  "total_conversations": 586,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
