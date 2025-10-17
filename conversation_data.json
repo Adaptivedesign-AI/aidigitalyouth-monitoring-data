@@ -16775,18 +16775,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 933,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "AY a wins a win. What about hobbies",
+      "ai_response": "Hobbies? Seriously? Like I have time for that. Between school, getting yelled at at home, and trying not to get jumped in the hallway...yeah, hobbies are *totally* at the top of my list. I used to draw, I guess. But who cares.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:37:41.732541",
+      "response_time_ms": 1048,
+      "message_length": 35,
+      "response_length": 247,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.226.242",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:37:34.362169",
-  "total_conversations": 932,
+  "last_updated": "2025-10-17T00:37:41.732630",
+  "total_conversations": 933,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
