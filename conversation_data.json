@@ -17513,18 +17513,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 974,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "thats good. just keep on moving forwards with your head up things will work out",
+      "ai_response": "Easy for *you* to say. You're not the one dodging insults in the hallway or seeing your face photoshopped into stupid memes. \"Head up\"? Yeah, that's how you get a soda thrown at you in the lunch line.\n\nSorry. Didn't mean to snap. It's just... some days it feels like everyone's cheering for me to fail. And then people give you these pep talks like, \"Just be positive!\" Like it's that freakin' simple.\n\nEmotion tag: resentful and then guilty",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:41:56.238251",
+      "response_time_ms": 1682,
+      "message_length": 79,
+      "response_length": 441,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.83.92",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:41:48.171104",
-  "total_conversations": 973,
+  "last_updated": "2025-10-17T00:41:56.238412",
+  "total_conversations": 974,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
