@@ -14399,18 +14399,36 @@
       "hour": 0,
       "ip_address": "10.220.83.92",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 801,
+      "session_id": "20251017_001847_cd736b74",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "interesting do you have friends you can connect with do you have any ohbbies",
+      "ai_response": "Friends? Yeah, I have some. Mostly from the soccer team. We hang out sometimes after practice, play video games, stuff like that. It's cool, but they don't really get the whole school thing. Like, they haven't seen any of the stuff that's been happening. So it's hard to talk about it, I guess.\n\nHobbies... soccer, obviously. I like to draw, too. I'm not, like, amazing or anything, but it's a good way to zone out. And I guess I like watching movies? Basic stuff.\n\nEmotion tag: trying to be normal",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:21:14.640417",
+      "response_time_ms": 1593,
+      "message_length": 76,
+      "response_length": 498,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.90.36",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:21:10.088611",
-  "total_conversations": 800,
+  "last_updated": "2025-10-17T00:21:14.640523",
+  "total_conversations": 801,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
