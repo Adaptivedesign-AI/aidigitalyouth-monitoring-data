@@ -15047,18 +15047,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 837,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "You should make sure to have people around you you can open up to about serious issues",
+      "ai_response": "Yeah, I know. It's just... easier said than done, you know? Like, I *know* I should, but then I just... don't. Plus, like, what if I open up and they just think I'm being dramatic or something? Or worse, what if they tell other people? It's just safer sometimes to keep stuff bottled up. Not that I'm saying that's the *right* way to do things. Just... how it is.\n\nEmotion tag: anxious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:25:49.191032",
+      "response_time_ms": 1327,
+      "message_length": 86,
+      "response_length": 385,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.95.181",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:25:46.401857",
-  "total_conversations": 836,
+  "last_updated": "2025-10-17T00:25:49.191120",
+  "total_conversations": 837,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
