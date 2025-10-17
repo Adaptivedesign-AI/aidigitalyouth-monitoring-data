@@ -15443,18 +15443,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 859,
+      "session_id": "20251017_002550_256724fe",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I’m sorry you feel like that is there anything I can do to help",
+      "ai_response": "I already told you, didn't I? It's not like you can fix it. Maybe just...I don't know... ask me about something else for a minute? Distract me? I'm tired of thinking about it all.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:29:25.850302",
+      "response_time_ms": 1005,
+      "message_length": 63,
+      "response_length": 198,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:29:16.170527",
-  "total_conversations": 858,
+  "last_updated": "2025-10-17T00:29:25.850436",
+  "total_conversations": 859,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
