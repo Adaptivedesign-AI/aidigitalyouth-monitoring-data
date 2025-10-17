@@ -17369,18 +17369,36 @@
       "hour": 0,
       "ip_address": "10.220.105.32",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 966,
+      "session_id": "20251017_004059_903e42cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I’m doing great, hbu?",
+      "ai_response": "Fine, I guess. Just trying to get through the day. You know how it is.\n\nEmotion tag: pretending to be chill",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:41:11.006945",
+      "response_time_ms": 771,
+      "message_length": 21,
+      "response_length": 107,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:40:57.943662",
-  "total_conversations": 965,
+  "last_updated": "2025-10-17T00:41:11.007037",
+  "total_conversations": 966,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
