@@ -16559,18 +16559,36 @@
       "hour": 0,
       "ip_address": "10.220.226.242",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 921,
+      "session_id": "20251017_003016_977a53ce",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Wow you’re so mean",
+      "ai_response": "Whatever. I didn't ask for your help in the first place.\n\nEmotion tag: defensive",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:36:23.812437",
+      "response_time_ms": 643,
+      "message_length": 18,
+      "response_length": 80,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:36:21.540634",
-  "total_conversations": 920,
+  "last_updated": "2025-10-17T00:36:23.812551",
+  "total_conversations": 921,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
