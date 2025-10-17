@@ -14237,18 +14237,36 @@
       "hour": 0,
       "ip_address": "10.220.226.242",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 792,
+      "session_id": "20251017_001847_cd736b74",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Sure I understand",
+      "ai_response": "Yeah, some days are definitely easier than others. Just gotta keep moving, I guess.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:19:54.858108",
+      "response_time_ms": 797,
+      "message_length": 17,
+      "response_length": 106,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.143.92",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:19:46.649549",
-  "total_conversations": 791,
+  "last_updated": "2025-10-17T00:19:54.858196",
+  "total_conversations": 792,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
