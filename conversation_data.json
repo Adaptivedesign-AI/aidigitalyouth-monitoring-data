@@ -14849,18 +14849,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 826,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "For me going to the gym helps me improve my confidence and motivates me to do better in other facets of my life",
+      "ai_response": "Yeah, I get that. Exercise is supposed to be good for you and all that. I mean, I play soccer, so it's not like I'm a complete couch potato. But it's more 'cause I like the game and hanging with the team, not really for, like, self-improvement or whatever. It's just... different, you know? Like, the gym is a solo thing, and dealing with, uh, *stuff* requires other people. Plus, I already have to go to practices like 5 days a week, feels like overkill to add more exercise on top.\n\nEmotion tag: distracted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:24:16.795644",
+      "response_time_ms": 1745,
+      "message_length": 111,
+      "response_length": 508,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.95.181",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:24:07.100350",
-  "total_conversations": 825,
+  "last_updated": "2025-10-17T00:24:16.795765",
+  "total_conversations": 826,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
