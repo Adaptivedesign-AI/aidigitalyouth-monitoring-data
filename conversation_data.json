@@ -17207,18 +17207,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 957,
+      "session_id": "20251017_003506_4c3944ff",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I was thinking around evening is that cool?",
+      "ai_response": "Evening works. My mom's usually working late anyway, so it's not like anyone's gonna be all up in our business. Just text me when you're close.\n\nEmotion tag: trying to sound casual but actually kinda excited",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:40:07.439817",
+      "response_time_ms": 992,
+      "message_length": 43,
+      "response_length": 207,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.115.23",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:40:05.081734",
-  "total_conversations": 956,
+  "last_updated": "2025-10-17T00:40:07.439917",
+  "total_conversations": 957,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
