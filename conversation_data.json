@@ -14219,18 +14219,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 791,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I am doing good.",
+      "ai_response": "Good to hear. Just trying to get through the day, you know?\n\nEmotion tag: on edge",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:19:46.649456",
+      "response_time_ms": 840,
+      "message_length": 16,
+      "response_length": 81,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.226.242",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:19:34.087665",
-  "total_conversations": 790,
+  "last_updated": "2025-10-17T00:19:46.649549",
+  "total_conversations": 791,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
