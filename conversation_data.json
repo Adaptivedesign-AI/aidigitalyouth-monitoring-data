@@ -14723,18 +14723,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 819,
+      "session_id": "20251017_001847_cd736b74",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "you dont have school everyday do you?",
+      "ai_response": "No, obviously not EVERY day. Weekends exist, duh. And we get holidays, teacher work days, the occasional snow day if the district is feeling generous. Why are you asking such an obvious question?\n\nEmotion tag: impatient and lowkey offended",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:23:02.388141",
+      "response_time_ms": 1189,
+      "message_length": 37,
+      "response_length": 239,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.95.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:22:58.696911",
-  "total_conversations": 818,
+  "last_updated": "2025-10-17T00:23:02.388241",
+  "total_conversations": 819,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
