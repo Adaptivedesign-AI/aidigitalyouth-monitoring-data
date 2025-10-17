@@ -15389,18 +15389,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 856,
+      "session_id": "20251017_002550_256724fe",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I’m sorry you feel like that is there anything I can do to help you with that",
+      "ai_response": "Honestly? I don't even know. It's not like you can magically make them stop being jerks or make my parents get along. I guess... just listening helps? And maybe not acting like it's all my fault, because I swear, sometimes I feel like that's what everyone thinks. Like, if I were just *better* or *prettier* or *smarter*, then none of this would be happening. But I don't know how to *be* any of those things.\n\nEmotion tag: lowkey hopeless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:28:59.572716",
+      "response_time_ms": 1536,
+      "message_length": 77,
+      "response_length": 439,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:28:45.616221",
-  "total_conversations": 855,
+  "last_updated": "2025-10-17T00:28:59.572816",
+  "total_conversations": 856,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
