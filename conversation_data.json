@@ -14867,18 +14867,36 @@
       "hour": 0,
       "ip_address": "10.220.95.181",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 827,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "what sport you play",
+      "ai_response": "Track. I'm a sprinter. It's kinda my whole life, honestly. Well, school is too, I guess. Gotta keep the grades up, you know? What about you? You into sports or anything?\n\nEmotion tag: casual but also kinda avoiding stuff",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:24:25.789232",
+      "response_time_ms": 1014,
+      "message_length": 19,
+      "response_length": 220,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:24:16.795765",
-  "total_conversations": 826,
+  "last_updated": "2025-10-17T00:24:25.789351",
+  "total_conversations": 827,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
