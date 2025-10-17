@@ -14705,18 +14705,36 @@
       "hour": 0,
       "ip_address": "10.220.201.111",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 818,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "facts i get u what u gna hit at the gym",
+      "ai_response": "Probably chest and tris. Gotta get those gains, you know? It's better than just sitting around thinking about… stuff. You hitting legs today or what?\n\nEmotion tag: trying to sound normal",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:22:58.696803",
+      "response_time_ms": 968,
+      "message_length": 39,
+      "response_length": 186,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:22:51.375068",
-  "total_conversations": 817,
+  "last_updated": "2025-10-17T00:22:58.696911",
+  "total_conversations": 818,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
