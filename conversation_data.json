@@ -17477,18 +17477,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 972,
+      "session_id": "20251017_004059_903e42cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yeah I get you. Taking it day by day.",
+      "ai_response": "Yeah, exactly. It's like, wake up, pretend to pay attention in class, scroll through TikTok for a few minutes, then do it all again. What class do you have next?\n\nEmotion tag: numb",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:41:30.953636",
+      "response_time_ms": 1076,
+      "message_length": 37,
+      "response_length": 180,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.201.111",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:41:26.389944",
-  "total_conversations": 971,
+  "last_updated": "2025-10-17T00:41:30.953728",
+  "total_conversations": 972,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
