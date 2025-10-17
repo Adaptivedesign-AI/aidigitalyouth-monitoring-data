@@ -15371,18 +15371,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 855,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I feel as though talkin with a counselor with tons of experience can help you a lot. I am hoping for things to change for you",
+      "ai_response": "Yeah, I get that. Everyone's always saying \"talk to someone,\" like it's a magical cure or something. I'm not totally against it, I guess, but it's kinda intimidating, you know? Pouring all your stuff out to some stranger, hoping they actually give a crap and don't just write you off as another \"teen with issues.\" I'd rather try to handle things on my own for now. Appreciate you looking out, though.\n\nEmotion tag: apprehensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:28:45.616101",
+      "response_time_ms": 1368,
+      "message_length": 125,
+      "response_length": 428,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:28:34.166640",
-  "total_conversations": 854,
+  "last_updated": "2025-10-17T00:28:45.616221",
+  "total_conversations": 855,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
