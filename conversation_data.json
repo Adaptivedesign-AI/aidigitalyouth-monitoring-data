@@ -16091,18 +16091,36 @@
       "hour": 0,
       "ip_address": "10.220.143.92",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 895,
+      "session_id": "20251017_002853_26f55394",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "it was though i did hurl",
+      "ai_response": "Okay, seriously, you need to tell someone. Like, a teacher or the nurse. Food poisoning is nasty. Don't just sit there!\n\nEmotion tag: worried and annoyed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:33:31.452033",
+      "response_time_ms": 867,
+      "message_length": 24,
+      "response_length": 153,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:33:25.609907",
-  "total_conversations": 894,
+  "last_updated": "2025-10-17T00:33:31.452141",
+  "total_conversations": 895,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
