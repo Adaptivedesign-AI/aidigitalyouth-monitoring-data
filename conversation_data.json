@@ -14651,18 +14651,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 815,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i’m finna pu to doe later tdy n lock in",
+      "ai_response": "\"Pu to doe\"? What's that even mean? Is that some game thing? I dunno. I'm thinking about just trying to get a solid workout in after school. Maybe that'll help me actually focus on something besides how slow the clock is ticking.\n\nEmotion tag: confused and impatient",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:22:32.342104",
+      "response_time_ms": 1019,
+      "message_length": 39,
+      "response_length": 266,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:22:29.997532",
-  "total_conversations": 814,
+  "last_updated": "2025-10-17T00:22:32.342253",
+  "total_conversations": 815,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
