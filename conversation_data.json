@@ -14975,18 +14975,36 @@
       "hour": 0,
       "ip_address": "10.220.95.181",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 833,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i can fix it for u for a price",
+      "ai_response": "Seriously? You could? What kind of price are we talking? I mean, it's just a rip in the sleeve, not like, completely destroyed or anything. It's my favorite jacket, so I'd be down to pay something, but I'm also kinda broke, haha.\n\nEmotion tag: hopeful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:25:26.088177",
+      "response_time_ms": 1062,
+      "message_length": 30,
+      "response_length": 251,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:25:13.862003",
-  "total_conversations": 832,
+  "last_updated": "2025-10-17T00:25:26.088281",
+  "total_conversations": 833,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
