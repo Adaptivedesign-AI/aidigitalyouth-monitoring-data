@@ -17909,18 +17909,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 996,
+      "session_id": "20251017_003651_350e99cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "you pressure for me",
+      "ai_response": "What? I don't even know what that's supposed to mean. Are you saying I'm pressuring you? Dude, I just got finished saying I don't want any pressure.\n\nEmotion tag: confused and irritated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:44:36.391255",
+      "response_time_ms": 866,
+      "message_length": 19,
+      "response_length": 185,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.91.109",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:44:34.007870",
-  "total_conversations": 995,
+  "last_updated": "2025-10-17T00:44:36.391396",
+  "total_conversations": 996,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
