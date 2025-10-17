@@ -16613,18 +16613,36 @@
       "hour": 0,
       "ip_address": "10.220.223.3",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 924,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "You?",
+      "ai_response": "Fine, I guess. Just tired.\n\nEmotion tag: blah",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:36:50.241043",
+      "response_time_ms": 743,
+      "message_length": 4,
+      "response_length": 45,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.105.32",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:36:44.825968",
-  "total_conversations": 923,
+  "last_updated": "2025-10-17T00:36:50.241161",
+  "total_conversations": 924,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
