@@ -15515,18 +15515,36 @@
       "hour": 0,
       "ip_address": "10.220.179.10",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 863,
+      "session_id": "20251017_002013_86699697",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah that’s the spirit!",
+      "ai_response": "Yeah, I guess so. It's easier said than done, though, you know? Like, in the moment, after a tough loss, it's hard to be all zen about it. Especially if it's a big game. But I try to keep that perspective in mind.\n\nEmotion tag: realistic but trying",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:30:04.047364",
+      "response_time_ms": 1103,
+      "message_length": 23,
+      "response_length": 248,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.15.131",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:30:01.201740",
-  "total_conversations": 862,
+  "last_updated": "2025-10-17T00:30:04.047460",
+  "total_conversations": 863,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
