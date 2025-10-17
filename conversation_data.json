@@ -16451,18 +16451,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 915,
+      "session_id": "20251017_003016_977a53ce",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I can help you juggle all the things goin on",
+      "ai_response": "No, you can't. It's not school stuff or whatever. It's just... personal. Thanks, though.\n\nEmotion tag: lying and deflecting",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:35:49.374136",
+      "response_time_ms": 995,
+      "message_length": 44,
+      "response_length": 123,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:35:43.221239",
-  "total_conversations": 914,
+  "last_updated": "2025-10-17T00:35:49.374223",
+  "total_conversations": 915,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
