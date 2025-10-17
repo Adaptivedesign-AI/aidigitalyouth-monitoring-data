@@ -17531,18 +17531,36 @@
       "hour": 0,
       "ip_address": "10.220.83.92",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 975,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I’m not feeding you nothing inedible it’s finna be nutritious too",
+      "ai_response": "Nutritious, huh? Okay, now I'm *really* sus. What, did you sign up for some health kick or something? Last time we hung out, you were pounding down a double cheeseburger and fries like there was no tomorrow. Just don't expect me to suddenly be all about kale smoothies or something. I'm just saying, if there's no pizza involved, I might bail.\n\nEmotion tag: playfully suspicious",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:42:08.949556",
+      "response_time_ms": 1152,
+      "message_length": 65,
+      "response_length": 378,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:41:56.238412",
-  "total_conversations": 974,
+  "last_updated": "2025-10-17T00:42:08.949701",
+  "total_conversations": 975,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
