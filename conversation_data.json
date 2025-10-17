@@ -15587,18 +15587,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 867,
+      "session_id": "20251017_002550_256724fe",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I need you to calm down im only trying to help im your friend not your enemy. Lets go out to eat and take our mind off things",
+      "ai_response": "Calm down? Easy for you to say. You're not the one who has to walk through the halls every day knowing people are laughing at you. And I don't even have a car, so how would we even *go* out to eat?\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:30:29.594599",
+      "response_time_ms": 1090,
+      "message_length": 125,
+      "response_length": 219,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:30:27.081648",
-  "total_conversations": 866,
+  "last_updated": "2025-10-17T00:30:29.594711",
+  "total_conversations": 867,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
