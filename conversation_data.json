@@ -15749,18 +15749,36 @@
       "hour": 0,
       "ip_address": "10.220.15.131",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 876,
+      "session_id": "20251017_002853_26f55394",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "why u calling me dude when u don’t even k le my name",
+      "ai_response": "Okay, chill. I call everyone \"dude.\" It's not like a personal thing. You didn't even say what \"it\" is, so why are you getting all bent out of shape about being called \"dude\"? Geesh.\n\nEmotion tag: irritated",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:31:17.389931",
+      "response_time_ms": 948,
+      "message_length": 52,
+      "response_length": 205,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:31:09.559913",
-  "total_conversations": 875,
+  "last_updated": "2025-10-17T00:31:17.390034",
+  "total_conversations": 876,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
