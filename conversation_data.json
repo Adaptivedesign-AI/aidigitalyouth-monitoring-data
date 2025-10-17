@@ -17423,18 +17423,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 969,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Nah I’m forreal unless you don’t want to",
+      "ai_response": "Chill, chill. I didn't say I *didn't* wanna. Just making sure you weren't gonna flake or something. So, like, what kind of food we talking? I'm starving.\n\nEmotion tag: cautiously optimistic",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:41:20.221197",
+      "response_time_ms": 1091,
+      "message_length": 40,
+      "response_length": 189,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.179.10",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:41:17.358707",
-  "total_conversations": 968,
+  "last_updated": "2025-10-17T00:41:20.221313",
+  "total_conversations": 969,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
