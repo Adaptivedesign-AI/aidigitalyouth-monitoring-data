@@ -17441,18 +17441,36 @@
       "hour": 0,
       "ip_address": "10.220.179.10",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 970,
+      "session_id": "20251017_003506_4c3944ff",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I like to watch romcoms we can chill and sleep together",
+      "ai_response": "Wait, sleep *together*? Like, on the couch? I mean, my couch isn't that big, but... okay, sure. We can totally watch romcoms. I have, like, a million. What's your fave? Just so I can, uh, make sure we have it.\n\nEmotion tag: panicking a little but trying not to show it",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:41:23.241424",
+      "response_time_ms": 1255,
+      "message_length": 55,
+      "response_length": 268,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:41:20.221313",
-  "total_conversations": 969,
+  "last_updated": "2025-10-17T00:41:23.241546",
+  "total_conversations": 970,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
