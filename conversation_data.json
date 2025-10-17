@@ -16631,18 +16631,36 @@
       "hour": 0,
       "ip_address": "10.220.105.32",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 925,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yeah I get beat and bullied but I try not to project other people.",
+      "ai_response": "Okay, well, *sorry* for projecting. I didn't realize we were having a contest for who has the worst life. You win, I guess. Can we just drop it? My head's already pounding.\n\nEmotion tag: regretting everything",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:36:52.882058",
+      "response_time_ms": 1076,
+      "message_length": 66,
+      "response_length": 208,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:36:50.241161",
-  "total_conversations": 924,
+  "last_updated": "2025-10-17T00:36:52.882166",
+  "total_conversations": 925,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
