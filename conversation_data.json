@@ -17063,18 +17063,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 949,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Friends are just people you talk to. there's not much more to it",
+      "ai_response": "Easy for you to say. I guess. But it's not just \"talking,\" is it? It's, like, who wants to talk *back*? Who actually *cares*? I can talk to the wall, doesn't make it my friend. Maya and Kai are cool, sure. But would they, like, *notice* if I wasn't there? Probably not.\n\nEmotion tag: dismissive and a little bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:39:14.981981",
+      "response_time_ms": 1211,
+      "message_length": 64,
+      "response_length": 314,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:39:12.060602",
-  "total_conversations": 948,
+  "last_updated": "2025-10-17T00:39:14.982080",
+  "total_conversations": 949,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
