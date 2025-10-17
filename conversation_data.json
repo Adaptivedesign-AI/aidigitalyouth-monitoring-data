@@ -14489,18 +14489,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 806,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "That’s not cool you should talk to someone about this",
+      "ai_response": "Yeah, I know I *should*. It's just... who do you even talk to? Like, a teacher? They'll just say something about \"respect\" or whatever and maybe give them a detention. It doesn't really *fix* anything, you know? It'll just make them even more pissed off at me. And my parents? I don't want to worry them. They have enough on their plate.\n\nI guess maybe the guidance counselor? But then everyone will think I'm a snitch or something. It's just... a lot.\n\nEmotion tag: conflicted and tired",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:21:43.665252",
+      "response_time_ms": 1529,
+      "message_length": 53,
+      "response_length": 487,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.208.132",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:21:40.673082",
-  "total_conversations": 805,
+  "last_updated": "2025-10-17T00:21:43.665391",
+  "total_conversations": 806,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
