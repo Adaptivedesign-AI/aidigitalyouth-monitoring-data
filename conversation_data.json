@@ -14795,18 +14795,36 @@
       "hour": 0,
       "ip_address": "10.220.95.181",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 823,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yes I am proud of you",
+      "ai_response": "Okay, okay, don't get *too* proud. I haven't actually *done* anything yet. Just, like, thought about maybe thinking about doing something. It's the senior slump, man. Motivation's at an all-time low.\n\nEmotion tag: skeptical but acknowledging",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:23:36.162200",
+      "response_time_ms": 1137,
+      "message_length": 21,
+      "response_length": 241,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.95.181",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:23:21.354041",
-  "total_conversations": 822,
+  "last_updated": "2025-10-17T00:23:36.162301",
+  "total_conversations": 823,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
