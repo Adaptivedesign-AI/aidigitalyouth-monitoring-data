@@ -16001,18 +16001,36 @@
       "hour": 0,
       "ip_address": "10.220.15.131",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 890,
+      "session_id": "20251017_002550_256724fe",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Just going out to the movies",
+      "ai_response": "Movies? Ugh. The theater's, like, the *worst* place to go. Dark, crowded, nowhere to escape. Everyone's glued to the screen, but I always feel like eyes are on *me*. But, fine. I guess. Just... pick a time when it's not gonna be packed, okay? And don't ditch me if I get overwhelmed. Seriously.\n\nEmotion tag: dreading it but trying to sound cool",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:33:09.420986",
+      "response_time_ms": 1229,
+      "message_length": 28,
+      "response_length": 345,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:33:00.127098",
-  "total_conversations": 889,
+  "last_updated": "2025-10-17T00:33:09.421089",
+  "total_conversations": 890,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
