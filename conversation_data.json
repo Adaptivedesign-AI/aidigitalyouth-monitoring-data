@@ -17279,18 +17279,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 961,
+      "session_id": "20251017_003038_612d1387",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Well wallowing in self pity it’s not good for your mental health.",
+      "ai_response": "Yeah, well, thanks, Dr. Phil. Like I haven't figured that out. It's not like I *enjoy* feeling like this. It's just...hard to shake, you know? Easy for you to say \"don't wallow.\" What else am I supposed to do when everything feels like crap?\n\nEmotion tag: bitter",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:40:34.548094",
+      "response_time_ms": 1136,
+      "message_length": 65,
+      "response_length": 262,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:40:31.763384",
-  "total_conversations": 960,
+  "last_updated": "2025-10-17T00:40:34.548192",
+  "total_conversations": 961,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
