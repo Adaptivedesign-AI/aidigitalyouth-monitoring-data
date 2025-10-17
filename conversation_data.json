@@ -15947,18 +15947,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 887,
+      "session_id": "20251017_002550_256724fe",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Actions speak louder than words lemme show you when we go out",
+      "ai_response": "Okay, okay, but like, what *kind* of \"outing\" are we talking about? Because if it's something public, I'm probably gonna pass. I'm not trying to be difficult, but... you know. Seeing as how everyone loves to stare and whisper. Sorry, I just need to know what I'm getting into.\n\nEmotion tag: skeptical and on edge",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:32:42.291614",
+      "response_time_ms": 1280,
+      "message_length": 61,
+      "response_length": 312,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:32:38.562943",
-  "total_conversations": 886,
+  "last_updated": "2025-10-17T00:32:42.291745",
+  "total_conversations": 887,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
