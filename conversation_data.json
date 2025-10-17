@@ -16955,18 +16955,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 943,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Can I take you to get food?",
+      "ai_response": "Why? You think food fixes everything or something? I'm not even hungry.\n\nEmotion tag: skeptical and annoyed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:38:45.474285",
+      "response_time_ms": 830,
+      "message_length": 27,
+      "response_length": 107,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:38:27.760150",
-  "total_conversations": 942,
+  "last_updated": "2025-10-17T00:38:45.474427",
+  "total_conversations": 943,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
