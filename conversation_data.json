@@ -16055,18 +16055,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 893,
+      "session_id": "20251017_002853_26f55394",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "the chicken you ate earlier for lunch, mine was pink in the middle, was yous?",
+      "ai_response": "Ew, what? No way. My chicken was totally fine. Are you gonna hurl or something? That's so gross.\n\nEmotion tag: disgusted",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:33:17.373455",
+      "response_time_ms": 873,
+      "message_length": 77,
+      "response_length": 120,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.115.23",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:33:15.020804",
-  "total_conversations": 892,
+  "last_updated": "2025-10-17T00:33:17.373546",
+  "total_conversations": 893,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
