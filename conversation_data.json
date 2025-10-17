@@ -14363,18 +14363,36 @@
       "hour": 0,
       "ip_address": "10.220.208.132",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 799,
+      "session_id": "20251017_002013_86699697",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah same. You have any plans for the weekend?",
+      "ai_response": "Not really. Probably just gonna chill at home, maybe play some games. Gotta catch up on some sleep too. You doing anything cool?\n\nEmotion tag: bored",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:21:04.363877",
+      "response_time_ms": 1010,
+      "message_length": 46,
+      "response_length": 148,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.82.120",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:20:38.069590",
-  "total_conversations": 798,
+  "last_updated": "2025-10-17T00:21:04.363978",
+  "total_conversations": 799,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
