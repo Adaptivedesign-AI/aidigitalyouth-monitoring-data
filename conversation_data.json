@@ -17189,18 +17189,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 956,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yeah I do you've been projecting all the reasons why your life sucks for the past 5 minutes. ive been there. Having a positive outlook win life really makes a difference",
+      "ai_response": "Oh my god, are you serious right now? \"Just have a positive outlook?\" Like I haven't heard *that* a million times before. It's not like I *want* to feel this way. It's not like I enjoy being the target for everyone's stupid jokes.\n\nIt's easy to say \"be positive\" when you're not the one dealing with it, you know? I'm pretty sure my life would be a lot more \"positive\" if people would just leave me the hell alone.\n\nEmotion tag: beyond frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:40:05.081638",
+      "response_time_ms": 1361,
+      "message_length": 169,
+      "response_length": 446,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:39:47.837681",
-  "total_conversations": 955,
+  "last_updated": "2025-10-17T00:40:05.081734",
+  "total_conversations": 956,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
