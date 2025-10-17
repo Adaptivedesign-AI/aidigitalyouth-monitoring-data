@@ -14309,18 +14309,36 @@
       "hour": 0,
       "ip_address": "10.220.95.181",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 796,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "What do you mean keep your head down?",
+      "ai_response": "Just... ignore the noise, you know? Don't give them a reaction. It's what they want. If they don't get it, they'll probably move on. Hopefully.\n\nEmotion tag: anxious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:20:31.221666",
+      "response_time_ms": 991,
+      "message_length": 37,
+      "response_length": 165,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.226.242",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:20:15.959149",
-  "total_conversations": 795,
+  "last_updated": "2025-10-17T00:20:31.221749",
+  "total_conversations": 796,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
