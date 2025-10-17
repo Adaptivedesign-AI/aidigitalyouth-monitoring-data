@@ -16883,18 +16883,36 @@
       "hour": 0,
       "ip_address": "10.220.192.193",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 939,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "do you draw in class",
+      "ai_response": "Sometimes. When I'm, like, *really* checked out. Which is most of the time. I doodle in my notebook. Nothing special. Just, like, patterns and stuff. It's not like I'm gonna be the next Picasso or something.\n\nEmotion tag: empty",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:38:18.368202",
+      "response_time_ms": 1134,
+      "message_length": 20,
+      "response_length": 227,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.208.132",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:38:15.592209",
-  "total_conversations": 938,
+  "last_updated": "2025-10-17T00:38:18.368307",
+  "total_conversations": 939,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
