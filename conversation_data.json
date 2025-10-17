@@ -14921,18 +14921,36 @@
       "hour": 0,
       "ip_address": "10.220.223.3",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 830,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "nah i don’t play sports i js sew clothes",
+      "ai_response": "Sew clothes? That's actually pretty cool. Like, do you design them too, or just like... make them? I can barely sew a button back on. I ripped my track jacket the other day and I'm probably gonna have to ask my mom to fix it.\n\nEmotion tag: genuinely curious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:25:08.461456",
+      "response_time_ms": 968,
+      "message_length": 40,
+      "response_length": 257,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:24:58.520609",
-  "total_conversations": 829,
+  "last_updated": "2025-10-17T00:25:08.461586",
+  "total_conversations": 830,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
