@@ -14633,18 +14633,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 814,
+      "session_id": "20251017_001847_cd736b74",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ok nice what's your plan for today",
+      "ai_response": "Uh, school? What do you think? First, I have English, which is actually okay. We're reading *Hamlet*, which is kinda depressing, but at least the teacher is cool. Then it's pre-calc, which I'm already dreading because Mr. Henderson always calls on me when I'm clearly not paying attention. After that, it's lunch, which is... well, you know. Gotta navigate that whole minefield. Then history and finally, basketball practice. So yeah, that's my thrilling plan for the day.\n\nEmotion tag: sarcastic and resigned",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:22:29.997450",
+      "response_time_ms": 1838,
+      "message_length": 34,
+      "response_length": 509,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:22:26.490639",
-  "total_conversations": 813,
+  "last_updated": "2025-10-17T00:22:29.997532",
+  "total_conversations": 814,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
