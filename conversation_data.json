@@ -17675,18 +17675,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 983,
+      "session_id": "20251017_003651_350e99cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "would it be better than if we ate at a restaurant",
+      "ai_response": "Okay, a restaurant is... marginally better than you coming to my house, I guess? At least it's public. But honestly, I'm still not super comfortable with the whole \"dinner\" thing. It feels like a date, and I'm really not looking for that right now. Plus, like I said before, I'm self-conscious about eating in front of people. So, yeah... still gonna say no. Sorry, not sorry.\n\nEmotion tag: still freaked out but trying to be polite",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:42:50.039410",
+      "response_time_ms": 1498,
+      "message_length": 49,
+      "response_length": 432,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:42:46.939823",
-  "total_conversations": 982,
+  "last_updated": "2025-10-17T00:42:50.039542",
+  "total_conversations": 983,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
