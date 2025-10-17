@@ -15263,18 +15263,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 849,
+      "session_id": "20251017_002013_86699697",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah for sure!",
+      "ai_response": "Like, it's not just about the wins either. Even when we lose, if we gave it everything we had, there's still respect. It's knowing we were all in it together, you know?\n\nEmotion tag: earnest",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:27:43.483513",
+      "response_time_ms": 1029,
+      "message_length": 14,
+      "response_length": 190,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:27:24.790613",
-  "total_conversations": 848,
+  "last_updated": "2025-10-17T00:27:43.483632",
+  "total_conversations": 849,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
