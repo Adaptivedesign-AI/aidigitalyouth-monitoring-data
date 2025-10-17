@@ -17135,18 +17135,36 @@
       "hour": 0,
       "ip_address": "10.220.115.23",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 953,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Maybe its because your so negative and self deprecating?",
+      "ai_response": "Okay, wow. Rude. I'm \"negative and self-deprecating\"? Maybe if I wasn't constantly getting treated like crap, I'd be, like, sunshine and rainbows. But when you're walking down the hall and people are whispering stuff about you, or laughing, or when some jerk \"accidentally\" bumps into you at your locker, yeah, it kinda messes with your vibe.\n\nSo maybe instead of blaming *me* for being \"negative,\" try understanding *why* I am. Just a thought.\n\nEmotion tag: defensive and angry",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:39:33.771369",
+      "response_time_ms": 1506,
+      "message_length": 56,
+      "response_length": 478,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:39:26.296437",
-  "total_conversations": 952,
+  "last_updated": "2025-10-17T00:39:33.771461",
+  "total_conversations": 953,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
