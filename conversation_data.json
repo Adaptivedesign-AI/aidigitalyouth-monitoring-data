@@ -14561,18 +14561,36 @@
       "hour": 0,
       "ip_address": "10.220.208.132",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 810,
+      "session_id": "20251017_001847_cd736b74",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "do you let it get to you",
+      "ai_response": "What do you mean \"let it get to me?\" Like, do I cry about it every night? No. I mean, not usually. But does it affect me? Yeah, obviously. It's hard to just block out constant little digs and whispers. It's like a mosquito buzzing in your ear, you know? You can try to ignore it, but it's still annoying as hell. And sometimes, yeah, it does get to me more than I want it to. I just try not to show it.\n\nEmotion tag: trying to downplay it",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:22:06.323140",
+      "response_time_ms": 1540,
+      "message_length": 24,
+      "response_length": 438,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.201.111",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:22:02.366931",
-  "total_conversations": 809,
+  "last_updated": "2025-10-17T00:22:06.323255",
+  "total_conversations": 810,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
