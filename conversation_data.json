@@ -16703,18 +16703,36 @@
       "hour": 0,
       "ip_address": "10.220.32.27",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 929,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "You like takin the bus",
+      "ai_response": "Nah, not really. It's always late and crowded. Plus, sometimes the bus driver is a total jerk.\n\nEmotion tag: annoyed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:37:16.478792",
+      "response_time_ms": 772,
+      "message_length": 22,
+      "response_length": 116,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:37:04.650976",
-  "total_conversations": 928,
+  "last_updated": "2025-10-17T00:37:16.478883",
+  "total_conversations": 929,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
