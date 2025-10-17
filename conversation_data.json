@@ -17765,18 +17765,36 @@
       "hour": 0,
       "ip_address": "10.220.57.85",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 988,
+      "session_id": "20251017_003651_350e99cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "so you wanna just be friends?",
+      "ai_response": "I mean, yeah? I thought that was obvious. I'm not trying to lead anyone on or anything. I'm just trying to survive high school, you know? Dealing with all the... *stuff* that's been happening. So, yeah, friends is good. Friends are cool. As long as there's no pressure, and no like, expectations.\n\nEmotion tag: cautiously relieved",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:43:24.560731",
+      "response_time_ms": 1122,
+      "message_length": 29,
+      "response_length": 330,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.91.109",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:43:19.816088",
-  "total_conversations": 987,
+  "last_updated": "2025-10-17T00:43:24.560858",
+  "total_conversations": 988,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
