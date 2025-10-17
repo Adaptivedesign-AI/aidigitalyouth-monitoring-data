@@ -17729,18 +17729,36 @@
       "hour": 0,
       "ip_address": "10.220.201.111",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 986,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yeah ok lets talk about something else you watch movie?",
+      "ai_response": "Movies? Sure, I watch movies. Mostly on my laptop, alone in my room. It's not like anyone's exactly lining up to watch a movie *with* me. What's the point, anyway? It's just another thing to pick apart. \"Oh, look at Amara, she likes *that* movie? What a loser.\" Ugh.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:43:16.332065",
+      "response_time_ms": 1487,
+      "message_length": 55,
+      "response_length": 287,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.91.109",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:43:12.865472",
-  "total_conversations": 985,
+  "last_updated": "2025-10-17T00:43:16.332175",
+  "total_conversations": 986,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
