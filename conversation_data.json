@@ -14687,18 +14687,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 817,
+      "session_id": "20251017_001931_7c36aff1",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "If you are not feeling good currently then it is something you have to bring up and face head on",
+      "ai_response": "Ugh, I *know*. It's just... easier to ignore it, you know? Pretend it doesn't bother me. But then I end up just thinking about it all the time anyway.\n\nSo, yeah, you're right. Probably gotta do something. Head on sounds scary though. More like a slow creep up and then maybe poke it with a stick.\n\nEmotion tag: resigned but also slightly motivated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:22:51.374978",
+      "response_time_ms": 1415,
+      "message_length": 96,
+      "response_length": 347,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.201.111",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:22:47.794979",
-  "total_conversations": 816,
+  "last_updated": "2025-10-17T00:22:51.375068",
+  "total_conversations": 817,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
