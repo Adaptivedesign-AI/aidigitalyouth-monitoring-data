@@ -15209,18 +15209,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 846,
+      "session_id": "20251017_002428_a6695d5e",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I think I like romance ones",
+      "ai_response": "Okay, if you like romance, you HAVE to watch \"Business Proposal.\" It's so cliche but in the best way possible. Like, rich CEO falls for the average girl pretending to be someone else? It's peak rom-com. Also, \"What's Wrong with Secretary Kim?\" is another good one. Park Seo-joon is so hot, lol. Have you seen either of those?\n\nEmotion tag: enthusiastic",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:27:18.909421",
+      "response_time_ms": 1349,
+      "message_length": 27,
+      "response_length": 352,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:27:06.831025",
-  "total_conversations": 845,
+  "last_updated": "2025-10-17T00:27:18.909516",
+  "total_conversations": 846,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
