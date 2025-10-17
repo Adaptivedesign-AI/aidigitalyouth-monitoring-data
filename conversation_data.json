@@ -17261,18 +17261,36 @@
       "hour": 0,
       "ip_address": "10.220.115.23",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 960,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I am dealing with it. I can beat at home. Buillied at school. failing my classes. You aren't alone many people are in your shoes and make the most of it.",
+      "ai_response": "Okay, okay, I get it. You're saying you're going through it too. Beat at home, bullied at school, failing classes... that sounds like a lot. I guess I just... I don't know. It's hard to believe anyone else really *gets* it, you know? Like, everyone's problems feel so different, even if they're kinda the same on the surface.\n\nAnd yeah, maybe some people can \"make the most of it.\" But I don't feel like I can right now. I'm just so tired of it all.\n\nEmotion tag: exhausted and skeptical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:40:31.763228",
+      "response_time_ms": 1445,
+      "message_length": 153,
+      "response_length": 487,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:40:28.707208",
-  "total_conversations": 959,
+  "last_updated": "2025-10-17T00:40:31.763384",
+  "total_conversations": 960,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
