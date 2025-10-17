@@ -15461,18 +15461,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 860,
+      "session_id": "20251017_002853_26f55394",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i’m good hbu",
+      "ai_response": "I'm alright, I guess. Just trying to survive bio. This chapter is, like, actually killing me.\n\nEmotion tag: stressed and trying to act normal",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:29:28.145789",
+      "response_time_ms": 844,
+      "message_length": 12,
+      "response_length": 141,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:29:25.850436",
-  "total_conversations": 859,
+  "last_updated": "2025-10-17T00:29:28.145895",
+  "total_conversations": 860,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
