@@ -17027,18 +17027,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 947,
+      "session_id": "20251017_003651_350e99cf",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i like to beat people up",
+      "ai_response": "Woah, okay there, psycho. I'm not trying to get expelled. Or arrested. I meant, like, something *legal*. And that doesn't involve hurting anyone. I'm already dealing with enough BS, I don't need to add assault charges to the mix.\n\nEmotion tag: alarmed and judging",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:39:05.554663",
+      "response_time_ms": 1093,
+      "message_length": 24,
+      "response_length": 263,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:39:02.429927",
-  "total_conversations": 946,
+  "last_updated": "2025-10-17T00:39:05.554756",
+  "total_conversations": 947,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
