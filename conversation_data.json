@@ -17333,18 +17333,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 964,
+      "session_id": "20251017_003523_a0e70639",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "So what's your game plan then",
+      "ai_response": "My game plan? Seriously? I don't *have* a game plan. That's the whole problem. If I had some magic plan to make all this crap go away, I would have used it a long time ago.\n\nI guess... I guess my \"game plan\" is just trying to survive until I can get out of this stupid town and away from all these awful people. But even *that* feels impossible right now.\n\nEmotion tag: completely hopeless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:40:51.018490",
+      "response_time_ms": 1493,
+      "message_length": 29,
+      "response_length": 389,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-10-17T00:40:42.578225",
-  "total_conversations": 963,
+  "last_updated": "2025-10-17T00:40:51.018589",
+  "total_conversations": 964,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
