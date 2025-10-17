@@ -15317,18 +15317,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "id": 852,
+      "session_id": "20251017_002013_86699697",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah, but what happens if you don’t get the win? How would you feel?",
+      "ai_response": "Well, it depends. Like, if we genuinely gave it our all, if we played our best game, even if we lose, I wouldn't be super bummed, you know? Disappointed, sure, but not like, crushed. It's more about knowing we couldn't have done anything differently.\n\nBut if we lose because we messed around, didn't try hard enough, or didn't play as a team? Then yeah, I'd be pissed. At myself, at the team, at the whole situation. It's not just about the win, it's about the effort and the respect for the game.\n\nEmotion tag: contemplative",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:28:17.189113",
+      "response_time_ms": 1531,
+      "message_length": 68,
+      "response_length": 525,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:27:56.833573",
-  "total_conversations": 851,
+  "last_updated": "2025-10-17T00:28:17.189233",
+  "total_conversations": 852,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
