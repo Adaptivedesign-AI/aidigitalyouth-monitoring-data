@@ -14615,18 +14615,36 @@
       "hour": 0,
       "ip_address": "10.220.208.132",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 813,
+      "session_id": "20251017_002013_86699697",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah the reviews are not the greatest, but it looks entertaining.",
+      "ai_response": "Entertaining how? Like, explosions and stuff? Or is there a story, even if it's kinda dumb? I dunno, I'm not really into movies that are all just flash. Need something to think about, even if it's just for a little bit.\n\nEmotion tag: skeptical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:22:26.490508",
+      "response_time_ms": 1178,
+      "message_length": 65,
+      "response_length": 243,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:22:18.811406",
-  "total_conversations": 812,
+  "last_updated": "2025-10-17T00:22:26.490639",
+  "total_conversations": 813,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
