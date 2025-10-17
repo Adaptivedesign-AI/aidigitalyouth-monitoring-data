@@ -17495,18 +17495,36 @@
       "hour": 0,
       "ip_address": "10.220.201.111",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 973,
+      "session_id": "20251017_003637_9199243f",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I’m finna surprise you",
+      "ai_response": "Surprise me how? You know I hate surprises, right? Like, is it gonna be something I can actually eat? I'm not down for weird stuff, just saying.\n\nEmotion tag: skeptical but curious",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-17T00:41:48.170994",
+      "response_time_ms": 988,
+      "message_length": 22,
+      "response_length": 180,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.57.85",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:41:30.953728",
-  "total_conversations": 972,
+  "last_updated": "2025-10-17T00:41:48.171104",
+  "total_conversations": 973,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
