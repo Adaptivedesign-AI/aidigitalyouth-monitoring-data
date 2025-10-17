@@ -15101,18 +15101,36 @@
       "hour": 0,
       "ip_address": "10.220.115.134",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 840,
+      "session_id": "20251017_001943_89b13ad2",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i’m gluten free tho",
+      "ai_response": "Ugh, seriously? Okay, that throws the cookie idea out the window. I guess $100 is just out of my budget for a jacket sleeve right now. I'll just, like, deal with it, I guess. Thanks anyway...\n\nEmotion tag: bummed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-17T00:26:09.295236",
+      "response_time_ms": 1167,
+      "message_length": 19,
+      "response_length": 212,
+      "day_of_week": "Friday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-17T00:26:06.666790",
-  "total_conversations": 839,
+  "last_updated": "2025-10-17T00:26:09.295370",
+  "total_conversations": 840,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
