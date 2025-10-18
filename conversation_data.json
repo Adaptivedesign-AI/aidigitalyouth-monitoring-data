@@ -18773,18 +18773,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1044,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "It's ok just start asking for help",
+      "ai_response": "Okay, *fine*. But who do I even ask? Seriously. Ms. Davison, the guidance counselor? She's, like, always swamped. And I can practically hear her saying, \"Just ignore them, Lucas. They're just jealous.\" Like, thanks, Ms. D, that's *so* helpful.\n\nAnd what about my parents? They'd freak. I can see my mom now, all worried and wanting to call the school and, ugh, make a *huge* deal out of it. Which would just make everything ten times worse.\n\nSo, yeah, asking for help sounds great in theory. But in reality? It just feels like opening Pandora's Box. And I'm not sure I'm ready for all the crap that's gonna come flying out.\n\nEmotion tag: resigned and trapped",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:43:48.556630",
+      "response_time_ms": 1803,
+      "message_length": 34,
+      "response_length": 658,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:43:39.156379",
-  "total_conversations": 1043,
+  "last_updated": "2025-10-18T00:43:48.556711",
+  "total_conversations": 1044,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
