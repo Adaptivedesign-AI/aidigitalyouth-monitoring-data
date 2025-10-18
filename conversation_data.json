@@ -18809,18 +18809,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1046,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "It will be worth it in the end",
+      "ai_response": "Ugh, easy for you to say. You're not the one being stared at in the halls or having your pics photoshopped into memes. Like, yeah, logically, I know getting help *should* be worth it. I get it. But when you're in the middle of it, when you're just trying to survive the day, it's hard to see past the next insult, the next snicker.\n\nIt's like, tell me *exactly* how it's gonna be worth it. Will those guys suddenly turn into decent human beings? Will everyone suddenly realize they're being jerks and apologize? Or will it just stop eventually, and I'll be left with all these memories of feeling like crap?\n\n'Cause if it's just the last one, I don't know if that's really \"worth it,\" you know?\n\nEmotion tag: skeptical and a little defeated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:44:13.466184",
+      "response_time_ms": 1792,
+      "message_length": 30,
+      "response_length": 740,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:44:10.100752",
-  "total_conversations": 1045,
+  "last_updated": "2025-10-18T00:44:13.466287",
+  "total_conversations": 1046,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
