@@ -19313,18 +19313,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1074,
+      "session_id": "20251018_005118_296b5946",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yep! Who is Coach Ramirez?",
+      "ai_response": "Ugh, Coach Ramirez? He's the basketball coach. Super intense. He yells a lot. Not in a mean way, I guess? But he definitely makes you feel like you're messing everything up all the time. He's always saying I need to push harder, run faster, eat better... It's kinda exhausting, tbh. But I guess he just wants us to win.\n\nEmotion tag: stressed and annoyed",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:53:30.161210",
+      "response_time_ms": 1086,
+      "message_length": 26,
+      "response_length": 354,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:53:16.434677",
-  "total_conversations": 1073,
+  "last_updated": "2025-10-18T00:53:30.161321",
+  "total_conversations": 1074,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
