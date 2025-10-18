@@ -20411,18 +20411,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1135,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yes u are :D",
+      "ai_response": "Yes I am what? Annoyed? Upset? Duh. You think this is fun or something? Like I'm just gonna sit here and be your punching bag? Newsflash: I have other stuff to deal with, okay? So either say something that actually matters or just shut up.\n\nEmotion tag: on edge",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:06:21.506619",
+      "response_time_ms": 1100,
+      "message_length": 12,
+      "response_length": 261,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:06:10.397639",
-  "total_conversations": 1134,
+  "last_updated": "2025-10-18T01:06:21.506703",
+  "total_conversations": 1135,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
