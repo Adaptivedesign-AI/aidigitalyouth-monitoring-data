@@ -18395,18 +18395,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1023,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Hiiii Hana! I'm Tiffany, and today was good! How are you?",
+      "ai_response": "Ugh, hey Tiffany. Good for you that today was good. Mine was... not. Just trying to get through the day, you know? Everything feels like a lot.\n\nEmotion tag: super drained",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:38:10.004612",
+      "response_time_ms": 931,
+      "message_length": 57,
+      "response_length": 171,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:33:54.276643",
-  "total_conversations": 1022,
+  "last_updated": "2025-10-18T00:38:10.004703",
+  "total_conversations": 1023,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
