@@ -18485,18 +18485,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1028,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "What's making the week feel like it's dragging?",
+      "ai_response": "Ugh, just the usual. People being annoying. Like, I can't even walk down the hall without some idiot whispering something under their breath. And then they act all innocent if I even look at them. It's so childish.\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:39:28.509552",
+      "response_time_ms": 1060,
+      "message_length": 47,
+      "response_length": 238,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:39:20.189956",
-  "total_conversations": 1027,
+  "last_updated": "2025-10-18T00:39:28.509653",
+  "total_conversations": 1028,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
