@@ -18413,18 +18413,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1024,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Aw why? :(",
+      "ai_response": "Ugh, I don't even wanna talk about it. It's just the same crap as always. People being...people. It's whatever. I just wanna go home and sleep.\n\nEmotion tag: so over it",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:38:27.305225",
+      "response_time_ms": 903,
+      "message_length": 10,
+      "response_length": 168,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:38:10.004703",
-  "total_conversations": 1023,
+  "last_updated": "2025-10-18T00:38:27.305349",
+  "total_conversations": 1024,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
