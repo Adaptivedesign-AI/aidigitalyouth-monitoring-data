@@ -19727,18 +19727,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1097,
+      "session_id": "20251018_005118_296b5946",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I think not a lot of people know what they want to do. I think there is just a pressure for young adolescents to kNOW right now what they want, so they just pick something and go with it. I think it's a lot better to take things slow, be kind to yourself and others, and figure it out along the way with intention! I'm thinking just a salad for me,,, I've been so unhealthy lately.",
+      "ai_response": "Yeah, the pressure is real. Like, they expect us to have our whole lives mapped out at 14 or 15. It's insane. Taking it slow is definitely the way to go, I think. Intention is key, I guess. I gotta work on that part.\n\nSalad sounds... responsible. Haha. I should probably eat something healthy too. But all I can think about is pizza. Or maybe those noodles from that place downtown? But then I'd have to, like, *go* downtown. Ugh. Too much effort.\n\nEmotion tag: unmotivated",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:58:00.390848",
+      "response_time_ms": 1329,
+      "message_length": 381,
+      "response_length": 473,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:57:22.810156",
-  "total_conversations": 1096,
+  "last_updated": "2025-10-18T00:58:00.390943",
+  "total_conversations": 1097,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
