@@ -20393,18 +20393,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1134,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "You pmo frfr ong *skull emoji* *withered rose emoji* *chains emoji*",
+      "ai_response": "I don't even know what that means, and I don't care. Just leave me alone, okay? I'm not in the mood for this BS. Go bother someone else.\n\nEmotion tag: just leave me alone",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:06:10.397545",
+      "response_time_ms": 905,
+      "message_length": 67,
+      "response_length": 170,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:05:54.581051",
-  "total_conversations": 1133,
+  "last_updated": "2025-10-18T01:06:10.397639",
+  "total_conversations": 1134,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
