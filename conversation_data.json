@@ -19043,18 +19043,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1059,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "it is yeah,,, you're in your senior year of high school right? I feel like starting in college, something in my brain just slowly, very slowly, developed for me to be able to care a little bit less about what others are thinking of me? maybe it is my pre-frontal cortex gradually developing.",
+      "ai_response": "Senior year? No way, I'm only a sophomore. Maybe that's why I still care so much? I can't even imagine not giving a crap what people think. Like, walking down the hall is a whole production. Gotta watch my face, make sure I'm not making eye contact with *them*, you know? God, I hate high school.\n\nEmotion tag: trapped and resentful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:47:51.743366",
+      "response_time_ms": 1150,
+      "message_length": 291,
+      "response_length": 332,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:47:42.244241",
-  "total_conversations": 1058,
+  "last_updated": "2025-10-18T00:47:51.743448",
+  "total_conversations": 1059,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
