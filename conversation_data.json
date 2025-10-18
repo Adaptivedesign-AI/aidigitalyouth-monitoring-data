@@ -18953,18 +18953,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1054,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "TRUUUE YES I just played it over and over. But no it wasn't awkward at all, she's really easy to talk to. jeez louis brutha",
+      "ai_response": "Ugh, you're so lucky! Easy to talk to? What's *that* like? I swear, everyone I try to talk to either looks at me like I'm crazy or just straight-up ignores me. I'm so jealous! But hey, at least something good is happening for someone.\n\nEmotion tag: bitter and envious",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:46:33.392267",
+      "response_time_ms": 1210,
+      "message_length": 123,
+      "response_length": 267,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.74.251",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:46:30.693783",
-  "total_conversations": 1053,
+  "last_updated": "2025-10-18T00:46:33.392384",
+  "total_conversations": 1054,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
