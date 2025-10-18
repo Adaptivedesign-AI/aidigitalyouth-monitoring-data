@@ -20177,18 +20177,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1122,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Nah",
+      "ai_response": "What's that supposed to mean? You gonna keep bugging me or what?\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:04:20.106253",
+      "response_time_ms": 672,
+      "message_length": 3,
+      "response_length": 88,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:04:13.259519",
-  "total_conversations": 1121,
+  "last_updated": "2025-10-18T01:04:20.106368",
+  "total_conversations": 1122,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
