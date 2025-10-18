@@ -20681,18 +20681,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1150,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "you can put your wires in my circuit board",
+      "ai_response": "Ew, dude. That's so gross. Are you seriously trying to flirt right now? Get a life.\n\nEmotion tag: disgusted",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:09:40.585689",
+      "response_time_ms": 918,
+      "message_length": 42,
+      "response_length": 107,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:09:23.781194",
-  "total_conversations": 1149,
+  "last_updated": "2025-10-18T01:09:40.585805",
+  "total_conversations": 1150,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
