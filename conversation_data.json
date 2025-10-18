@@ -18431,18 +18431,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1025,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Oh that's alright, we don't have to talk about it.",
+      "ai_response": "Yeah, thanks. I appreciate that. It's nice to know someone gets it, even if they don't know *what* \"it\" is, ya know? Just having someone acknowledge it helps a little.\n\nEmotion tag: barely holding it together",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:38:40.405517",
+      "response_time_ms": 1040,
+      "message_length": 50,
+      "response_length": 208,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:38:27.305349",
-  "total_conversations": 1024,
+  "last_updated": "2025-10-18T00:38:40.405658",
+  "total_conversations": 1025,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
