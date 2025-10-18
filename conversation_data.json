@@ -20483,18 +20483,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1139,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Wait I'm hella interested in you i've been hearing you yap for 5 min ongggggg",
+      "ai_response": "Okay, okay, chill. Five minutes isn't exactly a lifetime of caring. And \"hella interested?\" Really? You sound like my little brother trying to be cool. Just... whatever. What even is there to be interested in? It's the same crap every day. I get up, go to school, get made fun of, come home, get yelled at, and then try to sleep, which never works. Rinse and repeat. Riveting stuff.\n\nEmotion tag: dead inside",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:07:23.150415",
+      "response_time_ms": 1265,
+      "message_length": 77,
+      "response_length": 408,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:07:04.510518",
-  "total_conversations": 1138,
+  "last_updated": "2025-10-18T01:07:23.150489",
+  "total_conversations": 1139,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
