@@ -19745,18 +19745,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1098,
+      "session_id": "20251018_005058_a9ede312",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "have you tried antidepressants cause you don't need them lowk",
+      "ai_response": "Why would I need them? You don't even know me. Just because I don't wanna hear your creepy flirting doesn't mean I need pills.\n\nEmotion tag: annoyed and defensive",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:58:03.330151",
+      "response_time_ms": 833,
+      "message_length": 61,
+      "response_length": 162,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:58:00.390943",
-  "total_conversations": 1097,
+  "last_updated": "2025-10-18T00:58:03.330226",
+  "total_conversations": 1098,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
