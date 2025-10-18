@@ -18845,18 +18845,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1048,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "you can still turn your life around and make your life better even if you don't have a lot of time left in school, it'll still be worth it",
+      "ai_response": "Look, I get what you're saying. Like, theoretically, right? Even if school sucks now, it won't last forever. And, yeah, I *could* try to make things better, focus on college, build a good life *after* this.\n\nBut that's the thing, isn't it? It's *after*. It's the future. And right now? I'm still stuck in this crap. It doesn't magically disappear just because I decide to \"turn my life around.\" I still have to walk the halls, I still have to deal with the whispers, the stares, the stupid group chats.\n\nSo, yeah, maybe someday it'll be \"worth it.\" Maybe someday I'll look back and be like, \"Wow, I'm so glad I got through that.\" But right now, it just feels like I'm slogging through mud, and someone's telling me to keep going because the mud *might* turn into pavement someday.\n\nEmotion tag: still cynical but slightly less hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:44:43.342011",
+      "response_time_ms": 2018,
+      "message_length": 138,
+      "response_length": 835,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:44:39.508229",
-  "total_conversations": 1047,
+  "last_updated": "2025-10-18T00:44:43.342126",
+  "total_conversations": 1048,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
