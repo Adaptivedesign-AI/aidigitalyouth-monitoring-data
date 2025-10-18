@@ -20231,18 +20231,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1125,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Nah",
+      "ai_response": "So you're just gonna keep saying stuff? What's the point? Are you bored or something? Just leave me alone. Seriously.\n\nEmotion tag: tired",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:04:36.344065",
+      "response_time_ms": 805,
+      "message_length": 3,
+      "response_length": 137,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:04:30.881590",
-  "total_conversations": 1124,
+  "last_updated": "2025-10-18T01:04:36.344161",
+  "total_conversations": 1125,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
