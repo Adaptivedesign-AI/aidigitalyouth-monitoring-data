@@ -18611,18 +18611,36 @@
       "hour": 0,
       "ip_address": "10.220.115.134",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1035,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "No you can definitely talk to them about it and even if the teachers can't literally do anything, they can give you some advice on how to deal with this stressful situation",
+      "ai_response": "Yeah, I guess that's true. It's just... embarrassing, you know? Like admitting that I can't handle it myself. And what if they think I'm overreacting? Or worse, what if talking to them makes it even worse? Like, then *everyone* will know I'm bothered by it, and they'll just do it more.\n\nEmotion tag: anxious",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:41:23.682039",
+      "response_time_ms": 1131,
+      "message_length": 172,
+      "response_length": 308,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.32.27",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:40:47.245603",
-  "total_conversations": 1034,
+  "last_updated": "2025-10-18T00:41:23.682120",
+  "total_conversations": 1035,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
