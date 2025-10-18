@@ -20465,18 +20465,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1138,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "no i don't wanna judge you i'm ur therapist!",
+      "ai_response": "Yeah, well, therapists get paid to listen, right? It's not like you actually care. You're just doing your job. So don't act like you're all that interested. I've heard it all before.\n\nEmotion tag: cynical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:07:04.510415",
+      "response_time_ms": 959,
+      "message_length": 44,
+      "response_length": 204,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:06:52.327955",
-  "total_conversations": 1137,
+  "last_updated": "2025-10-18T01:07:04.510518",
+  "total_conversations": 1138,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
