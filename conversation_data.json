@@ -18125,18 +18125,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1008,
+      "session_id": "20251018_001123_0e7418ee",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Why are you feeling tired",
+      "ai_response": "Well, two-a-days started this week. So, like, double the practice. Plus trying to keep up with school. I don't know, it's just a lot, you know? Coach is really pushing us 'cause it's senior year and we want to make it to state.\n\nEmotion tag: stressed but also motivated",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:13:03.300855",
+      "response_time_ms": 1204,
+      "message_length": 25,
+      "response_length": 269,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-18T00:12:48.222547",
-  "total_conversations": 1007,
+  "last_updated": "2025-10-18T00:13:03.300958",
+  "total_conversations": 1008,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
