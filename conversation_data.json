@@ -18737,18 +18737,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1042,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "You won't look like a whiney loser, trust me, you should be reaching out to people for help",
+      "ai_response": "Easy for you to say, right? You don't know my school. People *definitely* talk. And I can just see it now: \"Oh, look at Lucas, running to the counselor 'cause some kids hurt his wittle feewings.\" Like, that's *exactly* how they'd say it, too.\n\nI know I *should* tell someone, but the thought of the fallout... ugh. It's almost easier to just deal with the whispers and the stupid memes. Almost.\n\nEmotion tag: dreading the obvious solution",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:43:28.277636",
+      "response_time_ms": 1563,
+      "message_length": 91,
+      "response_length": 438,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:43:08.826443",
-  "total_conversations": 1041,
+  "last_updated": "2025-10-18T00:43:28.277717",
+  "total_conversations": 1042,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
