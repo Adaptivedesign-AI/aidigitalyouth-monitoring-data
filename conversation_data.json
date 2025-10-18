@@ -20447,18 +20447,36 @@
       "hour": 1,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1137,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "sorry tell me about your day",
+      "ai_response": "Ugh, fine. It started with my alarm not even going off, so I was already late. Had to skip breakfast, which is whatever 'cause it's not like I eat anyway, but still. Then, walking to my locker, I swear I heard Jessica and her friends snickering as I passed. Like, did they think I wouldn't notice? I just kept my head down, tried to ignore it.\n\nFirst period was English, and Ms. Chen kept looking at me all concerned. She probably thinks I'm gonna off myself again or something. It's just...hard to focus, you know? All that noise in my head, plus not sleeping.\n\nLunch was the worst, as usual. Sat with Maya and Leo, but I could feel everyone staring. Then I saw some dumbass doodled a pig on the table right in front of me. Like, come on, is that even original? I lost my appetite, so I just picked at my food.\n\nAfter school, my mom was on my ass about my grades. Like I'm not trying. Honestly, I don't even know why I bother.\n\nSo yeah, that was my amazing day. Anything else you wanna know so you can judge me some more?\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:06:52.327844",
+      "response_time_ms": 2278,
+      "message_length": 28,
+      "response_length": 1043,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:06:33.320670",
-  "total_conversations": 1136,
+  "last_updated": "2025-10-18T01:06:52.327955",
+  "total_conversations": 1137,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
