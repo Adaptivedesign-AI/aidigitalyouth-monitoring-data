@@ -18683,18 +18683,36 @@
       "hour": 0,
       "ip_address": "10.220.74.251",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1039,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "You might need to fill your life with other things, or having a good support system to help you out",
+      "ai_response": "Yeah, I guess so. It's not like I'm sitting around moping all day. I've got soccer practice, and AP Calc keeps me pretty busy. And my friends... they're cool. We play video games, study together. It's not like I'm completely alone.\n\nBut, like, they don't really get it, you know? They haven't had to deal with this kind of thing. So it's hard to explain how it feels, like, *constantly* waiting for the next jab, the next stupid joke at my expense. So it's easier to just... not talk about it.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:42:36.852288",
+      "response_time_ms": 1477,
+      "message_length": 99,
+      "response_length": 516,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:42:29.551458",
-  "total_conversations": 1038,
+  "last_updated": "2025-10-18T00:42:36.852412",
+  "total_conversations": 1039,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
