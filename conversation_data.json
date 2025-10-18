@@ -19997,18 +19997,36 @@
       "hour": 1,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1112,
+      "session_id": "20251018_010145_fb38470d",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I'm good because I just threw away my antidepressants how are you",
+      "ai_response": "That's... not good, man. You shouldn't just stop taking those. But me? Meh, same old crap. School, people being dicks, the usual.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T01:02:02.320575",
+      "response_time_ms": 1064,
+      "message_length": 65,
+      "response_length": 148,
+      "day_of_week": "Saturday",
+      "hour": 1,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T01:00:55.001429",
-  "total_conversations": 1111,
+  "last_updated": "2025-10-18T01:02:02.320653",
+  "total_conversations": 1112,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
