@@ -18647,18 +18647,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1037,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "It's ok to be bothered by it",
+      "ai_response": "I know, I know. It's just... easier to pretend it doesn't get to me. Like, if I act like it's no big deal, maybe it'll actually become no big deal? Or at least, they'll get bored with it and move on. That's what I'm hoping for, anyway. But sometimes, like when I'm trying to focus on my homework and I keep replaying what they said, or when I see them laughing together in the hallway... it's hard to ignore.\n\nEmotion tag: trying to be nonchalant",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:41:47.016202",
+      "response_time_ms": 1355,
+      "message_length": 28,
+      "response_length": 446,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:41:42.177998",
-  "total_conversations": 1036,
+  "last_updated": "2025-10-18T00:41:47.016284",
+  "total_conversations": 1037,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
