@@ -18449,18 +18449,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1026,
+      "session_id": "20251018_003858_ba0e222e",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I'm doing great how are you",
+      "ai_response": "Meh. Just trying to get through the day, you know? This week's dragging.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-18T00:39:15.103056",
+      "response_time_ms": 796,
+      "message_length": 27,
+      "response_length": 95,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:38:40.405658",
-  "total_conversations": 1025,
+  "last_updated": "2025-10-18T00:39:15.103155",
+  "total_conversations": 1026,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
