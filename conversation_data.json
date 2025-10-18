@@ -18827,18 +18827,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1047,
+      "session_id": "20251018_003750_28f11df5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "LOL I just don't want to hog the conversation. Ok so I saw the girl I am OBSESSED WITHHH [insert heart eyes] in my college communal dorm hall bathroom.",
+      "ai_response": "OMG, no way! In the bathroom? Was she brushing her teeth or, like, doing her hair? Did you even say anything, or did you just stand there like a total dork? Seriously, I need all the details. And don't worry about \"hogging\" the conversation; this is way more interesting than, like, algebra homework or whatever.\n\nEmotion tag: extremely invested",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-18T00:44:39.508147",
+      "response_time_ms": 1069,
+      "message_length": 151,
+      "response_length": 345,
+      "day_of_week": "Saturday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-18T00:44:13.466287",
-  "total_conversations": 1046,
+  "last_updated": "2025-10-18T00:44:39.508229",
+  "total_conversations": 1047,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
