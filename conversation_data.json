@@ -24641,18 +24641,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1370,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "lol",
+      "ai_response": "Okay, okay, you can stop laughing now. Seriously, what's so funny? Is it just that my life is a joke? Because I'm already aware, thanks.\n\nEmotion tag: defensive and wanting to disappear",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:25:44.288273",
+      "response_time_ms": 908,
+      "message_length": 3,
+      "response_length": 185,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:25:41.665547",
-  "total_conversations": 1369,
+  "last_updated": "2025-10-21T00:25:44.288420",
+  "total_conversations": 1370,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
