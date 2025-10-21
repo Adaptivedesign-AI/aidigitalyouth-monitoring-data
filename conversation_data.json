@@ -26243,18 +26243,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1459,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yeah",
+      "ai_response": "Okay, cool. So, like, we'll both be there. That's fine. As long as it's not gonna be all dramatic or something. I'm not in the mood for drama, you know? What are you even gonna wear? Just curious, not like I care that much.\n\nEmotion tag: pretending not to care",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:37:20.501921",
+      "response_time_ms": 1057,
+      "message_length": 4,
+      "response_length": 260,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:37:14.276723",
-  "total_conversations": 1458,
+  "last_updated": "2025-10-21T00:37:20.502026",
+  "total_conversations": 1459,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
