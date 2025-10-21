@@ -24317,18 +24317,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1352,
+      "session_id": "20251021_002305_71f68a2e",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "idk that’s too bad wanna play a game",
+      "ai_response": "Seriously? That's your response? Things are totally messed up and you wanna play a game? I can't even deal right now.\n\nEmotion tag: pissed off and hopeless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:24:37.284133",
+      "response_time_ms": 840,
+      "message_length": 36,
+      "response_length": 155,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:24:35.103063",
-  "total_conversations": 1351,
+  "last_updated": "2025-10-21T00:24:37.284211",
+  "total_conversations": 1352,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
