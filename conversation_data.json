@@ -22247,18 +22247,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1237,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "why?",
+      "ai_response": "Because my parents would freak out, that's why! They'd be all, \"What's wrong? Why didn't you tell us?\" And then they'd probably start hovering even more than they already do. I can practically hear them now, \"Are you okay, Lucas? Do you need anything? Maybe you should quit the team.\" It would be a total nightmare. I just want them to stay out of it, you know? Plus, it's my problem, I should be able to handle it myself.\n\nEmotion tag: exasperated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:13:42.742699",
+      "response_time_ms": 1311,
+      "message_length": 4,
+      "response_length": 448,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:13:40.071070",
-  "total_conversations": 1236,
+  "last_updated": "2025-10-21T00:13:42.742795",
+  "total_conversations": 1237,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
