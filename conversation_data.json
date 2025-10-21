@@ -24263,18 +24263,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1349,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "who are your friends",
+      "ai_response": "Friends? That's... complicated. I mean, there are people I talk to at school, you know? Like, in class. But \"friends?\" Real friends? I don't know if I have any of those right now. There's this girl, Maya, she's kinda nice, but she's always busy. And some guys on the basketball team, back when I was playing. But now? They don't really hit me up. So, yeah. Not really anyone.\n\nEmotion tag: lonely and a little ashamed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:24:21.064667",
+      "response_time_ms": 1373,
+      "message_length": 20,
+      "response_length": 417,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.245.82",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:24:12.114608",
-  "total_conversations": 1348,
+  "last_updated": "2025-10-21T00:24:21.064751",
+  "total_conversations": 1349,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
