@@ -24479,18 +24479,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1361,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ok then i encourage you to find someone you think that can relate",
+      "ai_response": "Yeah, real helpful. Like it's *so* easy to just find someone who gets it. You think I haven't *tried*? Everyone just says \"ignore them\" or \"tell a teacher,\" like that magically fixes everything. It doesn't.\n\nEmotion tag: frustrated and alone",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:25:17.228471",
+      "response_time_ms": 1125,
+      "message_length": 65,
+      "response_length": 241,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:25:10.954948",
-  "total_conversations": 1360,
+  "last_updated": "2025-10-21T00:25:17.228568",
+  "total_conversations": 1361,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
