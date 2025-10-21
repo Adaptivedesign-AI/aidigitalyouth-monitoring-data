@@ -23201,18 +23201,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1290,
+      "session_id": "20251021_001803_ef5bf9ec",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "what do u like watching",
+      "ai_response": "I don't know, random stuff. Like, sometimes I watch these makeup tutorials even though I barely wear any. Or those videos of people fixing up old houses. It's kinda relaxing, I guess. What about you?\n\nEmotion tag: distracted",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:19:26.463653",
+      "response_time_ms": 1004,
+      "message_length": 23,
+      "response_length": 224,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:19:20.622198",
-  "total_conversations": 1289,
+  "last_updated": "2025-10-21T00:19:26.463731",
+  "total_conversations": 1290,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
