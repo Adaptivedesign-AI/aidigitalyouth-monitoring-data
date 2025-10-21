@@ -21941,18 +21941,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1220,
+      "session_id": "20251021_000548_c936d3bd",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "thats what gets me up, i hate it so much, i throw it across the room and it forces me to wake up",
+      "ai_response": "Wow, that's... intense. I guess whatever works, right? I just use a normal alarm. A song I actually *like*. Waking up is hard enough without hating the sound that does it.\n\nEmotion tag: slightly impressed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:12:08.814195",
+      "response_time_ms": 922,
+      "message_length": 96,
+      "response_length": 204,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:12:06.499184",
-  "total_conversations": 1219,
+  "last_updated": "2025-10-21T00:12:08.814311",
+  "total_conversations": 1220,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
