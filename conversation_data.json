@@ -26009,18 +26009,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1446,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "What about Hana?",
+      "ai_response": "Hana? Who's Hana? I don't think I know anyone named Hana. Is she new? Maybe I saw her in the hallway. There's like, a million people here, it's hard to keep track.\n\nEmotion tag: confused",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:35:34.907569",
+      "response_time_ms": 930,
+      "message_length": 16,
+      "response_length": 186,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:35:25.703173",
-  "total_conversations": 1445,
+  "last_updated": "2025-10-21T00:35:34.907679",
+  "total_conversations": 1446,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
