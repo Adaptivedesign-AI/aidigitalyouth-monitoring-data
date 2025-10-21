@@ -21149,18 +21149,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1176,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "sometimes yea but mostly that the world is so much bigger than internships and colleges",
+      "ai_response": "Okay, that actually makes me feel a little better. Like, it's easy to get tunnel vision on this stuff, right? Senior year is basically just college apps and internships and trying to figure out what the heck you're doing with your life. It's good to remember there's more out there. Thanks.\n\nEmotion tag: slightly relieved",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:07:50.230869",
+      "response_time_ms": 1081,
+      "message_length": 87,
+      "response_length": 322,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:07:30.448201",
-  "total_conversations": 1175,
+  "last_updated": "2025-10-21T00:07:50.230998",
+  "total_conversations": 1176,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
