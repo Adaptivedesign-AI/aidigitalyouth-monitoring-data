@@ -22427,18 +22427,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1247,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "both",
+      "ai_response": "Okay, good to know. At least someone gets it. It just feels like... I dunno. Like I'm supposed to just suck it up and deal with it. \"Ignore them, they'll get bored.\" Yeah, right. Easy to say when you're not the one being targeted.\n\nEmotion tag: seen, but still pissed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:14:46.676267",
+      "response_time_ms": 1236,
+      "message_length": 4,
+      "response_length": 267,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:14:39.320299",
-  "total_conversations": 1246,
+  "last_updated": "2025-10-21T00:14:46.676393",
+  "total_conversations": 1247,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
