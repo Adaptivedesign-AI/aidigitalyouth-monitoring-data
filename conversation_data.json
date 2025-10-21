@@ -23921,18 +23921,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1330,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "who's mrs. davison?",
+      "ai_response": "She's the librarian. She's pretty chill. Like, she's not one of those librarians who's always shushing people or being all strict. She just wants everyone to have a quiet place to study or read. She's also really knowledgeable about books, obviously. So if I'm ever looking for something new to read, I can ask her for recommendations.\n\nEmotion tag: appreciative",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:22:20.751952",
+      "response_time_ms": 1140,
+      "message_length": 19,
+      "response_length": 362,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:14.367091",
-  "total_conversations": 1329,
+  "last_updated": "2025-10-21T00:22:20.752027",
+  "total_conversations": 1330,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
