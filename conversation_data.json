@@ -24875,18 +24875,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1383,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "so what do you want to do with your life",
+      "ai_response": "Seriously? You're asking me what I want to do with my *life* right now? When I'm just trying to get through tomorrow without someone posting another stupid meme about me? I don't even know what I'm having for dinner, let alone my entire future. Ugh.\n\nEmotion tag: annoyed and avoiding",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:19.018427",
+      "response_time_ms": 1290,
+      "message_length": 40,
+      "response_length": 284,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:12.834389",
-  "total_conversations": 1382,
+  "last_updated": "2025-10-21T00:27:19.018526",
+  "total_conversations": 1383,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
