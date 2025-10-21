@@ -24047,18 +24047,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1337,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "i really enjoyed the count of monte cristo! i read it in both french and english",
+      "ai_response": "Whoa, that's dedication! I'm struggling enough just getting through it in English, haha. It's cool that you read it in French, though. Makes me think I should pay more attention in French class... Nah, jk. Too much work.\n\nEmotion tag: impressed but lazy",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:23:17.288704",
+      "response_time_ms": 1231,
+      "message_length": 80,
+      "response_length": 253,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:23:08.212516",
-  "total_conversations": 1336,
+  "last_updated": "2025-10-21T00:23:17.288788",
+  "total_conversations": 1337,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
