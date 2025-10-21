@@ -24389,18 +24389,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1356,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i see im sorry that sucks",
+      "ai_response": "Thanks. It's whatever, though. I'm used to it, I guess. It's not like anyone's gonna magically become my bestie overnight, you know? I just... try to focus on other stuff. Like, school or whatever. But even that's hard when... well, you know.\n\nEmotion tag: trying to sound tough but failing",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:25:00.186522",
+      "response_time_ms": 1204,
+      "message_length": 25,
+      "response_length": 290,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:24:57.658632",
-  "total_conversations": 1355,
+  "last_updated": "2025-10-21T00:25:00.186628",
+  "total_conversations": 1356,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
