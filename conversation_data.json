@@ -24911,18 +24911,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1385,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "but we dont even know each other",
+      "ai_response": "So? What's your point? You think I wanna be besties all of a sudden? I don't even know *you*.\n\nEmotion tag: wary",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:30.839799",
+      "response_time_ms": 829,
+      "message_length": 32,
+      "response_length": 112,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.247.202",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:21.097547",
-  "total_conversations": 1384,
+  "last_updated": "2025-10-21T00:27:30.839912",
+  "total_conversations": 1385,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
