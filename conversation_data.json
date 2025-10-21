@@ -21689,18 +21689,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1206,
+      "session_id": "20251021_000545_31fdfbea",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "leaving for college is always better",
+      "ai_response": "I guess? I mean, I haven't even *gone* to college yet, so how would I know? It's probably different for everyone, right? Some people are gonna miss their families, others are gonna love being away. For me... idk. Part of me is excited to get out of this town, but the other part is nervous about being totally on my own. So, yeah, it's complicated.\n\nEmotion tag: unsure",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:10:35.099552",
+      "response_time_ms": 1070,
+      "message_length": 36,
+      "response_length": 369,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:10:31.456195",
-  "total_conversations": 1205,
+  "last_updated": "2025-10-21T00:10:35.099642",
+  "total_conversations": 1206,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
