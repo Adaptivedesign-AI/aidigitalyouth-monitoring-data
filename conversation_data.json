@@ -24011,18 +24011,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1335,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "what book are you currently reading?",
+      "ai_response": "Ugh, I'm reading *The Count of Monte Cristo* for English. It's long as hell, but actually kinda good. Like, revenge plots are always interesting, right? Plus, it keeps me busy and away from all the other stuff.\n\nEmotion tag: distracted but engaged",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:22:58.233479",
+      "response_time_ms": 1079,
+      "message_length": 36,
+      "response_length": 247,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:47.006004",
-  "total_conversations": 1334,
+  "last_updated": "2025-10-21T00:22:58.233563",
+  "total_conversations": 1335,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
