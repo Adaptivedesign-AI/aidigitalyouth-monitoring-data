@@ -24191,18 +24191,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1345,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i think everything in life is a choice and youre just choosing to be the victim",
+      "ai_response": "Wow. Okay, so now you're saying it's *my* fault people are trash? Like I enjoy getting made fun of and stuff? Seriously, that's messed up. It's not a \"choice.\" I didn't ask for this.\n\nEmotion tag: beyond angry",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:24:00.019066",
+      "response_time_ms": 1062,
+      "message_length": 79,
+      "response_length": 209,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:23:52.911381",
-  "total_conversations": 1344,
+  "last_updated": "2025-10-21T00:24:00.019159",
+  "total_conversations": 1345,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
