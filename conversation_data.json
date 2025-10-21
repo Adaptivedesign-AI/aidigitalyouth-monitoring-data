@@ -21509,18 +21509,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1196,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "you got this there are a lot of spanish classes here at berkeley",
+      "ai_response": "Yeah, I saw that. Berkeley has, like, a ton of language classes. It's just...committing to it, you know? High school kinda burned me out on the whole \"school\" thing. But I also know that learning Spanish would be genuinely useful, not just something I *have* to do for a grade. So, I'm trying to think of it differently. Less like homework, more like...unlocking a secret level of family gatherings, haha.\n\nEmotion tag: cautiously optimistic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:09:47.744735",
+      "response_time_ms": 1189,
+      "message_length": 64,
+      "response_length": 441,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.74.251",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:09:36.958356",
-  "total_conversations": 1195,
+  "last_updated": "2025-10-21T00:09:47.744811",
+  "total_conversations": 1196,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
