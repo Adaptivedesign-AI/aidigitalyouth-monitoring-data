@@ -23939,18 +23939,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1331,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "why are you giving me the attitude?",
+      "ai_response": "Whatever. It's not attitude. It's just... I don't like people assuming stuff about me.\n\nEmotion tag: annoyed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:22:22.802502",
+      "response_time_ms": 694,
+      "message_length": 35,
+      "response_length": 108,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:20.752027",
-  "total_conversations": 1330,
+  "last_updated": "2025-10-21T00:22:22.802580",
+  "total_conversations": 1331,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
