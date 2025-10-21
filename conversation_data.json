@@ -24749,18 +24749,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1376,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i dont think what i am saying is clocking to you. what if you transferred schools?",
+      "ai_response": "Transfer schools? Seriously? Like, uproot my whole life because a bunch of jerks can't keep their mouths shut? That's a *huge* deal. It's not just switching classes. I'd have to make new friends, get used to a whole new place, new teachers... It's not like hitting a reset button. Plus, what if it's the same somewhere else? Then I've just made everything worse. Ugh, I don't know.\n\nEmotion tag: overwhelmed and skeptical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:26:19.423880",
+      "response_time_ms": 1638,
+      "message_length": 82,
+      "response_length": 421,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:26:14.276799",
-  "total_conversations": 1375,
+  "last_updated": "2025-10-21T00:26:19.423982",
+  "total_conversations": 1376,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
