@@ -22013,18 +22013,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1224,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "true",
+      "ai_response": "Yeah, \"true\" as in you get it? Or \"true\" as in you think I'm being dramatic? Because, like, it's *true* that it's annoying, but it's not *true* that I'm, like, crying myself to sleep every night about it. Just wanted to clarify.\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:12:32.105966",
+      "response_time_ms": 1011,
+      "message_length": 4,
+      "response_length": 252,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:12:25.806223",
-  "total_conversations": 1223,
+  "last_updated": "2025-10-21T00:12:32.106064",
+  "total_conversations": 1224,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
