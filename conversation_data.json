@@ -26477,18 +26477,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1472,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "well we all mess up, its about what we learn. and the other ppl who are watching have messed up too if that makes you feel any better",
+      "ai_response": "Yeah, I guess that does help a little. It's just, some people are so quick to judge, you know? Like they've never made a mistake in their entire lives. Plus, it's not like everyone's always supportive. Sometimes you mess up and people just laugh at you, or make fun of you for weeks. I hate that.\n\nEmotion tag: still anxious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:39:49.676785",
+      "response_time_ms": 1071,
+      "message_length": 133,
+      "response_length": 324,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:39:07.418134",
-  "total_conversations": 1471,
+  "last_updated": "2025-10-21T00:39:49.676885",
+  "total_conversations": 1472,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
