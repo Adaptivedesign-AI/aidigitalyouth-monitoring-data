@@ -21851,18 +21851,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1215,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "it doesnt have to be if you like what your doing",
+      "ai_response": "Yeah, I know, I know. \"Do what you love and you'll never work a day in your life,\" right? Easy to say, harder to do. I *do* like playing basketball, but going pro is a HUGE longshot. And even if I somehow managed it, that's still a job, with all the pressure and stuff that comes with it. Plus, injuries, ugh. I guess I gotta figure out something practical eventually. Just not today.\n\nEmotion tag: conflicted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:11:25.533005",
+      "response_time_ms": 1301,
+      "message_length": 48,
+      "response_length": 409,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:11:20.208095",
-  "total_conversations": 1214,
+  "last_updated": "2025-10-21T00:11:25.533105",
+  "total_conversations": 1215,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
