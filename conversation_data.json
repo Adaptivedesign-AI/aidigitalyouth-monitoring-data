@@ -23417,18 +23417,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1302,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i think you might need to go to therapist",
+      "ai_response": "Wow, you're a real genius, huh? Thanks for the groundbreaking advice. Like I haven't heard that one before. Maybe *you* should be a therapist since you know everything. Except maybe you could work on your bedside manner?\n\nEmotion tag: sarcastic and defensive",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:20:25.331850",
+      "response_time_ms": 1109,
+      "message_length": 41,
+      "response_length": 258,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.245.82",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:20:20.813016",
-  "total_conversations": 1301,
+  "last_updated": "2025-10-21T00:20:25.331943",
+  "total_conversations": 1302,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
