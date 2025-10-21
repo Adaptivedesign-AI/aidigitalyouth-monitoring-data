@@ -25613,18 +25613,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1424,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "What about school? Do you just glide through the day?",
+      "ai_response": "Glide? No way. It's more like wading through mud. Everything's just... heavy. I go to classes, try to pay attention, but my brain's always somewhere else. Like, daydreaming about not being here. Or just staring at the clock, waiting for it to be over. It's not like I'm failing everything, but I'm definitely not acing anything either. Just C's, like always. It's enough to get by, I guess.\n\nEmotion tag: numb",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:32:35.710622",
+      "response_time_ms": 1434,
+      "message_length": 53,
+      "response_length": 409,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:32.776237",
-  "total_conversations": 1423,
+  "last_updated": "2025-10-21T00:32:35.710710",
+  "total_conversations": 1424,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
