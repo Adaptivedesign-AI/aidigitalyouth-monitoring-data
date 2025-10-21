@@ -24335,18 +24335,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1353,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i dont think its your fault, i just think that you can choose how to react",
+      "ai_response": "React? React *how*? Like, should I just be cool with people making my life hell every day? Should I just *choose* to be happy while everyone's laughing behind my back? Easy for *you* to say, sitting there not dealing with it. You have no idea what it's like.\n\nEmotion tag: completely misunderstood",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:24:40.578267",
+      "response_time_ms": 1300,
+      "message_length": 74,
+      "response_length": 297,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:24:37.284211",
-  "total_conversations": 1352,
+  "last_updated": "2025-10-21T00:24:40.578404",
+  "total_conversations": 1353,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
