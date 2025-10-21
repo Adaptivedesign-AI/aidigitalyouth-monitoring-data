@@ -25289,18 +25289,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1406,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "oh! ok defensive!",
+      "ai_response": "Whatever. I'm just...tired of people acting like they get it when they don't. You asked me about hobbies, and I told you I don't really have any anymore. What else do you want me to say? That I'm, like, super happy and productive and painting masterpieces in my free time? Please.\n\nEmotion tag: exhausted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:29:09.727169",
+      "response_time_ms": 1232,
+      "message_length": 17,
+      "response_length": 304,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:29:07.187247",
-  "total_conversations": 1405,
+  "last_updated": "2025-10-21T00:29:09.727253",
+  "total_conversations": 1406,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
