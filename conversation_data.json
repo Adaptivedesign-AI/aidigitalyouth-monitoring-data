@@ -22067,18 +22067,36 @@
       "hour": 0,
       "ip_address": "10.220.115.134",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1227,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ok thats good",
+      "ai_response": "Yeah, \"good\" that I'm not crying myself to sleep, I guess? I mean, it's not like I *want* to be upset about it. It's just... it's always there, you know? Like a background noise that you can't turn off.\n\nEmotion tag: trying to be nonchalant",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:12:43.398929",
+      "response_time_ms": 970,
+      "message_length": 13,
+      "response_length": 240,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:12:40.789486",
-  "total_conversations": 1226,
+  "last_updated": "2025-10-21T00:12:43.399020",
+  "total_conversations": 1227,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
