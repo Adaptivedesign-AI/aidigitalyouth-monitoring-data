@@ -21023,18 +21023,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1169,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yup exactly pretty much that",
+      "ai_response": "Yeah, the competition is insane. It's like, how are you supposed to stand out when everyone has perfect grades and does a million extracurriculars? I don't get it.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:06:45.769376",
+      "response_time_ms": 787,
+      "message_length": 28,
+      "response_length": 188,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:06:42.898244",
-  "total_conversations": 1168,
+  "last_updated": "2025-10-21T00:06:45.769456",
+  "total_conversations": 1169,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
