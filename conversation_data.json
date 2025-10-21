@@ -22517,18 +22517,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1252,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "mmhm",
+      "ai_response": "It's exhausting, right? Just waiting for the next thing. And like, it's not even always something huge. Sometimes it's just a look, or a whisper you can't quite hear. But you *know*. It just messes with your head.\n\nEmotion tag: tired and wary",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:15:15.402975",
+      "response_time_ms": 1013,
+      "message_length": 4,
+      "response_length": 242,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:15:07.063422",
-  "total_conversations": 1251,
+  "last_updated": "2025-10-21T00:15:15.403055",
+  "total_conversations": 1252,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
