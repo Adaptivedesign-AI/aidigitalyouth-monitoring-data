@@ -24551,18 +24551,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1365,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i dont know but you sure seem to be telling a lot about yourself",
+      "ai_response": "I guess I do talk a lot. I just don't usually get to. And it's not like I have a ton of people to talk to IRL, ya know? So, yeah... Maybe I am oversharing. Whatever.\n\nEmotion tag: embarrassed and regretting everything",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:25:26.847495",
+      "response_time_ms": 924,
+      "message_length": 64,
+      "response_length": 217,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:25:23.786701",
-  "total_conversations": 1364,
+  "last_updated": "2025-10-21T00:25:26.847564",
+  "total_conversations": 1365,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
