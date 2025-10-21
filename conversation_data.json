@@ -26549,18 +26549,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1476,
+      "session_id": "20251021_003840_a147b327",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "idk it might be a little cheesy but its really funny you should watch a clip of it",
+      "ai_response": "Ugh, fine. I'll look it up on YouTube or something. But if it sucks, I'm blaming you. What even *is* a lower middle class family anyway? Are they just, like, regular people who are a little bit broke? Seems like everyone I know is a little bit broke, tbh.\n\nEmotion tag: reluctantly curious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:40:50.357197",
+      "response_time_ms": 1081,
+      "message_length": 82,
+      "response_length": 289,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:40:26.600591",
-  "total_conversations": 1475,
+  "last_updated": "2025-10-21T00:40:50.357279",
+  "total_conversations": 1476,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
