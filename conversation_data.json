@@ -25091,18 +25091,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1395,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i will for sure but i heard someone sent me a screenshot",
+      "ai_response": "Ugh, here we go again. What now? I bet it's that stupid picture from the party. Or maybe they photoshopped my head onto something gross. Seriously, people need to get a life. Just tell me what it is, I'm already expecting the worst.\n\nEmotion tag: dreading it",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:09.512569",
+      "response_time_ms": 1065,
+      "message_length": 56,
+      "response_length": 258,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:28:07.115452",
-  "total_conversations": 1394,
+  "last_updated": "2025-10-21T00:28:09.512645",
+  "total_conversations": 1395,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
