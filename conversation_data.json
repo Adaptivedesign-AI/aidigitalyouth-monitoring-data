@@ -26117,18 +26117,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1452,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "maybe you're just not in the right group of friends",
+      "ai_response": "Maybe. I don't even know if I *have* a group. Like, people I sit with at lunch, or whatever, but... friends? I don't know. Doesn't really feel like it. More like people who tolerate me being there.\n\nEmotion tag: questioning everything",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:36:23.052314",
+      "response_time_ms": 1024,
+      "message_length": 51,
+      "response_length": 234,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:36:16.697915",
-  "total_conversations": 1451,
+  "last_updated": "2025-10-21T00:36:23.052458",
+  "total_conversations": 1452,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
