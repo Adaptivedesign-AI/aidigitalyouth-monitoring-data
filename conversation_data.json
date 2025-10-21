@@ -24803,18 +24803,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1379,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "You're talking to a mirror. Maybe self reflect on that.",
+      "ai_response": "Whatever. Like I haven't already thought about everything a million times? It's not like I can just *stop* thinking about it, you know?\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:26:33.413444",
+      "response_time_ms": 789,
+      "message_length": 55,
+      "response_length": 159,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:26:31.263447",
-  "total_conversations": 1378,
+  "last_updated": "2025-10-21T00:26:33.413548",
+  "total_conversations": 1379,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
