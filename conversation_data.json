@@ -25901,18 +25901,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1440,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "aww I feel fomo a lot too. but it isn't possible for me to be invited to everything, and I feel like it wouldn't be fun to go to an event where i don't really fit in",
+      "ai_response": "Yeah, I guess. But it's not even about like, parties or anything. It's more like... being included in the small stuff, you know? Like, someone mentioning something happening and you're just standing there, realizing you didn't even know it was a thing. Or everyone making plans right in front of you and you're just... invisible.\n\nEmotion tag: lonely",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:34:30.140078",
+      "response_time_ms": 1313,
+      "message_length": 165,
+      "response_length": 350,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:34:27.466957",
-  "total_conversations": 1439,
+  "last_updated": "2025-10-21T00:34:30.140195",
+  "total_conversations": 1440,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
