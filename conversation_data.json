@@ -25019,18 +25019,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1391,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ok well take it step by step? what are you having for dinner",
+      "ai_response": "idk. Probably whatever my mom makes. Probably rice and something. I'm not really hungry anyway. Thinking about everything just makes my stomach hurt.\n\nEmotion tag: stressed and unmotivated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:50.008398",
+      "response_time_ms": 868,
+      "message_length": 60,
+      "response_length": 188,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:47.725656",
-  "total_conversations": 1390,
+  "last_updated": "2025-10-21T00:27:50.008496",
+  "total_conversations": 1391,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
