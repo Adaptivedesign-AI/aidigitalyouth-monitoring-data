@@ -23219,18 +23219,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1291,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i think you're building it up in your head you're gonna be fine",
+      "ai_response": "Easy for you to say. You're not the one standing up there, tripping over every other word. And it's not just in my head, okay? I *see* the looks. I hear the whispers. Maybe not everyone, all the time, but it's enough to make me feel like I'm gonna puke.\n\nEmotion tag: defensive and anxious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:19:37.160941",
+      "response_time_ms": 1063,
+      "message_length": 63,
+      "response_length": 289,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.245.82",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:19:26.463731",
-  "total_conversations": 1290,
+  "last_updated": "2025-10-21T00:19:37.161034",
+  "total_conversations": 1291,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
