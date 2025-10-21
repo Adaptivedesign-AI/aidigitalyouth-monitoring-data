@@ -21473,18 +21473,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1194,
+      "session_id": "20251021_000735_e5163cf6",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yup!",
+      "ai_response": "Nice! What's the coolest part about biotech, in your opinion? I'm trying to figure out what I should do after graduation. Leaning towards something in sports, but I honestly have no idea.\n\nEmotion tag: genuinely curious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:09:35.031395",
+      "response_time_ms": 985,
+      "message_length": 4,
+      "response_length": 219,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:09:31.281520",
-  "total_conversations": 1193,
+  "last_updated": "2025-10-21T00:09:35.031537",
+  "total_conversations": 1194,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
