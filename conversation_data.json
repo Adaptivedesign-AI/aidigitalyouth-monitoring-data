@@ -26513,18 +26513,36 @@
       "hour": 0,
       "ip_address": "10.220.74.251",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1474,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "thats on them. you do you girl.",
+      "ai_response": "Easy for you to say \"that's on them.\" I wish it was that simple. Like, yeah, logically I know they're the ones being jerks, but it still *hurts*, you know? And it makes it hard to just... brush it off and \"do me.\" It's like, they're living rent-free in my head.\n\nEmotion tag: frustrated but trying to let it go",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:40:10.409732",
+      "response_time_ms": 1160,
+      "message_length": 31,
+      "response_length": 310,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:40:07.702517",
-  "total_conversations": 1473,
+  "last_updated": "2025-10-21T00:40:10.409807",
+  "total_conversations": 1474,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
