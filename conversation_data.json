@@ -23975,18 +23975,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1333,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I literally wasn't. If you weren't so closed off, I wouldn't be speaking to you this way",
+      "ai_response": "So, now it's *my* fault? That's great. Real mature. Like I'm just supposed to open up to everyone and be all sunshine and rainbows when I'm getting crap from all sides? I don't even know you.\n\nEmotion tag: angry and defensive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:22:39.997206",
+      "response_time_ms": 1200,
+      "message_length": 88,
+      "response_length": 225,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:29.666745",
-  "total_conversations": 1332,
+  "last_updated": "2025-10-21T00:22:39.997317",
+  "total_conversations": 1333,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
