@@ -23507,18 +23507,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1307,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "haha wdym bedside/",
+      "ai_response": "Ugh, never mind. It's like... you're trying to be helpful but it just comes off as annoying. Bedside manner is, like, how a doctor or therapist talks to you. You know, makes you feel comfortable and stuff? Not like you're just a broken thing they're trying to fix. More like... I dunno. Never mind.\n\nEmotion tag: frustrated and dismissive",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:20:39.018526",
+      "response_time_ms": 1209,
+      "message_length": 18,
+      "response_length": 338,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:20:36.310131",
-  "total_conversations": 1306,
+  "last_updated": "2025-10-21T00:20:39.018655",
+  "total_conversations": 1307,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
