@@ -23381,18 +23381,36 @@
       "hour": 0,
       "ip_address": "10.220.245.82",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1300,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "um ok attitude...but im sorry that happened",
+      "ai_response": "Yeah, well, sorry doesn't un-happen it. I'm not trying to be a jerk, okay? It's just... it's constant. Like, I can't even walk down the hall without feeling like everyone's watching me, judging me. And then to have it happen *again* at my locker? It's like they're trying to make me crack. And honestly, it's working.\n\nEmotion tag: defensive and exhausted",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:20:13.186011",
+      "response_time_ms": 1249,
+      "message_length": 43,
+      "response_length": 355,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:20:10.498109",
-  "total_conversations": 1299,
+  "last_updated": "2025-10-21T00:20:13.186103",
+  "total_conversations": 1300,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
