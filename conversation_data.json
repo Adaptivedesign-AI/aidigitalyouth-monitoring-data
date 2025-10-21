@@ -26369,18 +26369,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1466,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "fried from all the tiktoks you watch?",
+      "ai_response": "Ugh, don't even get me started on TikTok. It's a black hole. I swear, I open it for like, two seconds, and then suddenly it's three hours later and I've accomplished nothing. And then I just feel worse about myself. So yeah, maybe my brain *is* fried from TikTok. But it's also fried from, like, school and my home life and just, y'know, existing.\n\nEmotion tag: annoyed and self-deprecating",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:38:44.830950",
+      "response_time_ms": 1261,
+      "message_length": 37,
+      "response_length": 390,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:38:34.356868",
-  "total_conversations": 1465,
+  "last_updated": "2025-10-21T00:38:44.831128",
+  "total_conversations": 1466,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
