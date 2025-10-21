@@ -23237,18 +23237,36 @@
       "hour": 0,
       "ip_address": "10.220.245.82",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1292,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "sounds like a lot.. what did you have for lunch today?",
+      "ai_response": "Pizza. School pizza, so you know it's not gourmet or anything. Sat with Sam and Kevin. Kevin was being a total idiot, per usual. He keeps trying to get everyone to vape in the bathroom. Sam just ignores him, but it's still annoying.\n\nEmotion tag: mildly irritated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:19:39.759644",
+      "response_time_ms": 1212,
+      "message_length": 54,
+      "response_length": 263,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:19:37.161034",
-  "total_conversations": 1291,
+  "last_updated": "2025-10-21T00:19:39.759720",
+  "total_conversations": 1292,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
