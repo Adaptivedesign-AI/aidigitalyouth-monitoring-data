@@ -23993,18 +23993,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1334,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ya i wouldnt know",
+      "ai_response": "Yeah, well, you're lucky then, aren't you? Must be nice to not have to worry about people constantly making your life miserable.\n\nEmotion tag: resentful",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:22:47.005929",
+      "response_time_ms": 806,
+      "message_length": 17,
+      "response_length": 152,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:39.997317",
-  "total_conversations": 1333,
+  "last_updated": "2025-10-21T00:22:47.006004",
+  "total_conversations": 1334,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
