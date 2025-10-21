@@ -25793,18 +25793,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1434,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I used to think that too. Do you enjoy spending time by yourself, at least?",
+      "ai_response": "Sometimes. It depends. Like, if I'm just trying to chill and watch something or listen to music, then yeah, it's okay. But if I'm alone because everyone else is hanging out and I wasn't invited, then no, it sucks. It just reminds me that I'm, like, the extra person.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:33:34.753399",
+      "response_time_ms": 1244,
+      "message_length": 75,
+      "response_length": 287,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:33:28.637687",
-  "total_conversations": 1433,
+  "last_updated": "2025-10-21T00:33:34.753518",
+  "total_conversations": 1434,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
