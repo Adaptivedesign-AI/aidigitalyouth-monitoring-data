@@ -25775,18 +25775,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1433,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "no. like not at all",
+      "ai_response": "Ugh, I can imagine. I'd probably lose my mind if I had to deal with that much noise all the time. I kinda wish my bro would be louder sometimes though. Maybe then my parents would yell at him instead of me for once.\n\nEmotion tag: wishing things were different",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:33:28.637573",
+      "response_time_ms": 1098,
+      "message_length": 19,
+      "response_length": 259,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:33:24.258161",
-  "total_conversations": 1432,
+  "last_updated": "2025-10-21T00:33:28.637687",
+  "total_conversations": 1433,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
