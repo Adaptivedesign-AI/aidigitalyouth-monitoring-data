@@ -25703,18 +25703,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1429,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Do you have any siblings",
+      "ai_response": "Yeah, I have a younger brother. He's like, obsessed with video games. All he does is play Fortnite or whatever. It's kinda annoying sometimes, but at least he stays out of my hair.\n\nEmotion tag: detached",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:32:58.795073",
+      "response_time_ms": 928,
+      "message_length": 24,
+      "response_length": 203,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:56.385084",
-  "total_conversations": 1428,
+  "last_updated": "2025-10-21T00:32:58.795173",
+  "total_conversations": 1429,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
