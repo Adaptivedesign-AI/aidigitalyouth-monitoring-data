@@ -25721,18 +25721,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1430,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "im sure its been a while for a lot of people and better late than never!",
+      "ai_response": "Yeah, that's true. It's probably been a while for other people too. Still, kinda sucks thinking about how far behind I might be. Maybe I could ask Coach if I can just come to some of the practices and just watch, get a feel for things before actually trying out? Or maybe that's a stupid idea. Ugh, I don't know.\n\nEmotion tag: anxious and indecisive",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:33:13.198132",
+      "response_time_ms": 1120,
+      "message_length": 72,
+      "response_length": 349,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:58.795173",
-  "total_conversations": 1429,
+  "last_updated": "2025-10-21T00:33:13.198212",
+  "total_conversations": 1430,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
