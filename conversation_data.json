@@ -25667,18 +25667,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1427,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "what do you like to do on your phone",
+      "ai_response": "Ugh, same as everyone else, I guess? Scroll through TikTok, look at memes, text my friends...or try to, anyway. Mostly just end up feeling worse. It's like, you're trying to distract yourself, but then you see more stuff that reminds you of how much your life sucks. So, yeah, great question.\n\nEmotion tag: annoyed and hopeless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:32:54.142035",
+      "response_time_ms": 1185,
+      "message_length": 36,
+      "response_length": 327,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:44.218753",
-  "total_conversations": 1426,
+  "last_updated": "2025-10-21T00:32:54.142117",
+  "total_conversations": 1427,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
