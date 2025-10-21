@@ -25325,18 +25325,36 @@
       "hour": 0,
       "ip_address": "10.220.247.202",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1408,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "oh i see im sorry about that... its not your fault they're jerks. anything fun or great that happened today?",
+      "ai_response": "Fun or great? Are you kidding? After the hallway gauntlet this morning, and then finding that stupid drawing of me on my desk in history? No, nothing \"fun or great\" happened. Unless you count managing not to completely lose it in front of everyone as fun. Which, I guess, is a win? Barely.\n\nEmotion tag: bitter and sarcastic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:29:46.159517",
+      "response_time_ms": 1165,
+      "message_length": 108,
+      "response_length": 324,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:29:13.547366",
-  "total_conversations": 1407,
+  "last_updated": "2025-10-21T00:29:46.159596",
+  "total_conversations": 1408,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
