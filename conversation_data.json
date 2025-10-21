@@ -25685,18 +25685,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1428,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I'm sure people don't think that about you",
+      "ai_response": "Whatever. Maybe they're just too polite to say it. It's not like anyone's lining up to be my bestie, y'know? I'm used to it.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:32:56.385013",
+      "response_time_ms": 1019,
+      "message_length": 42,
+      "response_length": 147,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:54.142117",
-  "total_conversations": 1427,
+  "last_updated": "2025-10-21T00:32:56.385084",
+  "total_conversations": 1428,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
