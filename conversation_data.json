@@ -26225,18 +26225,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1458,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "no wait thats so cool what do you like to play",
+      "ai_response": "Whatever, I just noodle around mostly. I don't really have anyone to play *with*, so it's not like I'm shredding solos or anything. Mostly just try to learn covers of songs I like. Anything to, like, not think about stuff, ya know?\n\nEmotion tag: detached",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:37:14.276592",
+      "response_time_ms": 975,
+      "message_length": 46,
+      "response_length": 254,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:37:00.026681",
-  "total_conversations": 1457,
+  "last_updated": "2025-10-21T00:37:14.276723",
+  "total_conversations": 1458,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
