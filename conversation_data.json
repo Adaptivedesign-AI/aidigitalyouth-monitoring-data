@@ -22607,18 +22607,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1257,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "good luck",
+      "ai_response": "Thanks. I need it. Seriously thinking about talking to Ms. Davison, the guidance counselor. I just don’t want to be seen as a snitch, you know? That'll make things even worse.\n\nEmotion tag: anxious and wanting it to stop",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:15:38.549984",
+      "response_time_ms": 1022,
+      "message_length": 9,
+      "response_length": 220,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:15:36.235623",
-  "total_conversations": 1256,
+  "last_updated": "2025-10-21T00:15:38.550091",
+  "total_conversations": 1257,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
