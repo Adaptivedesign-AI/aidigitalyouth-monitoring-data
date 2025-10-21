@@ -23813,18 +23813,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1324,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "umm... okay",
+      "ai_response": "Okay, what? What's that supposed to mean? You think I'm being dramatic or something?\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:21:56.103489",
+      "response_time_ms": 774,
+      "message_length": 11,
+      "response_length": 108,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:21:53.887652",
-  "total_conversations": 1323,
+  "last_updated": "2025-10-21T00:21:56.103589",
+  "total_conversations": 1324,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
