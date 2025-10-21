@@ -22553,18 +22553,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1254,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yupyyup",
+      "ai_response": "Yup. Like, I spend half my time trying to figure out if I'm overreacting. Is it *really* a big deal? Should I just ignore it? But then, if I ignore it, they just keep doing it. And if I say something, I'm \"sensitive\" or \"can't take a joke\". Ugh.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:15:28.517111",
+      "response_time_ms": 1160,
+      "message_length": 7,
+      "response_length": 270,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:15:21.119469",
-  "total_conversations": 1253,
+  "last_updated": "2025-10-21T00:15:28.517225",
+  "total_conversations": 1254,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
