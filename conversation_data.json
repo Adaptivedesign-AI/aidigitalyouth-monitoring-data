@@ -25127,18 +25127,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1397,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "oh ok a sweet treat!",
+      "ai_response": "Yeah, I guess. But like, even if I did have something sweet, it wouldn't really fix anything, you know? It's just a distraction for a few minutes. Then everything's still the same.\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:25.644631",
+      "response_time_ms": 826,
+      "message_length": 20,
+      "response_length": 203,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:28:18.471103",
-  "total_conversations": 1396,
+  "last_updated": "2025-10-21T00:28:25.644714",
+  "total_conversations": 1397,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
