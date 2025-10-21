@@ -25199,18 +25199,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1401,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "do u have any other hobbies?",
+      "ai_response": "Hobbies? Ugh. It's hard to even *want* to do anything these days. I used to draw, I guess. But then I started hating everything I made, so I stopped. It just felt like another thing to be bad at. Now I mostly just scroll through social media or watch videos. Which, I know, is probably making things worse, but whatever.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:45.917527",
+      "response_time_ms": 1090,
+      "message_length": 28,
+      "response_length": 339,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:28:39.891487",
-  "total_conversations": 1400,
+  "last_updated": "2025-10-21T00:28:45.917635",
+  "total_conversations": 1401,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
