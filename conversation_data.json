@@ -22391,18 +22391,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1245,
+      "session_id": "20251021_000545_31fdfbea",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "there is more room for error than u imagined, people switch change career and start from scratch all the time",
+      "ai_response": "I know, I know, you're right. It's just hard to actually *believe* it, you know? Like, logically, I get it. People change their minds all the time. But it's different when it's *you*. And the thought of being \"behind\" everyone else... ugh. Social media doesn't help. Seeing everyone else's perfect college plans, like they've got it all figured out.\n\nIt's kinda messed up though how they are so comfortable posting their plans, like they haven't thought it through. I was talking to my dad at dinner about all of this and some of the kids were whispering when I walked by, and he kinda said they aren't the ones who have to live with it. It made me feel a little better, though.\n\nEmotion tag: slightly less stressed, but still feeling the pressure",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:14:37.056531",
+      "response_time_ms": 1769,
+      "message_length": 109,
+      "response_length": 747,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:14:34.072120",
-  "total_conversations": 1244,
+  "last_updated": "2025-10-21T00:14:37.056629",
+  "total_conversations": 1245,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
