@@ -24785,18 +24785,36 @@
       "hour": 0,
       "ip_address": "10.220.74.251",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1378,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "hmm ok i will",
+      "ai_response": "Okay, cool. So we're just gonna sit here in awkward silence now? That's great. Really making me feel like I belong.\n\nEmotion tag: sarcastic and annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:26:31.263356",
+      "response_time_ms": 782,
+      "message_length": 13,
+      "response_length": 151,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:26:27.093415",
-  "total_conversations": 1377,
+  "last_updated": "2025-10-21T00:26:31.263447",
+  "total_conversations": 1378,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
