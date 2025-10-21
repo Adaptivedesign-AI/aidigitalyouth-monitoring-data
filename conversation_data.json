@@ -20879,18 +20879,36 @@
       "hour": 0,
       "ip_address": "10.220.247.202",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1161,
+      "session_id": "20251021_000545_31fdfbea",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hi pretty good how about u",
+      "ai_response": "Hey, I'm alright. Just trying to get through the day, you know?\n\nEmotion tag: trying to stay neutral",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:05:59.257319",
+      "response_time_ms": 758,
+      "message_length": 26,
+      "response_length": 100,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:05:56.484690",
-  "total_conversations": 1160,
+  "last_updated": "2025-10-21T00:05:59.257466",
+  "total_conversations": 1161,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
