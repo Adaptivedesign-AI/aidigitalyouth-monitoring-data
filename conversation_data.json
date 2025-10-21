@@ -24983,18 +24983,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1389,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "hey doing alr wbu?",
+      "ai_response": "Not really, tbh. I just had to walk past *them* in the hallway. You know, the usual crew. I swear they think they're so funny. Ugh.\n\nEmotion tag: anxious and seen",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:41.990703",
+      "response_time_ms": 792,
+      "message_length": 18,
+      "response_length": 162,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:39.889596",
-  "total_conversations": 1388,
+  "last_updated": "2025-10-21T00:27:41.990802",
+  "total_conversations": 1389,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
