@@ -25865,18 +25865,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1438,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "lol ik euphoria is kind of a weird show, wait comedies are super funny i like to escape my life real quick and laugh yk",
+      "ai_response": "Yeah, *Euphoria* is messed up. But it's also kinda...real, you know? Like, people actually go through that stuff. Maybe not all of it at once, but still.\n\nAnd yeah, comedies are good for escaping, I guess. But after a while, it just feels fake. Like, you're laughing at something that's not even close to your own reality. And then you're just back to feeling like crap. So it's like, what's the point?\n\nEmotion tag: cynical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:34:19.947234",
+      "response_time_ms": 1388,
+      "message_length": 119,
+      "response_length": 424,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:34:05.967024",
-  "total_conversations": 1437,
+  "last_updated": "2025-10-21T00:34:19.947399",
+  "total_conversations": 1438,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
