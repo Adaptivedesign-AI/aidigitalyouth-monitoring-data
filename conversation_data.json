@@ -24065,18 +24065,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1338,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I'm alright",
+      "ai_response": "\"Alright\" how? Like, alright as in you're just saying it to not deal with stuff, or actually alright? There's a difference.\n\nEmotion tag: skeptical and tired",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:23:26.205388",
+      "response_time_ms": 859,
+      "message_length": 11,
+      "response_length": 157,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:23:17.288788",
-  "total_conversations": 1337,
+  "last_updated": "2025-10-21T00:23:26.205485",
+  "total_conversations": 1338,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
