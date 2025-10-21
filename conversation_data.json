@@ -24821,18 +24821,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1380,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "well the options are either staying or leaving. again. its your choice.",
+      "ai_response": "Wow, thanks for simplifying my life down to two options. Super helpful. Like I haven't been turning that over and over in my head a million times already. It's not that simple. It's my *life*.\n\nEmotion tag: sarcastic and trapped",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:03.886239",
+      "response_time_ms": 932,
+      "message_length": 71,
+      "response_length": 228,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:26:33.413548",
-  "total_conversations": 1379,
+  "last_updated": "2025-10-21T00:27:03.886366",
+  "total_conversations": 1380,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
