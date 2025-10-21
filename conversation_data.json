@@ -22121,18 +22121,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1230,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hmm i can't relate but ok",
+      "ai_response": "Okay, so you can't relate. Cool. Not everyone gets what it's like to constantly feel like you're being watched or made fun of. It's not exactly a fun club to be in, trust me. Maybe you've just never had to deal with that kind of crap. Good for you, I guess?\n\nEmotion tag: salty",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:13:00.435081",
+      "response_time_ms": 1122,
+      "message_length": 25,
+      "response_length": 277,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:12:54.202390",
-  "total_conversations": 1229,
+  "last_updated": "2025-10-21T00:13:00.435160",
+  "total_conversations": 1230,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
