@@ -25847,18 +25847,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1437,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "oh what happened",
+      "ai_response": "Ugh, that's kinda personal, isn't it? I don't really wanna get into it. Let's just say things got messy at home, and I didn't have the energy for softball anymore. It's dumb, I know. I should've just kept playing, but it was just too much at the time.\n\nEmotion tag: avoidant",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:34:05.966911",
+      "response_time_ms": 1100,
+      "message_length": 16,
+      "response_length": 274,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:33:53.185832",
-  "total_conversations": 1436,
+  "last_updated": "2025-10-21T00:34:05.967024",
+  "total_conversations": 1437,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
