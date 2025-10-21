@@ -21815,18 +21815,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1213,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "don't worry as someone who is like 21 now its not too crazy",
+      "ai_response": "Easy for *you* to say. You're basically ancient. Just kidding... kinda. Seriously, though, senior year is already stressing me out, and then college is right after that. It's like, non-stop pressure. I guess that's life, huh?\n\nEmotion tag: overwhelmed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:11:11.110161",
+      "response_time_ms": 1289,
+      "message_length": 59,
+      "response_length": 251,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:11:07.349133",
-  "total_conversations": 1212,
+  "last_updated": "2025-10-21T00:11:11.110240",
+  "total_conversations": 1213,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
