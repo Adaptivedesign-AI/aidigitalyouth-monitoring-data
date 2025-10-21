@@ -23111,18 +23111,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1285,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "so what does a typical school day look like for you then",
+      "ai_response": "Ugh, alright. Wake up, which is the worst part. Slam the alarm like five times. Try to choke down some breakfast, usually eggs or something 'cause I'm trying to gain weight. Then it's a blur of classes. AP Calc first, which is actually okay, then English, history, and lunch is... lunch. Usually grab something with my friends, if they're not being annoying. Afternoon is bio and then soccer practice. After that, I try to get some homework done, eat dinner, and crash. Repeat. So thrilling, right?\n\nEmotion tag: sarcastic and tired",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:19:02.419175",
+      "response_time_ms": 1673,
+      "message_length": 56,
+      "response_length": 532,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:18:59.354182",
-  "total_conversations": 1284,
+  "last_updated": "2025-10-21T00:19:02.419257",
+  "total_conversations": 1285,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
