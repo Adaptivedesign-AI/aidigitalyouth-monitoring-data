@@ -23903,18 +23903,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1329,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "HAHA what?",
+      "ai_response": "Okay, see, now you're just being annoying. Like, I'm trying to figure out what's going on and you're just laughing? What's so funny? Is this, like, a prank or something?\n\nEmotion tag: irritated and suspicious",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:22:14.366986",
+      "response_time_ms": 897,
+      "message_length": 10,
+      "response_length": 208,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:22:09.560718",
-  "total_conversations": 1328,
+  "last_updated": "2025-10-21T00:22:14.367091",
+  "total_conversations": 1329,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
