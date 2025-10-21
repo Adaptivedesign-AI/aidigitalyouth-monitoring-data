@@ -24587,18 +24587,36 @@
       "hour": 0,
       "ip_address": "10.220.252.154",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1367,
+      "session_id": "20251021_002407_22bf6194",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "exactly",
+      "ai_response": "Yeah, tell me about it. What subject?\n\nEmotion tag: bored",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:25:33.831927",
+      "response_time_ms": 622,
+      "message_length": 7,
+      "response_length": 57,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:25:31.606124",
-  "total_conversations": 1366,
+  "last_updated": "2025-10-21T00:25:33.832023",
+  "total_conversations": 1367,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
