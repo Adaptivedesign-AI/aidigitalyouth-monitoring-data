@@ -26567,18 +26567,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1477,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "but thats because youre letting them. maybe we can talk about strategies to push them away",
+      "ai_response": "Ugh, I know you're right. It's just...easier said than done. Like, how do you just *not* think about something? It's like telling someone to not think about a pink elephant. They're gonna think about a pink elephant!\n\nBut yeah, I'm open to ideas. I guess. As long as it's not some cheesy self-help stuff.\n\nEmotion tag: skeptical but willing",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:40:53.065508",
+      "response_time_ms": 1153,
+      "message_length": 90,
+      "response_length": 340,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:40:50.357279",
-  "total_conversations": 1476,
+  "last_updated": "2025-10-21T00:40:53.065617",
+  "total_conversations": 1477,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
