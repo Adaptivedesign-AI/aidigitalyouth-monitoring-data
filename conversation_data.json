@@ -25523,18 +25523,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1419,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "okay i see i mean ik you cant magically make everything better but i think sometimes its good to focus on something a little more positive and ignore the haters",
+      "ai_response": "Easy for you to say, right? Like, I haven't TRIED ignoring them? It's kinda hard to \"focus on something positive\" when they're photoshopping my face onto a pig and sending it around. So yeah, thanks for the tip, I'll get right on that.\n\nEmotion tag: sarcastic and pissed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:31:56.054151",
+      "response_time_ms": 1079,
+      "message_length": 160,
+      "response_length": 270,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:31:53.531668",
-  "total_conversations": 1418,
+  "last_updated": "2025-10-21T00:31:56.054272",
+  "total_conversations": 1419,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
