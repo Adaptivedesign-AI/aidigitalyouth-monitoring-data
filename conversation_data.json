@@ -26387,18 +26387,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1467,
+      "session_id": "20251021_003840_a147b327",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "hey doing alright hbu?",
+      "ai_response": "Meh, I'm here. Kinda tired, wanna be back in bed already. You know how it is.\n\nEmotion tag: blah",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:38:51.228604",
+      "response_time_ms": 722,
+      "message_length": 22,
+      "response_length": 96,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:38:44.831128",
-  "total_conversations": 1466,
+  "last_updated": "2025-10-21T00:38:51.228713",
+  "total_conversations": 1467,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
