@@ -24605,18 +24605,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1368,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I mean a lot of people's attitudes have to do with something they have going on at home",
+      "ai_response": "Yeah, no shit. You think I'm stupid or something? Like I haven't thought about that a million times? You don't exactly see me skipping around school with a smile plastered on my face, do you? People just love to point out the obvious, like it's some big revelation.\n\nEmotion tag: resentful",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:25:36.525996",
+      "response_time_ms": 1087,
+      "message_length": 87,
+      "response_length": 289,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:25:33.832023",
-  "total_conversations": 1367,
+  "last_updated": "2025-10-21T00:25:36.526106",
+  "total_conversations": 1368,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
