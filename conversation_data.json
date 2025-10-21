@@ -23705,18 +23705,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1318,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "can you expand on that?",
+      "ai_response": "Expand on what? Like, why it's hard to explain to Sam? I don't even know where to start. She just... wouldn't get it. She's got her own stuff going on, and she's actually good at, like, talking about her feelings. I'm not. And it's not that I don't want to tell her, it's just... I can't. It gets all jumbled up in my head, and then I feel stupid for even thinking it. So, yeah. It's easier to just say \"I'm tired\" or something.\n\nEmotion tag: trapped",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:21:30.602494",
+      "response_time_ms": 1820,
+      "message_length": 23,
+      "response_length": 450,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:21:27.406094",
-  "total_conversations": 1317,
+  "last_updated": "2025-10-21T00:21:30.602574",
+  "total_conversations": 1318,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
