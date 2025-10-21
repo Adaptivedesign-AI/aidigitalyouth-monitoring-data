@@ -25109,18 +25109,36 @@
       "hour": 0,
       "ip_address": "10.220.252.246",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1396,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "no its about you",
+      "ai_response": "Okay, so what *about* me? Is it, like, a good thing for once? Probably not, knowing my luck. Spill it already. I don't have all day to wait for the next bomb to drop. This is probably gonna ruin my whole afternoon, isn't it?\n\nEmotion tag: resigned to the worst",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:18.471021",
+      "response_time_ms": 1161,
+      "message_length": 16,
+      "response_length": 260,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:28:09.512645",
-  "total_conversations": 1395,
+  "last_updated": "2025-10-21T00:28:18.471103",
+  "total_conversations": 1396,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
