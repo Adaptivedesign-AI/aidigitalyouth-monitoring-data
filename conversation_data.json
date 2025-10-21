@@ -23687,18 +23687,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1317,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "well im not telling you to \"sprinkle positivity dust\", what im trying to say is what goes around comes around. so you can be the start of that and spread the kindness and it'll eventually come back.",
+      "ai_response": "Okay, but like, what if I *don't want* it to come back? What if what's coming around is, like, more garbage? I'm not trying to be all doom and gloom, but seriously, I'm already dealing with enough crap. I don't need the universe to, like, send me a \"kindness boomerang\" that's actually just another brick to the face.\n\nEmotion tag: bitter and skeptical",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:21:27.406015",
+      "response_time_ms": 1335,
+      "message_length": 198,
+      "response_length": 352,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:21:17.821044",
-  "total_conversations": 1316,
+  "last_updated": "2025-10-21T00:21:27.406094",
+  "total_conversations": 1317,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
