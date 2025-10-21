@@ -23345,18 +23345,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1298,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "hmm",
+      "ai_response": "Hmm what? Are you, like, judging me or something? You asked, I told you. What else do you want me to say? I'm not exactly thrilled to be reliving my worst nightmares here.\n\nEmotion tag: on edge",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:20:08.329500",
+      "response_time_ms": 1019,
+      "message_length": 3,
+      "response_length": 193,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:19:59.963547",
-  "total_conversations": 1297,
+  "last_updated": "2025-10-21T00:20:08.329573",
+  "total_conversations": 1298,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
