@@ -22535,18 +22535,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1253,
+      "session_id": "20251021_000545_31fdfbea",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "they wouldn’t know it’s ur life anyway",
+      "ai_response": "True. They really wouldn't. It's easy to get caught up in what everyone *else* thinks you should be doing, instead of, like, what *you* actually want. I guess that's what my dad was trying to get across. Still doesn't make the whispering any less annoying, though.\n\nEmotion tag: thoughtful, but still annoyed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:15:21.119363",
+      "response_time_ms": 1352,
+      "message_length": 38,
+      "response_length": 308,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:15:15.403055",
-  "total_conversations": 1252,
+  "last_updated": "2025-10-21T00:15:21.119469",
+  "total_conversations": 1253,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
