@@ -23363,18 +23363,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1299,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I'm doing great what about you!",
+      "ai_response": "Meh, fine I guess. Just trying to get through the day. You know how it is.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:20:10.498028",
+      "response_time_ms": 847,
+      "message_length": 31,
+      "response_length": 93,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.245.82",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:20:08.329573",
-  "total_conversations": 1298,
+  "last_updated": "2025-10-21T00:20:10.498109",
+  "total_conversations": 1299,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
