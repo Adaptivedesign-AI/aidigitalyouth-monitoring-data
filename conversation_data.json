@@ -25001,18 +25001,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1390,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yes thank you!",
+      "ai_response": "Okay, okay, *I get it*. You don't want me around. Message received. Seriously, can we just drop it? I'm not gonna, like, follow you around begging for your approval. Just leave me alone, alright?\n\nEmotion tag: pissed off and wanting to disappear",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:27:47.725568",
+      "response_time_ms": 965,
+      "message_length": 14,
+      "response_length": 245,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:41.990802",
-  "total_conversations": 1389,
+  "last_updated": "2025-10-21T00:27:47.725656",
+  "total_conversations": 1390,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
