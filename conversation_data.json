@@ -21419,18 +21419,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1191,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "ok like what kind of stuff?",
+      "ai_response": "Like, I dunno exactly. Maybe some philosophy or something? I always thought that sounded kinda interesting, but I never really had the time or space for it in high school. Too much homework, too much...drama. I'm also thinking about trying a language. Spanish, maybe? It would be cool to actually be able to understand what people are saying when I go to visit my family. My mom's side all speaks Spanish. I pretend to understand, but I really don't.\n\nEmotion tag: brainstorming",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:09:17.242320",
+      "response_time_ms": 1324,
+      "message_length": 27,
+      "response_length": 478,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:09:14.645600",
-  "total_conversations": 1190,
+  "last_updated": "2025-10-21T00:09:17.242461",
+  "total_conversations": 1191,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
