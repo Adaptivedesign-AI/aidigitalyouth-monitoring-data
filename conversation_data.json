@@ -23327,18 +23327,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1297,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "do a lot of people in your school vape?",
+      "ai_response": "Yeah, unfortunately. It's like, a thing. Not everyone, obviously, but enough that it's hard to avoid. Especially in the bathrooms or near the back of the school by the parking lot. You can always smell it. Makes the whole place reek.\n\nEmotion tag: grossed out and judgmental",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:19:59.963455",
+      "response_time_ms": 1152,
+      "message_length": 39,
+      "response_length": 274,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:19:57.457134",
-  "total_conversations": 1296,
+  "last_updated": "2025-10-21T00:19:59.963547",
+  "total_conversations": 1297,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
