@@ -26495,18 +26495,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1473,
+      "session_id": "20251021_003840_a147b327",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "have you watched the middle",
+      "ai_response": "Nah, haven't seen that. Is it good? What's it even about? I'm open to anything that'll help me forget about, y'know, everything.\n\nEmotion tag: desperate for a distraction",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:40:07.702319",
+      "response_time_ms": 913,
+      "message_length": 27,
+      "response_length": 170,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.74.251",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:39:49.676885",
-  "total_conversations": 1472,
+  "last_updated": "2025-10-21T00:40:07.702517",
+  "total_conversations": 1473,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
