@@ -26027,18 +26027,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1447,
+      "session_id": "20251021_003129_a36833df",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i dont think you should see it as a weakness. you put yourself and your mental health first, which is really hard when there are all these outside pressures that make you feel like you need to stick with one thing for a long time.",
+      "ai_response": "Yeah, I guess...it just feels like everyone else can handle all the stuff and still do everything. Like, they're juggling a million things, and I'm over here dropping the one ball I was holding. Does that make sense? But I get what you're saying about mental health, it's just hard to actually believe it sometimes, you know? Especially when everyone else is like \"just keep going, no matter what.\"\n\nEmotion tag: conflicted and trying to be agreeable",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:35:39.606625",
+      "response_time_ms": 1367,
+      "message_length": 230,
+      "response_length": 450,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:35:34.907679",
-  "total_conversations": 1446,
+  "last_updated": "2025-10-21T00:35:39.606729",
+  "total_conversations": 1447,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
