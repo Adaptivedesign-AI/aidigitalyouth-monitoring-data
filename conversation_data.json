@@ -24209,18 +24209,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1346,
+      "session_id": "20251021_002311_5c0f23da",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "What in the world",
+      "ai_response": "What in the world, what? Like, what's so surprising? People aren't allowed to call BS on fake positivity now? Guess I'm just supposed to be all sunshine and rainbows all the time, huh? Newsflash: that's not how life works.\n\nEmotion tag: annoyed and defensive",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:24:02.557372",
+      "response_time_ms": 1123,
+      "message_length": 17,
+      "response_length": 258,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:24:00.019159",
-  "total_conversations": 1345,
+  "last_updated": "2025-10-21T00:24:02.557523",
+  "total_conversations": 1346,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
