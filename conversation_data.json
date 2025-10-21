@@ -21185,18 +21185,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1178,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "for real also high school is such a small part of your big life",
+      "ai_response": "Yeah, you're right. It's just... hard to remember that *now*, you know? Like, everyone makes it seem like these four years are *everything*. And all this bullying stuff... it feels huge right now, but I guess it won't matter in the long run.\n\nEmotion tag: trying to be optimistic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:08:05.022569",
+      "response_time_ms": 955,
+      "message_length": 63,
+      "response_length": 279,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:07:55.898860",
-  "total_conversations": 1177,
+  "last_updated": "2025-10-21T00:08:05.022664",
+  "total_conversations": 1178,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
