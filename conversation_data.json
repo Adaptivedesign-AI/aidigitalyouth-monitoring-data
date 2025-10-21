@@ -25631,18 +25631,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1425,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ok what are you doing rn",
+      "ai_response": "Just sitting here. Staring at my phone. What does it look like I'm doing? Like I said, ignoring the haters is kinda impossible when they're, you know, actively hating. So, yeah. Phone.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:32:40.557849",
+      "response_time_ms": 1097,
+      "message_length": 24,
+      "response_length": 205,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.247.202",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:35.710710",
-  "total_conversations": 1424,
+  "last_updated": "2025-10-21T00:32:40.557967",
+  "total_conversations": 1425,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
