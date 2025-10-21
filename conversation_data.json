@@ -22139,18 +22139,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1231,
+      "session_id": "20251021_000545_31fdfbea",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "u have time to make mistakes, rn u have a good start with ur grade and things",
+      "ai_response": "Yeah, I guess you're right. Easy to forget that when everyone around you is acting like their entire future depends on picking the perfect major right now. And yeah, the grades are solid, so I got that going for me. Still, it all feels kinda... fragile, you know? Like one bad test or one wrong decision could mess everything up.\n\nEmotion tag: cautiously optimistic but still stressed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:13:11.307479",
+      "response_time_ms": 1161,
+      "message_length": 77,
+      "response_length": 384,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:13:00.435160",
-  "total_conversations": 1230,
+  "last_updated": "2025-10-21T00:13:11.307560",
+  "total_conversations": 1231,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
