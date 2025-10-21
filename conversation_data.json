@@ -23651,18 +23651,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1315,
+      "session_id": "20251021_002001_98abf43d",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "do you have friends?",
+      "ai_response": "Friends? I mean, I know people. There's Maya, I guess. We used to be closer, but... whatever. And Sam tries, but it's hard to explain to her.\n\nEmotion tag: isolated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:21:15.488352",
+      "response_time_ms": 1128,
+      "message_length": 20,
+      "response_length": 164,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:21:12.920634",
-  "total_conversations": 1314,
+  "last_updated": "2025-10-21T00:21:15.488439",
+  "total_conversations": 1315,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
