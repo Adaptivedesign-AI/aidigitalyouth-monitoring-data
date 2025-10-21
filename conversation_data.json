@@ -21905,18 +21905,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1218,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "sure",
+      "ai_response": "\"Sure\" what? Sure, I should figure out my life plan? Sure, I can put it off forever? I'm getting mixed signals here.\n\nEmotion tag: slightly annoyed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:11:40.602987",
+      "response_time_ms": 812,
+      "message_length": 4,
+      "response_length": 147,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.202.116",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:11:35.666194",
-  "total_conversations": 1217,
+  "last_updated": "2025-10-21T00:11:40.603080",
+  "total_conversations": 1218,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
