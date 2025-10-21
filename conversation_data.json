@@ -25955,18 +25955,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1443,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "i feel you omg...",
+      "ai_response": "It's like... I don't even expect to be *included* included, if that makes sense? I just want to know things, you know? Not be the last to find out everything. Makes me feel like I'm not even a real person to them, just some background character.\n\nEmotion tag: invisible",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:35:06.487778",
+      "response_time_ms": 1050,
+      "message_length": 17,
+      "response_length": 269,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:34:45.271666",
-  "total_conversations": 1442,
+  "last_updated": "2025-10-21T00:35:06.487852",
+  "total_conversations": 1443,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
