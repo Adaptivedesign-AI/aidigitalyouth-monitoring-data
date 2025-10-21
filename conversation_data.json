@@ -25469,18 +25469,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1416,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Do you have any hobbies or anything?",
+      "ai_response": "Hobbies? I mean, I scroll through TikTok a lot. Does that count? I used to draw, like, a lot. But I haven't really done that in forever. I guess I play video games sometimes? But not really lately. It's hard to focus, you know?\n\nEmotion tag: listless",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:31:41.008524",
+      "response_time_ms": 1005,
+      "message_length": 36,
+      "response_length": 250,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:31:34.008756",
-  "total_conversations": 1415,
+  "last_updated": "2025-10-21T00:31:41.008646",
+  "total_conversations": 1416,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
