@@ -21761,18 +21761,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1210,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yup",
+      "ai_response": "Yeah, \"yup\" pretty much sums it up. Adulting is hard. Even thinking about it is hard.\n\nEmotion tag: low-key dread",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:10:52.809741",
+      "response_time_ms": 795,
+      "message_length": 3,
+      "response_length": 113,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:10:44.983381",
-  "total_conversations": 1209,
+  "last_updated": "2025-10-21T00:10:52.809839",
+  "total_conversations": 1210,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
