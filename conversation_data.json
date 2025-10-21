@@ -25415,18 +25415,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1413,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Hi, I'm doing well! It was a busy day",
+      "ai_response": "Busy how? Like, good busy or just...busy?\n\nEmotion tag: detached",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:31:07.538638",
+      "response_time_ms": 705,
+      "message_length": 37,
+      "response_length": 64,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:31:04.258825",
-  "total_conversations": 1412,
+  "last_updated": "2025-10-21T00:31:07.538755",
+  "total_conversations": 1413,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
