@@ -23759,18 +23759,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 1321,
+      "session_id": "20251021_001714_9cfdced5",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "no you're being sa hypocrite",
+      "ai_response": "Ugh, whatever. You're twisting my words. I said you *were* trying too hard, but now you're just being annoying. Like, get over it already.\n\nEmotion tag: done",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:21:43.927696",
+      "response_time_ms": 832,
+      "message_length": 28,
+      "response_length": 157,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:21:35.653818",
-  "total_conversations": 1320,
+  "last_updated": "2025-10-21T00:21:43.927781",
+  "total_conversations": 1321,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
