@@ -25595,18 +25595,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1423,
+      "session_id": "20251021_003043_9960a2ad",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Why do you say that?",
+      "ai_response": "I don't know, because if you're always waiting for something bad to happen, it kinda ruins it for everyone else, right? Like, it's a downer.\n\nEmotion tag: defensive",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:32:32.776145",
+      "response_time_ms": 1111,
+      "message_length": 20,
+      "response_length": 164,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:32:22.940625",
-  "total_conversations": 1422,
+  "last_updated": "2025-10-21T00:32:32.776237",
+  "total_conversations": 1423,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
