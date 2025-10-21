@@ -21653,18 +21653,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1204,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "both",
+      "ai_response": "Okay, good. Both. So I'm not totally crazy for thinking about just diving in. Maybe I'll check out the course catalog online tonight. See if anything looks even remotely interesting. I guess I could email the profs too, ask what the workload is like? Ugh, that's so extra though.\n\nEmotion tag: cautiously optimistic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:10:24.330209",
+      "response_time_ms": 1351,
+      "message_length": 4,
+      "response_length": 315,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:10:17.796389",
-  "total_conversations": 1203,
+  "last_updated": "2025-10-21T00:10:24.330309",
+  "total_conversations": 1204,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
