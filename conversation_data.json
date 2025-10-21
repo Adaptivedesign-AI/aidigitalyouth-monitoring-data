@@ -25883,18 +25883,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1439,
+      "session_id": "20251021_003040_5d49a427",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "ugh i hate parents like that. Oldest daughters bear the brunt of their parent's attitudes",
+      "ai_response": "Right? And then everyone expects you to be responsible and like, set a good example. But it's not fair when they don't even treat you the same. Like, I'm supposed to be the responsible one but I get yelled at for everything? Makes no sense.\n\nEmotion tag: annoyed",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:34:27.466841",
+      "response_time_ms": 1071,
+      "message_length": 89,
+      "response_length": 262,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.75.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:34:19.947399",
-  "total_conversations": 1438,
+  "last_updated": "2025-10-21T00:34:27.466957",
+  "total_conversations": 1439,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
