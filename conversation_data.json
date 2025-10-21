@@ -22355,18 +22355,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1243,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "its ok you totally got this",
+      "ai_response": "Easy for you to say, right? I appreciate the sentiment, I guess. But you don't have to deal with it *every single day*.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:14:27.735548",
+      "response_time_ms": 787,
+      "message_length": 27,
+      "response_length": 144,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:14:16.762620",
-  "total_conversations": 1242,
+  "last_updated": "2025-10-21T00:14:27.735653",
+  "total_conversations": 1243,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
