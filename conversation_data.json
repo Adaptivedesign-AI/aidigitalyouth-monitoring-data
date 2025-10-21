@@ -24659,18 +24659,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1371,
+      "session_id": "20251021_002305_71f68a2e",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "how’s ur family",
+      "ai_response": "Why do you wanna know? It's not like they're gonna win any \"Family of the Year\" awards. They're just... there. Fighting, yelling, ignoring me. It's always something. Why does it matter anyway?\n\nEmotion tag: defensive and exhausted",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:25:48.201225",
+      "response_time_ms": 946,
+      "message_length": 15,
+      "response_length": 230,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "last_updated": "2025-10-21T00:25:44.288420",
-  "total_conversations": 1370,
+  "last_updated": "2025-10-21T00:25:48.201313",
+  "total_conversations": 1371,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
