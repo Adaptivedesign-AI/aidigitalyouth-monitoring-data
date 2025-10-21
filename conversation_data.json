@@ -25361,18 +25361,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1410,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yeah that sounds overwhelming do you have anyone to talk to",
+      "ai_response": "I mean, I see the therapist sometimes, that one time you already know about. But it's not like she can magically make everything disappear. And talking to my parents? Forget about it. They'd just tell me to try harder or something equally useless.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:30:42.529461",
+      "response_time_ms": 1018,
+      "message_length": 59,
+      "response_length": 270,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:30:25.584218",
-  "total_conversations": 1409,
+  "last_updated": "2025-10-21T00:30:42.529572",
+  "total_conversations": 1410,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
