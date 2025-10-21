@@ -22211,18 +22211,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1235,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hmm maybe talk to a therapist",
+      "ai_response": "Yeah, maybe. It's not like I haven't thought about it. But seriously, what's a therapist gonna do, magically make people stop being jerks? I doubt it. Plus, it's not exactly something I feel like opening up about to some stranger. I don't know, it just feels... awkward. And what if they tell my parents? Ugh, that would be a disaster.\n\nEmotion tag: skeptical and reluctant",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:13:25.774811",
+      "response_time_ms": 1225,
+      "message_length": 29,
+      "response_length": 373,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.154",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:13:21.519310",
-  "total_conversations": 1234,
+  "last_updated": "2025-10-21T00:13:25.774910",
+  "total_conversations": 1235,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
