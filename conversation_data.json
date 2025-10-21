@@ -25073,18 +25073,36 @@
       "hour": 0,
       "ip_address": "10.220.75.200",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1394,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "who's them?? whats going on r u ok",
+      "ai_response": "Fine, I guess. \"Them\" is, like, this group of people who think it's hilarious to make my life a living hell. Seriously, they never stop. They're always whispering and laughing when I walk by, or they leave stupid notes on my desk in class. It's just... relentless. I don't even know what I did to make them hate me so much.\n\nEmotion tag: exhausted and frustrated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:07.115375",
+      "response_time_ms": 1176,
+      "message_length": 34,
+      "response_length": 362,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:27:58.403457",
-  "total_conversations": 1393,
+  "last_updated": "2025-10-21T00:28:07.115452",
+  "total_conversations": 1394,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
