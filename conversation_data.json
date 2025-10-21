@@ -25973,18 +25973,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1444,
+      "session_id": "20251021_002716_ab191660",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i dont think it has to match your reality, i personally find some way i relate to the characters",
+      "ai_response": "I mean, okay, good for you? I guess I just don't get it. If it's completely different from my life, it just feels... pointless. Like, why am I even watching this? I guess some people are good at disconnecting, but I just can't seem to do it. It all just feels like a reminder of how much my life sucks.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:35:18.411609",
+      "response_time_ms": 1180,
+      "message_length": 96,
+      "response_length": 323,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:35:06.487852",
-  "total_conversations": 1443,
+  "last_updated": "2025-10-21T00:35:18.411719",
+  "total_conversations": 1444,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
