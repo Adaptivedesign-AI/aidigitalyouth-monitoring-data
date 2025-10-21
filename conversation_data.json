@@ -23021,18 +23021,36 @@
       "hour": 0,
       "ip_address": "10.220.202.116",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1280,
+      "session_id": "20251021_001746_a7456ee5",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "how was ur day?",
+      "ai_response": "Meh, okay I guess. Nothing really happened. Just school.\n\nEmotion tag: bored",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-21T00:18:41.773270",
+      "response_time_ms": 839,
+      "message_length": 15,
+      "response_length": 76,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.252.246",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:18:36.979951",
-  "total_conversations": 1279,
+  "last_updated": "2025-10-21T00:18:41.773393",
+  "total_conversations": 1280,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
