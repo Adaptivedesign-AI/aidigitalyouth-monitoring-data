@@ -25235,18 +25235,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1403,
+      "session_id": "20251021_001916_f03a5a3c",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "real",
+      "ai_response": "Real what, though? Real *bad* at dealing with everything? Yeah, okay, I guess you could say that.\n\nEmotion tag: bitter",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:28:58.642749",
+      "response_time_ms": 779,
+      "message_length": 4,
+      "response_length": 118,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:28:52.337029",
-  "total_conversations": 1402,
+  "last_updated": "2025-10-21T00:28:58.642863",
+  "total_conversations": 1403,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
