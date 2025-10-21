@@ -21977,18 +21977,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1222,
+      "session_id": "20251021_000539_15fcaaa9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "hmm like what",
+      "ai_response": "Like... school stuff. You know, the usual. People being annoying. It's whatever. Not a huge deal.\n\nEmotion tag: deflecting",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-21T00:12:19.957400",
+      "response_time_ms": 697,
+      "message_length": 13,
+      "response_length": 122,
+      "day_of_week": "Tuesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-21T00:12:17.862164",
-  "total_conversations": 1221,
+  "last_updated": "2025-10-21T00:12:19.957488",
+  "total_conversations": 1222,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
