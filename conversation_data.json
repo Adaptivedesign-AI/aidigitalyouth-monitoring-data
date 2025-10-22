@@ -27107,18 +27107,36 @@
       "hour": 0,
       "ip_address": "10.220.62.81",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1507,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I'm good how about you",
+      "ai_response": "Fine, I guess. Just another day, you know?\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:13:54.132232",
+      "response_time_ms": 638,
+      "message_length": 22,
+      "response_length": 61,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:13:41.469684",
-  "total_conversations": 1506,
+  "last_updated": "2025-10-22T00:13:54.132365",
+  "total_conversations": 1507,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
