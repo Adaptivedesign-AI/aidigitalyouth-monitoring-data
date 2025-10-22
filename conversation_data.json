@@ -27143,18 +27143,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1509,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Honestly, I get it. I've definitely been in your shoes before. In high school, there have been times where I would present in class or raise my hand to give a comment and I would stutter or stammer. I would hear my peers snicker at me and hide their laughter, as if I was a class clown or something. Over time, and trust me it was a difficult process, I've learned to just focus on myself and try to filter out those judgmental behaviors.",
+      "ai_response": "I guess... yeah, I can see that. Like, if I just ignore them, maybe they'll get bored or something? But it's not that easy, you know? It's like they're always there, waiting for me to mess up or react. And then they win.\n\nEmotion tag: skeptical and tired",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:14:28.249472",
+      "response_time_ms": 1346,
+      "message_length": 438,
+      "response_length": 254,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:14:09.841357",
-  "total_conversations": 1508,
+  "last_updated": "2025-10-22T00:14:28.249567",
+  "total_conversations": 1509,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
