@@ -27035,18 +27035,36 @@
       "hour": 0,
       "ip_address": "10.220.140.65",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1503,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "That sucks, Lucas. I'm sorry that happened to you. That's really disrespectful and rude of them. You shouldn't let their immature behavior affect you.",
+      "ai_response": "Yeah, easy for you to say, right? \"Don't let it affect you.\" Like I can just switch off my feelings or something. I know it's stupid, and I shouldn't care, but it's hard when it's constant. Like, I'm just trying to get to class, and I have to deal with these jerks.\n\nEmotion tag: annoyed and helpless",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:12:14.712819",
+      "response_time_ms": 1151,
+      "message_length": 150,
+      "response_length": 300,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.16.91",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:12:10.834942",
-  "total_conversations": 1502,
+  "last_updated": "2025-10-22T00:12:14.712907",
+  "total_conversations": 1503,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
