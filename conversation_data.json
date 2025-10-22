@@ -27863,18 +27863,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1549,
+      "session_id": "20251022_002614_0a997c98",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "I'm okay, a bit tired and we're not halfway through the week yet :( how are you?",
+      "ai_response": "Ugh, tell me about it. This week is dragging. I'm alright, I guess. Kinda just going through the motions, you know? PE was brutal today, coach is making us do extra drills cause of the last game.\n\nEmotion tag: blah",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:26:33.738160",
+      "response_time_ms": 885,
+      "message_length": 80,
+      "response_length": 214,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:26:05.654916",
-  "total_conversations": 1548,
+  "last_updated": "2025-10-22T00:26:33.738262",
+  "total_conversations": 1549,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
