@@ -27449,18 +27449,36 @@
       "hour": 0,
       "ip_address": "10.220.74.251",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1526,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "You're still someone that's growing and learning about the world, you know? Your parents have been through these similar situations too when they were a kid. They might have some valuable insight and can help you through these situations using their own experiences and advice",
+      "ai_response": "I guess. My mom always says, \"They're just jealous because you're smart and athletic,\" which is, like, totally eye-roll worthy. I mean, maybe she's right, but it doesn't make it any less annoying *now*.\n\nAnd my dad just gets all protective and wants to call the school and yell at people, which is the *last* thing I want. Can you imagine how much worse that would make things?\n\nEmotion tag: exasperated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:19:45.285511",
+      "response_time_ms": 1357,
+      "message_length": 276,
+      "response_length": 403,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:19:39.413981",
-  "total_conversations": 1525,
+  "last_updated": "2025-10-22T00:19:45.285604",
+  "total_conversations": 1526,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
