@@ -28421,18 +28421,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1580,
+      "session_id": "20251022_003538_71c40d8b",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yea it definitely is exhausting have you done anything about it to get away from it",
+      "ai_response": "Not really, tbh. I mean, what *can* I do? It's not like I can just disappear. I try to avoid certain hallways or groups of people, but this school is small, you know? And muting people online only does so much when they just make new accounts or spread stuff through other people.\n\nI guess I should probably talk to someone, like a counselor or something, but... I don't know. It just feels like a waste of time. Like they'll just tell me to \"ignore it\" or \"be the bigger person,\" and that's not gonna stop anything. Plus, I hate talking about this stuff. It makes me feel even worse.\n\nEmotion tag: hopeless and trapped",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:44:08.163538",
+      "response_time_ms": 1597,
+      "message_length": 83,
+      "response_length": 619,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.140.65",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:43:09.134616",
-  "total_conversations": 1579,
+  "last_updated": "2025-10-22T00:44:08.163617",
+  "total_conversations": 1580,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
