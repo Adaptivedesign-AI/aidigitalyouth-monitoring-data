@@ -27377,18 +27377,36 @@
       "hour": 0,
       "ip_address": "10.220.108.218",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1522,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "There definitely is a guilt factor there, but as a true friend, they should be there for you during your lowest moments. Whenever my closest friends are feeling down about something, even if it doesn't seem like a big deal to me, I am still going to be present and available to them and support them regardless. That's what genuine friends are for! Also, leaning on family can be a positive way to talk about your emotions and gain perspective as well as comfort.",
+      "ai_response": "I know, I know. It's just hard to believe sometimes, you know? Like, why *would* they wanna deal with my crap? They've got their own lives and their own problems. I don't wanna be a burden.\n\nAnd yeah, my family is cool, but I don't always wanna bother them with this stuff either. It feels... petty, I guess? Like, they have real problems to worry about, and I'm complaining about some dumb kids being jerks. I feel like I should be able to handle it myself.\n\nEmotion tag: conflicted and ashamed",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:18:51.652661",
+      "response_time_ms": 1594,
+      "message_length": 463,
+      "response_length": 495,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:18:19.863591",
-  "total_conversations": 1521,
+  "last_updated": "2025-10-22T00:18:51.652752",
+  "total_conversations": 1522,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
