@@ -28295,18 +28295,36 @@
       "hour": 0,
       "ip_address": "10.220.115.134",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1573,
+      "session_id": "20251022_002727_b2120e72",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yeah you're right, but it's better than bottling things up right? i tend to feel that my emotions fester if i don't talk about it and make it a tangible thing to combat",
+      "ai_response": "I guess. I mean, I get what you're saying. Bottling stuff up definitely isn't great, it just explodes eventually. But...talking feels like opening Pandora's Box sometimes, you know? Like once you start, you can't stop, and then all the ugly comes spilling out, and everyone sees how messed up you really are. And then what? Then they just confirm what you already suspect - that you're too much, too broken, too whatever. So yeah, maybe it's \"better\" to talk, but it sure as hell doesn't feel like it. Feels like trading one kind of pain for another.\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:31:45.605766",
+      "response_time_ms": 1557,
+      "message_length": 168,
+      "response_length": 573,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:31:39.471819",
-  "total_conversations": 1572,
+  "last_updated": "2025-10-22T00:31:45.605860",
+  "total_conversations": 1573,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
