@@ -28331,18 +28331,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1575,
+      "session_id": "20251022_003538_71c40d8b",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Im good what about you",
+      "ai_response": "Fine, I guess. Just trying to get through the day, you know? School is...school.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:41:40.589715",
+      "response_time_ms": 830,
+      "message_length": 22,
+      "response_length": 99,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.5.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:32:42.253916",
-  "total_conversations": 1574,
+  "last_updated": "2025-10-22T00:41:40.589828",
+  "total_conversations": 1575,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
