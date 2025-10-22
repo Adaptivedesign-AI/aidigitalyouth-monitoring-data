@@ -28007,18 +28007,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1557,
+      "session_id": "20251022_002727_b2120e72",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "those kind of days are super relatable. anything on your mind?",
+      "ai_response": "Same old crap, honestly. Just trying to ignore everyone staring. Feels like I'm in a zoo or something.\n\nEmotion tag: tired and watched",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:27:58.288185",
+      "response_time_ms": 918,
+      "message_length": 62,
+      "response_length": 134,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:27:39.030088",
-  "total_conversations": 1556,
+  "last_updated": "2025-10-22T00:27:58.288267",
+  "total_conversations": 1557,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
