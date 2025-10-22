@@ -27395,18 +27395,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1523,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "maybe you should do something about that would solve the entire problem?",
+      "ai_response": "Like, you mean, tell someone? I thought about it. I even started writing something up for the principal once, but I trashed it.\n\nIt's just...what's the point? They'll just say they didn't do anything, or that I'm overreacting. And then it'll be *worse* because they'll know I snitched.\n\nBesides, it's not like they're, like, physically attacking me or anything. It's just a bunch of little things. And I don't even know, maybe it's all in my head, you know? Maybe I'm just being paranoid.\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:18:56.322584",
+      "response_time_ms": 1509,
+      "message_length": 72,
+      "response_length": 511,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:18:51.652752",
-  "total_conversations": 1522,
+  "last_updated": "2025-10-22T00:18:56.322667",
+  "total_conversations": 1523,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
