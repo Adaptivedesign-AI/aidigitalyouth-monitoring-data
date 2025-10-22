@@ -26981,18 +26981,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1500,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Oh no! If you're comfortable sharing, what happened?",
+      "ai_response": "It's just... this group of guys, they keep messing with me. Like, whispering stuff when I walk by, bumping into me at my locker. Today, someone held up their phone like they were recording when I was trying to get my books. It's stupid, but it makes me feel like crap.\n\nEmotion tag: frustrated and watched",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:11:16.071655",
+      "response_time_ms": 1195,
+      "message_length": 52,
+      "response_length": 305,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:10:48.658067",
-  "total_conversations": 1499,
+  "last_updated": "2025-10-22T00:11:16.071740",
+  "total_conversations": 1500,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
