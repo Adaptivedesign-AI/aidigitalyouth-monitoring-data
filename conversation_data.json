@@ -27755,18 +27755,36 @@
       "hour": 0,
       "ip_address": "10.220.115.134",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1543,
+      "session_id": "20251022_001918_aabd7313",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i moslty watch the anime cause getting all the manga can get expensive but i usually get the ones from episdoes i like. i have a shelf of manga at home and it is pretty satisfying to look at",
+      "ai_response": "That's so cool that you have a whole shelf! I wish I had the space for that. And yeah, manga's def expensive. My parents don't really get it, so I have to save up my own money to buy them. It's kinda annoying. I'm hoping to get the next volume of \"My Hero Academia\" soon.\n\nEmotion tag: jealous and a little sad",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:24:41.445292",
+      "response_time_ms": 1045,
+      "message_length": 190,
+      "response_length": 310,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.74.251",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:24:07.450161",
-  "total_conversations": 1542,
+  "last_updated": "2025-10-22T00:24:41.445411",
+  "total_conversations": 1543,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
