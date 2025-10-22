@@ -27485,18 +27485,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1528,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yea have to you talk to a school counselor or someone who actually could help solve the issue",
+      "ai_response": "Ugh, a school counselor? Seriously? It's like, that's what they *want* me to do, right? Go running to them with my problems so they can feel like they're \"helping.\"\n\nI don't know. I guess I'm just not sure they'd really *get* it. And what if they tell my parents? I really don't want them involved. They'd freak out.\n\nEmotion tag: skeptical and trapped",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:20:17.036070",
+      "response_time_ms": 1453,
+      "message_length": 93,
+      "response_length": 352,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:20:12.329468",
-  "total_conversations": 1527,
+  "last_updated": "2025-10-22T00:20:17.036173",
+  "total_conversations": 1528,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
