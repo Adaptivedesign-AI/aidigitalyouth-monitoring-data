@@ -27683,18 +27683,36 @@
       "hour": 0,
       "ip_address": "10.220.245.82",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1539,
+      "session_id": "20251022_001918_aabd7313",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i like haikyuu and spyxfamily. how about you?",
+      "ai_response": "OMG, I LOVE Spy x Family! Anya is the cutest. And Haikyuu is awesome too, even though I'm not really into sports. I've watched both of those like a million times. I'm also super into \"My Hero Academia\" and \"Fruits Basket.\" It's kinda old, but the new version is so good.\n\nEmotion tag: excited",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:23:03.062661",
+      "response_time_ms": 1128,
+      "message_length": 45,
+      "response_length": 292,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:22:46.129139",
-  "total_conversations": 1538,
+  "last_updated": "2025-10-22T00:23:03.062769",
+  "total_conversations": 1539,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
