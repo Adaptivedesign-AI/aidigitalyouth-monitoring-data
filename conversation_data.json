@@ -27161,18 +27161,36 @@
       "hour": 0,
       "ip_address": "10.220.122.125",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1510,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "yea i definitely get that",
+      "ai_response": "It's like the days just blur together, right? Wake up, school, maybe some basketball practice if I'm not too burnt out, homework, sleep, repeat. I'm so ready for this year to be over.\n\nEmotion tag: restless",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:14:32.972173",
+      "response_time_ms": 984,
+      "message_length": 25,
+      "response_length": 206,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:14:28.249567",
-  "total_conversations": 1509,
+  "last_updated": "2025-10-22T00:14:32.972306",
+  "total_conversations": 1510,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
