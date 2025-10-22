@@ -28187,18 +28187,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1567,
+      "session_id": "20251022_002727_b2120e72",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "it's a never ending loop. i really feel this too. I've gone into these kind of spirals before, like pent up emotions from various societal pressures and people's behaviors affecting my mood.",
+      "ai_response": "Yeah, spirals... that's exactly it. Like, you try to ignore it, push it down, but then something else happens, and suddenly you're back at square one, or even worse. It's like being trapped in a maze and every turn just leads you back to the same dead end. It's exhausting.\n\nEmotion tag: resigned",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:30:24.305466",
+      "response_time_ms": 1097,
+      "message_length": 190,
+      "response_length": 296,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.115.134",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:30:21.390166",
-  "total_conversations": 1566,
+  "last_updated": "2025-10-22T00:30:24.305555",
+  "total_conversations": 1567,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
