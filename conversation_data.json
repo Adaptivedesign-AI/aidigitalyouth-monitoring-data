@@ -28349,18 +28349,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1576,
+      "session_id": "20251022_003538_71c40d8b",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "yea make sense",
+      "ai_response": "Yeah, totally. Some days it feels like I'm just going through the motions, waiting for it to be over. Like, what's even the point?\n\nEmotion tag: blank",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:41:49.934387",
+      "response_time_ms": 830,
+      "message_length": 14,
+      "response_length": 150,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.145.138",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:41:40.589828",
-  "total_conversations": 1575,
+  "last_updated": "2025-10-22T00:41:49.934501",
+  "total_conversations": 1576,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
