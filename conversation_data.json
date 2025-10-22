@@ -27233,18 +27233,36 @@
       "hour": 0,
       "ip_address": "10.220.16.91",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1514,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "emm understandable",
+      "ai_response": "Yeah, exactly. Like, I *know* I should probably try new stuff, but finding the energy is a whole other thing. It's easier to just stick to the routine, even if it's boring. Plus, with all the senior year stuff coming up – college apps, figuring out prom, graduation, ugh – it feels like there's even less time.\n\nEmotion tag: overwhelmed",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:15:19.360457",
+      "response_time_ms": 1288,
+      "message_length": 18,
+      "response_length": 336,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:15:03.435656",
-  "total_conversations": 1513,
+  "last_updated": "2025-10-22T00:15:19.360640",
+  "total_conversations": 1514,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
