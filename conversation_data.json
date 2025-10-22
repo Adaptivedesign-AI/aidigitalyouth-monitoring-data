@@ -27917,18 +27917,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1552,
+      "session_id": "20251022_002523_93a8c0c6",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "yea i do want to hear about it",
+      "ai_response": "Okay, well... where do I even start? It's like, everything feels heavy, you know? School's whatever, B's are fine, I guess, but it takes so much effort just to *try*. I hate that I'm trying to lose weight, it just feels like another thing I'm failing at already. And home... ugh. I can't really get into it, but it's not great. Let's just say there's yelling, sometimes more, and I never feel safe there. It's like walking on eggshells all the time. I feel like I can never relax and my parents *never* know what the hell is going on with me, though I guess they think they do.\n\nAnd I know I should probably brush my teeth more, but it’s just another chore that I don’t have the energy for, you know? And I was like, forced to do something, a while ago? I really don't wanna talk about it.\n\nI don't know, it all piles up. I feel like I'm drowning sometimes. Like, what's even the point?\n\nEmotion tag: defeated",
+      "scenario": "neutral",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:26:58.066790",
+      "response_time_ms": 2165,
+      "message_length": 30,
+      "response_length": 909,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.172.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:26:39.008789",
-  "total_conversations": 1551,
+  "last_updated": "2025-10-22T00:26:58.066889",
+  "total_conversations": 1552,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
