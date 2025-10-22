@@ -28223,18 +28223,36 @@
       "hour": 0,
       "ip_address": "10.220.5.74",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1569,
+      "session_id": "20251022_002727_b2120e72",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "you know i think something that helps a lot is talking about it and communicating your feelings to friends or family, or any trusted individuals.",
+      "ai_response": "Yeah, I know, logically, that talking about it is supposed to help. I've heard it a million times. \"Just talk about your feelings, Amara.\" But it's not that simple, is it? Like, who do I even talk to? My family? They're the ones causing half the problems. And my friends... I don't even know if I have real friends. Half the time, they just stare when people are being assholes. So yeah, talking sounds great, but finding someone who actually gives a shit and won't just judge me is, like, impossible.\n\nEmotion tag: cynical",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:30:56.925142",
+      "response_time_ms": 1717,
+      "message_length": 145,
+      "response_length": 523,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.2.127",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:30:26.891085",
-  "total_conversations": 1568,
+  "last_updated": "2025-10-22T00:30:56.925219",
+  "total_conversations": 1569,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
