@@ -27611,18 +27611,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1535,
+      "session_id": "20251022_001918_aabd7313",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "i like anime too! it's really hard to gauge if other people will see it as cool too though",
+      "ai_response": "Oh, seriously? Which ones do you watch? Maybe we have some of the same ones. It's just... at school, people are so judge-y about that kind of stuff. Like, if you're not into whatever the trendy show is, you're basically a loser. So it's cool that you're not like that.\n\nEmotion tag: cautiously optimistic",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:22:22.640590",
+      "response_time_ms": 1195,
+      "message_length": 90,
+      "response_length": 304,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:22:00.698191",
-  "total_conversations": 1534,
+  "last_updated": "2025-10-22T00:22:22.640696",
+  "total_conversations": 1535,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
