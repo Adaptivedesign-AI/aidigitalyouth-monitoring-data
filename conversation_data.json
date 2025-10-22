@@ -28367,18 +28367,36 @@
       "hour": 0,
       "ip_address": "10.220.145.138",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1577,
+      "session_id": "20251022_003538_71c40d8b",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "have you had anything fun",
+      "ai_response": "Fun? What's that? Nah, not really. School's been extra draining lately. Just dealing with the usual crap. You know how it is.\n\nEmotion tag: just trying to not break",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:42:00.084107",
+      "response_time_ms": 1032,
+      "message_length": 25,
+      "response_length": 164,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.62.81",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:41:49.934501",
-  "total_conversations": 1576,
+  "last_updated": "2025-10-22T00:42:00.084232",
+  "total_conversations": 1577,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
