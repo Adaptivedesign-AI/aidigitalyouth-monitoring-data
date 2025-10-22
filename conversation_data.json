@@ -27359,18 +27359,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1521,
+      "session_id": "20251022_001340_c791a9b9",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "It wouldn't what can be worse than that",
+      "ai_response": "Dude, you don't even *know*. You think those guys are just some background noise, right? Like, I can just tune them out. But it's more than that.\n\nIt's the constant feeling of being watched, judged. It's the whispers that I *know* are about me, even if I can't hear exactly what they're saying. It's the way people avoid eye contact, or the smirks when I walk by. It piles up, you know? It makes me second-guess everything I do.\n\nSo, yeah, it could get worse. They could start spreading rumors, or try to mess with my stuff, or… I don't even wanna think about it. New things, new situations...they give them *more* material. More ways to get under my skin.\n\nEmotion tag: worried",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:18:19.863487",
+      "response_time_ms": 1957,
+      "message_length": 39,
+      "response_length": 678,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.108.218",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:17:01.897883",
-  "total_conversations": 1520,
+  "last_updated": "2025-10-22T00:18:19.863591",
+  "total_conversations": 1521,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
