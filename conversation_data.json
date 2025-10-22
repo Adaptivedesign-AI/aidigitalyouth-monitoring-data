@@ -28403,18 +28403,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1579,
+      "session_id": "20251022_003538_71c40d8b",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "ohh icic when the hard to focus started",
+      "ai_response": "It's kinda always been hard to focus, tbh. But it's been way worse lately, like since the school year started. It's not just in class, but like, all the time. Even when I'm trying to watch a show or something, my mind just wanders. It's like my brain is a TV with a bad signal, just constant static. And all the other stuff just makes it even harder, like, trying to pay attention when you know people are whispering about you or waiting for the next notification to drop. It's exhausting.\n\nEmotion tag: completely drained",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:43:09.134523",
+      "response_time_ms": 1716,
+      "message_length": 39,
+      "response_length": 522,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:42:22.301902",
-  "total_conversations": 1578,
+  "last_updated": "2025-10-22T00:43:09.134616",
+  "total_conversations": 1579,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
