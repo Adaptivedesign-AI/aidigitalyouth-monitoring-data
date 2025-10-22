@@ -27305,18 +27305,36 @@
       "hour": 0,
       "ip_address": "10.220.172.217",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1518,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "I've thought that way too, like maybe if I stop reacting people will turn away and find something else to taunt or make fun of. I realized that wasn't the case, as people always like to belittle others to make themselves feel better. Instead of just straight up ignoring (as you mentioned it's quite difficult), find people that truly care about you and lean on them. Keep those that mean a lot to you close as they would support you through these challenging times.",
+      "ai_response": "Yeah, that's what my parents and my friends keep saying, too. \"Just ignore them,\" or \"They're just jealous.\" Like, okay, maybe. But it still sucks. It's not like I can just *not* hear them when they're saying stuff or pretending to trip me in the hallway. And it's not like I can just unsee the stuff they post online. It's like... it's everywhere.\n\nI guess focusing on my friends would help. But sometimes I feel like I'm bringing them down, you know? Like they have to deal with my drama now, too.\n\nEmotion tag: frustrated and guilty",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:16:56.262076",
+      "response_time_ms": 1594,
+      "message_length": 466,
+      "response_length": 535,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.245.82",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:16:34.699526",
-  "total_conversations": 1517,
+  "last_updated": "2025-10-22T00:16:56.262154",
+  "total_conversations": 1518,
   "twins_chatted": [
-    "lucas",
     "kaiya",
     "ethan",
     "amara",
+    "hana",
     "jaden",
     "mateo",
-    "hana"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
