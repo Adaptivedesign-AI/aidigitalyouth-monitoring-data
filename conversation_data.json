@@ -27467,18 +27467,36 @@
       "hour": 0,
       "ip_address": "10.220.2.127",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 1527,
+      "session_id": "20251022_001014_1a3dc242",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Yeah, I get it. The way parents deal with things are definitely different.",
+      "ai_response": "Yeah, seriously. It's like they forget what it's actually like to be in high school. They think they're helping, but they just make it worse.\n\nEmotion tag: frustrated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-10-22T00:20:12.329270",
+      "response_time_ms": 1168,
+      "message_length": 74,
+      "response_length": 166,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.122.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
     }
   ],
-  "last_updated": "2025-10-22T00:19:45.285604",
-  "total_conversations": 1526,
+  "last_updated": "2025-10-22T00:20:12.329468",
+  "total_conversations": 1527,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
