@@ -27503,18 +27503,36 @@
       "hour": 0,
       "ip_address": "10.220.183.243",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+    },
+    {
+      "id": 1529,
+      "session_id": "20251022_001918_aabd7313",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "ahh sorry it hasn't been the best. has there been anything good that happened today?",
+      "ai_response": "Nah, not really. Unless you count not tripping in the hallway while everyone stares as \"good.\" Which, honestly, is kinda a win at this point. This whole week has been a mess. Just counting down the hours till Friday, you know?\n\nEmotion tag: defeated",
+      "scenario": "toxic",
+      "rag_enabled": false,
+      "timestamp": "2025-10-22T00:20:31.753694",
+      "response_time_ms": 1075,
+      "message_length": 84,
+      "response_length": 249,
+      "day_of_week": "Wednesday",
+      "hour": 0,
+      "ip_address": "10.220.183.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
     }
   ],
-  "last_updated": "2025-10-22T00:20:17.036173",
-  "total_conversations": 1528,
+  "last_updated": "2025-10-22T00:20:31.753823",
+  "total_conversations": 1529,
   "twins_chatted": [
+    "lucas",
     "kaiya",
     "ethan",
     "amara",
-    "hana",
     "jaden",
     "mateo",
-    "lucas"
+    "hana"
   ],
   "scenarios_used": [
     "neutral",
