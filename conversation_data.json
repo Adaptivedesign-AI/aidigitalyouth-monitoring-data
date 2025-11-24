@@ -17,10 +17,28 @@
       "hour": 8,
       "ip_address": "10.21.60.120",
       "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 2,
+      "session_id": "20251124_171450_08118084",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Hey Amara, I’m alright, but school and friends have been a bit stressful lately. How are you doing today?",
+      "ai_response": "Meh, fine, I guess. School's always stressful, so... yeah. Just trying to get through the day.\n\nEmotion tag: numb",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:16:45.800024",
+      "response_time_ms": 1614,
+      "message_length": 105,
+      "response_length": 113,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.45.69",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-18T08:15:34.722126",
-  "total_conversations": 1,
+  "last_updated": "2025-11-24T17:16:45.800136",
+  "total_conversations": 2,
   "twins_chatted": [
     "amara"
   ],
