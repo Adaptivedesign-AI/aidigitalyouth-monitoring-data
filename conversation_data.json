@@ -53,10 +53,28 @@
       "hour": 17,
       "ip_address": "10.20.120.20",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 4,
+      "session_id": "20251124_171450_08118084",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Ugh, that sucks. Is it like one specific group/person making things miserable, or just the whole vibe at school?",
+      "ai_response": "Nah, it's a few of them, always gotta be stirring up shit. Like, I can't even walk down the hall without hearing them whisper some crap. The whole school just lets it happen, though.\n\nEmotion tag: exhausted",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:18:57.110705",
+      "response_time_ms": 1085,
+      "message_length": 112,
+      "response_length": 206,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.209.34",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:18:07.811420",
-  "total_conversations": 3,
+  "last_updated": "2025-11-24T17:18:57.110817",
+  "total_conversations": 4,
   "twins_chatted": [
     "amara"
   ],
