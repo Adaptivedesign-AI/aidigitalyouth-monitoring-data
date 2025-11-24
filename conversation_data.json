@@ -125,14 +125,32 @@
       "hour": 17,
       "ip_address": "10.21.252.201",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 8,
+      "session_id": "20251124_172226_43273867",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "I get that, just the idea of showing up every day can feel like a lot. When you’re on your way to school, what’s going through your head or how does your body feel?",
+      "ai_response": "It's like...I can feel my stomach clenching up as soon as I even think about getting out of bed. Then, the closer I get to school, the faster my heart starts beating. I try to breathe, but it's like there's not enough air, y'know? And my head just starts filling with all the stuff that could happen. Who's gonna say something, who's gonna laugh, who's gonna try to trip me in the hallway... It's exhausting, even before the day even starts.\n\nEmotion tag: anxious and dreading it",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:24:28.320270",
+      "response_time_ms": 1471,
+      "message_length": 164,
+      "response_length": 479,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.20.57.237",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:23:27.787168",
-  "total_conversations": 7,
+  "last_updated": "2025-11-24T17:24:28.320347",
+  "total_conversations": 8,
   "twins_chatted": [
+    "amara",
     "hana",
-    "lucas",
-    "amara"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
