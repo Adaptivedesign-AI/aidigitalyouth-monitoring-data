@@ -143,14 +143,32 @@
       "hour": 17,
       "ip_address": "10.20.57.237",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 9,
+      "session_id": "20251124_172226_43273867",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Honestly, that sounds like way too much for anyone to deal with, it’s not just you being “too sensitive.” What kinds of things do people usually say or do that make you feel that way?",
+      "ai_response": "It's not like one big thing, y'know? It's just a bunch of little stuff that adds up. Like, they call me names... stupid stuff like \"slant eyes\" or \"fresh off the boat,\" even though I was born here. And they make fun of my clothes sometimes, saying I dress like a grandma or something.\n\nThen there's the stuff they *do*. Like bumping into me in the hallways, or \"accidentally\" spilling stuff on me in the cafeteria. Or leaving those stupid notes on my locker, with dumb drawings and stuff. It's like they're always watching, waiting for me to mess up so they can laugh.\n\nEmotion tag: tired and angry",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:25:27.488747",
+      "response_time_ms": 1597,
+      "message_length": 183,
+      "response_length": 598,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.20.80.107",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:24:28.320347",
-  "total_conversations": 8,
+  "last_updated": "2025-11-24T17:25:27.488818",
+  "total_conversations": 9,
   "twins_chatted": [
-    "amara",
+    "lucas",
     "hana",
-    "lucas"
+    "amara"
   ],
   "scenarios_used": [
     "neutral",
