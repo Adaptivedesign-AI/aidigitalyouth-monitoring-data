@@ -71,14 +71,34 @@
       "hour": 17,
       "ip_address": "10.21.209.34",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 5,
+      "session_id": "20251124_172000_365892c7",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Hey Lucas, I’m good. What have you been into lately — sports, clubs, or any hobbies you’re excited about?",
+      "ai_response": "It's pretty much all sports right now, to be honest. Team's been doing pre-season workouts, which is taking up most of my free time. Trying to get ready for tryouts next month. Other than that, just the usual school grind. Not really into clubs or anything.\n\nEmotion tag: focused but tired",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:20:45.776565",
+      "response_time_ms": 1167,
+      "message_length": 105,
+      "response_length": 289,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.210.89",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:18:57.110817",
-  "total_conversations": 4,
+  "last_updated": "2025-11-24T17:20:45.776675",
+  "total_conversations": 5,
   "twins_chatted": [
+    "lucas",
     "amara"
   ],
   "scenarios_used": [
+    "neutral",
     "toxic"
   ],
   "version": "4.0"
