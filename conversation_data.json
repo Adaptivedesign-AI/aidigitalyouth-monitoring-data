@@ -89,13 +89,31 @@
       "hour": 17,
       "ip_address": "10.21.210.89",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 6,
+      "session_id": "20251124_172000_365892c7",
+      "twin_id": "lucas",
+      "twin_name": "Lucas",
+      "user_message": "Wow, that’s a lot. How do you balance all those workouts with school stuff? Do you ever feel like it’s too much?",
+      "ai_response": "I try to stay organized, I guess. I make a schedule and stick to it as much as possible. Like, homework right after practice so I don't put it off until late. And yeah, sometimes it feels like a lot, especially when tests are coming up. I just try to focus on one thing at a time and not get too stressed about the big picture. My coach keeps saying that burnout is real, so I'm trying to be smart about it and listen to my body when I need a break.\n\nEmotion tag: trying to be responsible",
+      "scenario": "neutral",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:21:36.958000",
+      "response_time_ms": 1490,
+      "message_length": 112,
+      "response_length": 488,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.45.69",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:20:45.776675",
-  "total_conversations": 5,
+  "last_updated": "2025-11-24T17:21:36.958079",
+  "total_conversations": 6,
   "twins_chatted": [
-    "lucas",
-    "amara"
+    "amara",
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
