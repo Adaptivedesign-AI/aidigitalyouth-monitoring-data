@@ -35,10 +35,28 @@
       "hour": 17,
       "ip_address": "10.21.45.69",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 3,
+      "session_id": "20251124_171450_08118084",
+      "twin_id": "amara",
+      "twin_name": "Amara",
+      "user_message": "Yeah, that sounds rough. Is it more the schoolwork that gets to you, or the people and drama around you?",
+      "ai_response": "The people, duh. Schoolwork is whatever, I can usually handle it. It's just... the constant BS.\n\nEmotion tag: irritated",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:18:07.811340",
+      "response_time_ms": 830,
+      "message_length": 104,
+      "response_length": 119,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.20.120.20",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:16:45.800136",
-  "total_conversations": 2,
+  "last_updated": "2025-11-24T17:18:07.811420",
+  "total_conversations": 3,
   "twins_chatted": [
     "amara"
   ],
