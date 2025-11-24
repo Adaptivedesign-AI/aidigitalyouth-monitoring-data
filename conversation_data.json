@@ -107,13 +107,32 @@
       "hour": 17,
       "ip_address": "10.21.45.69",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 7,
+      "session_id": "20251124_172226_43273867",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Hi Hana, I’m doing alright. If you had to pick one thing that’s been stressing you out the most recently, what would it be?",
+      "ai_response": "Ugh, everything is stressing me out. School, home... life in general. But if I HAD to pick one thing... it's probably just going to school every day. Like, the actual *going* part.\n\nEmotion tag: trying not to spiral",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:23:27.787059",
+      "response_time_ms": 973,
+      "message_length": 123,
+      "response_length": 215,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.252.201",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:21:36.958079",
-  "total_conversations": 6,
+  "last_updated": "2025-11-24T17:23:27.787168",
+  "total_conversations": 7,
   "twins_chatted": [
-    "amara",
-    "lucas"
+    "hana",
+    "lucas",
+    "amara"
   ],
   "scenarios_used": [
     "neutral",
