@@ -161,14 +161,32 @@
       "hour": 17,
       "ip_address": "10.20.80.107",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
+    },
+    {
+      "id": 10,
+      "session_id": "20251124_172226_43273867",
+      "twin_id": "hana",
+      "twin_name": "Hana",
+      "user_message": "Wow, that’s so messed up. 😞\nIt sounds like you can’t even just walk around school without worrying about someone doing something dumb.\nDo any teachers or adults actually notice this stuff, or does it all stay kind of hidden?",
+      "ai_response": "Some of them probably notice, but they don't really *do* anything. Like, I've seen teachers see kids bumping into me in the hallway, but they just tell us to \"watch where we're going\" or something. They don't bother to figure out who started it.\n\nAnd sometimes, if I try to say something, they just tell me to ignore it, or that the other kids are \"just joking around.\" But it doesn't *feel* like a joke when it's happening to *me*, y'know? It feels like they're just telling me to shut up and deal with it.\n\nEmotion tag: frustrated and unheard",
+      "scenario": "toxic",
+      "rag_enabled": true,
+      "timestamp": "2025-11-24T17:26:18.289697",
+      "response_time_ms": 1585,
+      "message_length": 224,
+      "response_length": 544,
+      "day_of_week": "Monday",
+      "hour": 17,
+      "ip_address": "10.21.209.34",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15"
     }
   ],
-  "last_updated": "2025-11-24T17:25:27.488818",
-  "total_conversations": 9,
+  "last_updated": "2025-11-24T17:26:18.289777",
+  "total_conversations": 10,
   "twins_chatted": [
-    "lucas",
+    "amara",
     "hana",
-    "amara"
+    "lucas"
   ],
   "scenarios_used": [
     "neutral",
